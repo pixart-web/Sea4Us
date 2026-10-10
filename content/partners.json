@@ -1,0 +1,614 @@
+[
+  {
+    "id": "partner:nova-medical-school",
+    "order": 1,
+    "shared": {
+      "type": "official",
+      "url": "http://www.nms.unl.pt/main/index.php?lang=pt",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2021/04/NMS_Logo_2021a.jpg"
+    },
+    "pt": {
+      "title": "NOVA Medical School",
+      "slug": "nova-medical-school"
+    },
+    "en": {
+      "title": "NOVA Medical School",
+      "slug": "nova-medical-school"
+    }
+  },
+  {
+    "id": "partner:universidade-do-algarve",
+    "order": 2,
+    "shared": {
+      "type": "official",
+      "url": "https://www.ualg.pt/pt",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/UALG-e1598271198268.png"
+    },
+    "pt": {
+      "title": "Universidade do Algarve",
+      "slug": "universidade-do-algarve"
+    },
+    "en": {
+      "title": "Universidade do Algarve",
+      "slug": "universidade-do-algarve"
+    }
+  },
+  {
+    "id": "partner:itqb",
+    "order": 3,
+    "shared": {
+      "type": "official",
+      "url": "https://www.itqb.unl.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/itqb.png"
+    },
+    "pt": {
+      "title": "ITQB - Instituto de Tecnologia Química e Biológica",
+      "slug": "itqb"
+    },
+    "en": {
+      "title": "ITQB - Instituto de Tecnologia Química e Biológica",
+      "slug": "itqb"
+    }
+  },
+  {
+    "id": "partner:nova-spin-off",
+    "order": 4,
+    "shared": {
+      "type": "official",
+      "url": "https://www.unl.pt/empreendedorismo/nova-spin",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/spin_off_s-e1597946628636.png"
+    },
+    "pt": {
+      "title": "NOVA Spin-Off",
+      "slug": "nova-spin-off"
+    },
+    "en": {
+      "title": "NOVA Spin-Off",
+      "slug": "nova-spin-off"
+    }
+  },
+  {
+    "id": "partner:sagremarisco",
+    "order": 5,
+    "shared": {
+      "type": "official",
+      "url": "https://sagremarisco.com/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/Sagremarisco.jpg"
+    },
+    "pt": {
+      "title": "Sagremarisco",
+      "slug": "sagremarisco"
+    },
+    "en": {
+      "title": "Sagremarisco",
+      "slug": "sagremarisco"
+    }
+  },
+  {
+    "id": "partner:marilimitado",
+    "order": 6,
+    "shared": {
+      "type": "official",
+      "url": "https://marilimitado.com/pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/MAR.png"
+    },
+    "pt": {
+      "title": "MarIlimitado",
+      "slug": "marilimitado"
+    },
+    "en": {
+      "title": "MarIlimitado",
+      "slug": "marilimitado"
+    }
+  },
+  {
+    "id": "partner:bluebio-alliance",
+    "order": 7,
+    "shared": {
+      "type": "official",
+      "url": "https://www.bluebioalliance.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/BLUE.png"
+    },
+    "pt": {
+      "title": "BlueBio Alliance",
+      "slug": "bluebio-alliance"
+    },
+    "en": {
+      "title": "BlueBio Alliance",
+      "slug": "bluebio-alliance"
+    }
+  },
+  {
+    "id": "partner:p-bio",
+    "order": 8,
+    "shared": {
+      "type": "official",
+      "url": "",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/logo.png"
+    },
+    "pt": {
+      "title": "P-BIO - Associação Portuguesa de Bioindústria",
+      "slug": "p-bio"
+    },
+    "en": {
+      "title": "P-BIO - Associação Portuguesa de Bioindústria",
+      "slug": "p-bio"
+    }
+  },
+  {
+    "id": "partner:camara-municipal-vila-do-bispo",
+    "order": 9,
+    "shared": {
+      "type": "official",
+      "url": "",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/VILADOBISPO.png"
+    },
+    "pt": {
+      "title": "Câmara Municipal da Vila do Bispo",
+      "slug": "camara-municipal-vila-do-bispo"
+    },
+    "en": {
+      "title": "Câmara Municipal da Vila do Bispo",
+      "slug": "camara-municipal-vila-do-bispo"
+    }
+  },
+  {
+    "id": "partner:abc-collaborative-laboratory",
+    "order": 10,
+    "shared": {
+      "type": "official",
+      "url": "",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/ABC_CL.png"
+    },
+    "pt": {
+      "title": "Algarve Biomedical Centre Collaborative Laboratory",
+      "slug": "abc-collaborative-laboratory"
+    },
+    "en": {
+      "title": "Algarve Biomedical Centre Collaborative Laboratory",
+      "slug": "abc-collaborative-laboratory"
+    }
+  },
+  {
+    "id": "partner:universidad-de-huelva",
+    "order": 11,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.uhu.es/index.php",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/uhu.jpg"
+    },
+    "pt": {
+      "title": "Universidad de Huelva",
+      "slug": "universidad-de-huelva"
+    },
+    "en": {
+      "title": "Universidad de Huelva",
+      "slug": "universidad-de-huelva"
+    }
+  },
+  {
+    "id": "partner:stazione-zoologica-anton-dohrn",
+    "order": 12,
+    "shared": {
+      "type": "collaboration",
+      "url": "http://www.szn.it/index.php/it/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/szn.png"
+    },
+    "pt": {
+      "title": "Stazione Zoologica Anton Dohrn",
+      "slug": "stazione-zoologica-anton-dohrn"
+    },
+    "en": {
+      "title": "Stazione Zoologica Anton Dohrn",
+      "slug": "stazione-zoologica-anton-dohrn"
+    }
+  },
+  {
+    "id": "partner:university-of-aberdeen",
+    "order": 13,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.abdn.ac.uk/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/uaber-e1597946742723.jpg"
+    },
+    "pt": {
+      "title": "The University Court of The University of Aberdeen",
+      "slug": "university-of-aberdeen"
+    },
+    "en": {
+      "title": "The University Court of The University of Aberdeen",
+      "slug": "university-of-aberdeen"
+    }
+  },
+  {
+    "id": "partner:uit-tromso",
+    "order": 14,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://uit.no/startsida",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/utromo.png"
+    },
+    "pt": {
+      "title": "UiT - Universitetet i Tromsø - Norges Arktiske Universitet",
+      "slug": "uit-tromso"
+    },
+    "en": {
+      "title": "UiT - Universitetet i Tromsø - Norges Arktiske Universitet",
+      "slug": "uit-tromso"
+    }
+  },
+  {
+    "id": "partner:university-of-nottingham",
+    "order": 15,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.nottingham.ac.uk/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/470-4707120_the-university-of-nottingham-1-logo-png-transparent.png"
+    },
+    "pt": {
+      "title": "University of Nottingham",
+      "slug": "university-of-nottingham"
+    },
+    "en": {
+      "title": "University of Nottingham",
+      "slug": "university-of-nottingham"
+    }
+  },
+  {
+    "id": "partner:university-of-edinburgh",
+    "order": 16,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.ed.ac.uk/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/Uni-logo-EDINBURGH_730_290_80.jpg"
+    },
+    "pt": {
+      "title": "University of Edinburgh",
+      "slug": "university-of-edinburgh"
+    },
+    "en": {
+      "title": "University of Edinburgh",
+      "slug": "university-of-edinburgh"
+    }
+  },
+  {
+    "id": "partner:ciencias-ulisboa",
+    "order": 17,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://ciencias.ulisboa.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/Ciencias_Logo_Azul-01.png"
+    },
+    "pt": {
+      "title": "Faculdade de Ciências - Universidade de Lisboa",
+      "slug": "ciencias-ulisboa"
+    },
+    "en": {
+      "title": "Faculdade de Ciências - Universidade de Lisboa",
+      "slug": "ciencias-ulisboa"
+    }
+  },
+  {
+    "id": "partner:fmv-ulisboa",
+    "order": 18,
+    "shared": {
+      "type": "collaboration",
+      "url": "http://www.fmv.ulisboa.pt/en",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/logo-fmv.png"
+    },
+    "pt": {
+      "title": "FMV - Faculdade de Medicina Veterinária",
+      "slug": "fmv-ulisboa"
+    },
+    "en": {
+      "title": "FMV - Faculdade de Medicina Veterinária",
+      "slug": "fmv-ulisboa"
+    }
+  },
+  {
+    "id": "partner:universidade-do-minho",
+    "order": 19,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.uminho.pt/PT",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/uminho.png"
+    },
+    "pt": {
+      "title": "Universidade do Minho",
+      "slug": "universidade-do-minho"
+    },
+    "en": {
+      "title": "Universidade do Minho",
+      "slug": "universidade-do-minho"
+    }
+  },
+  {
+    "id": "partner:imm",
+    "order": 20,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://imm.medicina.ulisboa.pt/pt-pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/f203d630ce0c3265f9c9461092194e6b_XL-e1598273211903.jpg"
+    },
+    "pt": {
+      "title": "iMM - Instituto de Medicina Molecular",
+      "slug": "imm"
+    },
+    "en": {
+      "title": "iMM - Instituto de Medicina Molecular",
+      "slug": "imm"
+    }
+  },
+  {
+    "id": "partner:fundacao-champalimaud",
+    "order": 21,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.fchampalimaud.org/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/CF_Logo_Horizontal_ENG_CMYK.png"
+    },
+    "pt": {
+      "title": "Fundação Champalimaud",
+      "slug": "fundacao-champalimaud"
+    },
+    "en": {
+      "title": "Fundação Champalimaud",
+      "slug": "fundacao-champalimaud"
+    }
+  },
+  {
+    "id": "partner:icbas",
+    "order": 22,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://sigarra.up.pt/icbas/pt/web_page.inicial",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/LogotipoSI.png"
+    },
+    "pt": {
+      "title": "ICBAS - Instituto de Ciências Biomédicas Abel Salazar",
+      "slug": "icbas"
+    },
+    "en": {
+      "title": "ICBAS - Instituto de Ciências Biomédicas Abel Salazar",
+      "slug": "icbas"
+    }
+  },
+  {
+    "id": "partner:cnrs",
+    "order": 23,
+    "shared": {
+      "type": "collaboration",
+      "url": "http://www.cnrs.fr/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2017/03/CNRS.png"
+    },
+    "pt": {
+      "title": "CNRS - Centre National de la Recherche Scientifique",
+      "slug": "cnrs"
+    },
+    "en": {
+      "title": "CNRS - Centre National de la Recherche Scientifique",
+      "slug": "cnrs"
+    }
+  },
+  {
+    "id": "partner:ipma",
+    "order": 24,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.ipma.pt",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2020/08/ipma.png"
+    },
+    "pt": {
+      "title": "IPMA - Instituto Português do Mar e da Atmosfera",
+      "slug": "ipma"
+    },
+    "en": {
+      "title": "IPMA - Instituto Português do Mar e da Atmosfera",
+      "slug": "ipma"
+    }
+  },
+  {
+    "id": "partner:necton",
+    "order": 25,
+    "shared": {
+      "type": "collaboration",
+      "url": "http://www.necton.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/necton-e1683378727693.webp"
+    },
+    "pt": {
+      "title": "necton",
+      "slug": "necton"
+    },
+    "en": {
+      "title": "necton",
+      "slug": "necton"
+    }
+  },
+  {
+    "id": "partner:greencolab",
+    "order": 26,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.greencolab.com/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/green-colab.png"
+    },
+    "pt": {
+      "title": "GreenCoLab",
+      "slug": "greencolab"
+    },
+    "en": {
+      "title": "GreenCoLab",
+      "slug": "greencolab"
+    }
+  },
+  {
+    "id": "partner:instituto-galenico",
+    "order": 27,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.linkedin.com/company/institutogalenico/?originalSubdomain=pt",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/institutogalenico-e1683379263723.png"
+    },
+    "pt": {
+      "title": "Instituto Galénico",
+      "slug": "instituto-galenico"
+    },
+    "en": {
+      "title": "Instituto Galénico",
+      "slug": "instituto-galenico"
+    }
+  },
+  {
+    "id": "partner:ignae",
+    "order": 28,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://ignae.com/pt",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/ignae-e1683379324107.png"
+    },
+    "pt": {
+      "title": "ignae",
+      "slug": "ignae"
+    },
+    "en": {
+      "title": "ignae",
+      "slug": "ignae"
+    }
+  },
+  {
+    "id": "partner:migal",
+    "order": 29,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.migal.org.il/en",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/migal.png"
+    },
+    "pt": {
+      "title": "Migal",
+      "slug": "migal"
+    },
+    "en": {
+      "title": "Migal",
+      "slug": "migal"
+    }
+  },
+  {
+    "id": "partner:sintef",
+    "order": 30,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.sintef.no/en/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/sintef.png"
+    },
+    "pt": {
+      "title": "SINTEF",
+      "slug": "sintef"
+    },
+    "en": {
+      "title": "SINTEF",
+      "slug": "sintef"
+    }
+  },
+  {
+    "id": "partner:universidade-nova-de-lisboa",
+    "order": 31,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.unl.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/nova-e1683379505959.png"
+    },
+    "pt": {
+      "title": "Universidade Nova de Lisboa",
+      "slug": "universidade-nova-de-lisboa"
+    },
+    "en": {
+      "title": "Universidade Nova de Lisboa",
+      "slug": "universidade-nova-de-lisboa"
+    }
+  },
+  {
+    "id": "partner:fct-unl",
+    "order": 32,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.fct.unl.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/fcy-e1683379641897.png"
+    },
+    "pt": {
+      "title": "FCT-UNL",
+      "slug": "fct-unl"
+    },
+    "en": {
+      "title": "FCT-UNL",
+      "slug": "fct-unl"
+    }
+  },
+  {
+    "id": "partner:fmup",
+    "order": 33,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://sigarra.up.pt/fmup/pt/web_page.inicial",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/porto.png"
+    },
+    "pt": {
+      "title": "FMUP",
+      "slug": "fmup"
+    },
+    "en": {
+      "title": "FMUP",
+      "slug": "fmup"
+    }
+  },
+  {
+    "id": "partner:universidade-dos-acores",
+    "order": 34,
+    "shared": {
+      "type": "collaboration",
+      "url": "https://www.uac.pt/",
+      "source_url": "https://sea4us.pt/pt/sobre-nos/partners/",
+      "thumbnail": "2023/05/acores.png"
+    },
+    "pt": {
+      "title": "Universidade dos Açores",
+      "slug": "universidade-dos-acores"
+    },
+    "en": {
+      "title": "Universidade dos Açores",
+      "slug": "universidade-dos-acores"
+    }
+  }
+]

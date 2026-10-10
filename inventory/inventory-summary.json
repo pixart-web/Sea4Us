@@ -1,0 +1,40 @@
+{
+ "by_type_lang": {
+  "home:en": 1,
+  "attachment:en": 102,
+  "post:en": 96,
+  "other:en": 1,
+  "archive:en": 84,
+  "page:en": 39,
+  "template:en": 2,
+  "home:pt": 1,
+  "attachment:pt": 102,
+  "post:pt": 96,
+  "other:pt": 1,
+  "archive:pt": 84,
+  "page:pt": 39,
+  "template:pt": 2,
+  "broken (404 on old site):": 8
+ },
+ "by_action": {
+  "keep path": 4,
+  "301 to file": 120,
+  "migrate + 301": 262,
+  "merge + 301": 8,
+  "no redirect (404)": 92,
+  "301 to parent": 78,
+  "301": 86,
+  "none": 8
+ },
+ "untranslated": 42,
+ "media_by_ext": {
+  ".png": 142,
+  ".jpg": 213,
+  ".jpeg": 26,
+  ".pdf": 13,
+  ".webp": 3,
+  ".html": 3,
+  ".mp4": 1
+ },
+ "media_total": 401
+}

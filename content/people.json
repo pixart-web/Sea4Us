@@ -1,0 +1,853 @@
+[
+ {
+  "id": "person:pedro-lima",
+  "order": 1,
+  "shared": {
+   "cofounder": true,
+   "links": "LinkedIn | https://www.linkedin.com/in/pedro-afonso-lima/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2020/08/IMG-0838S.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Pedro A. Lima",
+   "slug": "pedro-lima",
+   "excerpt": "",
+   "content": "<p><a href=\"https://www.linkedin.com/in/pedro-afonso-lima/\">Pedro</a> é um investigador sénior (doutorado), neurofisiologista, biólogo marinho e fundador da Sea4Us. Licenciado em Biologia Marinha pela Universidade do Algarve e doutorado em Neurofisiologia pela Universidade de Sheffield / Associação de Biologia Marinha de Plymouth, no Reino Unido, tem uma vasta experiência em atividades de I&amp;D, com especial ênfase na investigação científica em Neurociências e Fisiologia. Desde 2010, tem o seu laboratório na NOVA Medical School, onde ensina Fisiologia a estudantes de medicina. Pedro é responsável pela gestão geral da empresa, coordenando também a gestão de todas as atividades científicas internas e de entidades técnicas, científicas e de consultoria externas, garantindo a correta execução dos objetivos dos projetos de I&amp;D. A gestão diária das atividades de I&amp;D é apoiada por André Bastos.</p>",
+   "fields": {
+    "role": "Presidente do Conselho de Administração, Diretor-Geral; Diretor Científico",
+    "group": "Conselho de Administração",
+    "credentials": "PhD",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Pedro A. Lima",
+   "slug": "pedro-lima",
+   "excerpt": "",
+   "content": "<p>Pedro (<a href=\"https://www.linkedin.com/in/pedro-afonso-lima/\">LinkedIn</a>) is a Senior Researcher (doctorate), Neurophysiologist, Marine Biologist and founder of Sea4Us. With a degree in Marine Biology from the University of Algarve and PhD in Neurophysiology from the University of Sheffield / Plymouth Marine Biological Association of the UK, he has a vast experience in R&amp;D activities, with special emphasis on scientific research in Neurosciences and Physiology. Since 2010 he has had his laboratory at NOVA Medical School, where he teaches Physiology to medical students. Pedro is responsible for the general management of the company, coordinating also the management of all internal scientific activities and external technical, scientific and consulting entities, assuring the correct execution of the R&amp;D objectives of the projects. The daily management of R&amp;D activities is supported by André Bastos.</p>",
+   "fields": {
+    "role": "President of the Board, CEO, CSO",
+    "group": "Board of Directors",
+    "credentials": "PhD",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:nuno-leitao",
+  "order": 2,
+  "shared": {
+   "cofounder": true,
+   "links": "LinkedIn | https://www.linkedin.com/in/nuno-leitao-01a37a17/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2019/04/IMG-0851S.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Nuno Leitão",
+   "slug": "nuno-leitao",
+   "excerpt": "",
+   "content": "<p><a href=\"https://www.linkedin.com/in/nuno-leitao-01a37a17/\">Nuno</a> também é um dos fundadores da Sea4Us e o diretor financeiro e de recursos humanos da empresa, responsável pela gestão financeira, contabilidade e execução financeira geral dos projetos (solicitações de orçamento, pedidos, pagamento de faturas, contratos, gestão contabilística, apresentação de documentos legais e obrigatórios às entidades financiadoras e às autoridades contribuintes, fiscais e aduaneiras). É licenciado em Gestão e mestre em Contabilidade e Fiscalidade pela ISCTE Business School, com vários anos de experiência em gestão de projetos e Direção Financeira em várias empresas.</p>",
+   "fields": {
+    "role": "Membro do Conselho de Administração, Diretor Financeiro e de RH",
+    "group": "Conselho de Administração",
+    "credentials": "MSc",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Nuno Leitão",
+   "slug": "nuno-leitao",
+   "excerpt": "",
+   "content": "<p>Nuno (<a href=\"https://www.linkedin.com/in/nuno-leitao-01a37a17/\">LinkedIn</a>) is also one of the founders of Sea4Us and the Financial and Human Resources Manager of the company who is responsible for the Financial management, accounting and the overall financial execution of the project (budget requests, orders, payment of invoices, contracts, accounting management, submission of legal and obligatory documents to the financing entities and contributory, tax and customs authorities). He holds a Degree in Management and a Master's Degree in Accounting and Taxation from ISCTE Business School while he has several years of experience in project management and Financial Direction in several companies.</p>",
+   "fields": {
+    "role": "Board Member, CFO",
+    "group": "Board of Directors",
+    "credentials": "MSc",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:andre-bastos",
+  "order": 3,
+  "shared": {
+   "cofounder": true,
+   "links": "LinkedIn | https://www.linkedin.com/in/andr%C3%A9bastos/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2019/04/IMG-0839S.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "André Bastos",
+   "slug": "andre-bastos",
+   "excerpt": "",
+   "content": "<p><a href=\"https://www.linkedin.com/in/andr%C3%A9bastos/\">André</a> é outro dos fundadores da Sea4Us e o diretor de I&amp;D da empresa. É licenciado, mestre e doutor em Bioquímica pela Universidade de Lisboa e tem experiência em investigação científica em Neurociência e Fisiologia, desenvolvendo estudos relacionados com a neuroexcitabilidade em neurónios centrais e periféricos, utilizando técnicas eletrofisiológicas e biofísicas. Juntamente com Pedro Lima (veja acima), André é responsável pela gestão das atividades diárias internas de I&amp;D dos projetos.</p>",
+   "fields": {
+    "role": "Membro do Conselho de Administração, Gestor de I&D",
+    "group": "Conselho de Administração",
+    "credentials": "PhD",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "André Bastos",
+   "slug": "andre-bastos",
+   "excerpt": "",
+   "content": "<p>André (<a href=\"https://www.linkedin.com/in/andr%C3%A9bastos/\">LinkedIn</a>) is another of the founders of Sea4Us and the R&amp;D Manager of the company. He holds a Degree, a Master's Degree and a PhD in Biochemistry from the University of Lisbon and has experience in scientific research in Neuroscience and Physiology, developing studies related to neuroexcitability in central and peripheral neurons, by using electrophysiological and biophysical techniques. Together with Pedro Lima (see above), André is responsible for the management of the daily internal R&amp;D activities of the projects.</p>",
+   "fields": {
+    "role": "Board Member, R&D Manager",
+    "group": "Board of Directors",
+    "credentials": "PhD",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:tania-ferreira",
+  "order": 4,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/tania-catarina-ferreira/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/TaniaFerreira.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Tânia Ferreira",
+   "slug": "tania-ferreira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "COO, Gestora de Financiamento, Negócio e Inovação",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Tânia Ferreira",
+   "slug": "tania-ferreira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "COO, Funding, Business and Innovation Manager",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:maria-joao-cabeleira",
+  "order": 5,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/mariajoaocabeleira/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/MJ.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Maria João Cabeleira",
+   "slug": "maria-joao-cabeleira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestora de Projeto – Qualidade, Gestora do SGIDI",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Maria João Cabeleira",
+   "slug": "maria-joao-cabeleira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "PM Quality, SGIDI Manager",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:eduardo-moura",
+  "order": 6,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/eduardomouraphdporto/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/JoseEduardoMoura.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Eduardo Moura",
+   "slug": "eduardo-moura",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestor de Projeto de I&D, Cientista Sénior – Dor Crónica",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Eduardo Moura",
+   "slug": "eduardo-moura",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "R&D PM, Senior Scientist – Chronic Pain",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:diego-hartmann",
+  "order": 7,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/diego-hartmann-1a7b0a204/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/DiegoHartmann2bw.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Diego Hartmann",
+   "slug": "diego-hartmann",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestor de Projeto de I&D, Cientista Sénior – Responsável de Biotecnologia",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Diego Hartmann",
+   "slug": "diego-hartmann",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "R&D PM, Senior Scientist – Head of Biotechnology",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:marilia-silva",
+  "order": 8,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/mar%C3%ADlia-silva-9a93a8b9/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/MariliaSilva.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Marília Silva",
+   "slug": "marilia-silva",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestora de Projeto de I&D, Cientista Sénior – Dor Neuropática Induzida por Quimioterapia",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Marília Silva",
+   "slug": "marilia-silva",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "R&D PM, Senior Scientist – Chemotherapy Induced Neuropathic Pain",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:raquel-barros",
+  "order": 9,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/raquelbarros/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2025/12/Foto-Raquel.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Raquel Barros",
+   "slug": "raquel-barros",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestora de Projeto para Fundos Públicos",
+    "group": "Equipa de Gestão",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Raquel Barros",
+   "slug": "raquel-barros",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "PM for Public Funds",
+    "group": "Management Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:silvia-lino",
+  "order": 10,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/silvia-lino/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2020/08/IMG-0824-e1597098413463.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Sílvia Lino",
+   "slug": "silvia-lino",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Gestora de Projeto de I&D – Responsável de Gestão de Dados",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": "Biotecnologia, Biologia Marinha"
+   }
+  },
+  "en": {
+   "title": "Sílvia Lino",
+   "slug": "silvia-lino",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "R&D PM – Head of Data Management",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": "Biotechnology, Marine Biology"
+   }
+  }
+ },
+ {
+  "id": "person:beatriz-szwarc",
+  "order": 11,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/beatriz-szwarc-04449b94/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/Beatriz-Szwarc-1.jpeg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Beatriz Szwarc",
+   "slug": "beatriz-szwarc",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Responsável de Investigação Animal",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": "Eletrofisiologia, Farmacologia, Cirurgia em Roedores, Comportamento Animal"
+   }
+  },
+  "en": {
+   "title": "Beatriz Szwarc",
+   "slug": "beatriz-szwarc",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Head of Animal Research",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": "Electrophysiology, Pharmacology, Rodent Surgery, Animal Behaviour"
+   }
+  }
+ },
+ {
+  "id": "person:ana-rosa-abreu",
+  "order": 12,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/ana-rosa-abreu/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/Rosinha.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Ana Rosa Abreu",
+   "slug": "ana-rosa-abreu",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Estudante de Doutoramento",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": "Eletrofisiologia, Farmacologia, Comportamento Animal"
+   }
+  },
+  "en": {
+   "title": "Ana Rosa Abreu",
+   "slug": "ana-rosa-abreu",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "PhD Student",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": "Electrophysiology, Pharmacology, Animal Behaviour"
+   }
+  }
+ },
+ {
+  "id": "person:ana-bernardo",
+  "order": 13,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/ana-f%C3%A1tima-bernardo-790134211/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/AnaBernardo.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Ana Bernardo",
+   "slug": "ana-bernardo",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": "Biotecnologia, Bioquímica, Eletrofisiologia"
+   }
+  },
+  "en": {
+   "title": "Ana Bernardo",
+   "slug": "ana-bernardo",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": "Biotechnology, Biochemistry, Electrophysiology"
+   }
+  }
+ },
+ {
+  "id": "person:ana-chegao",
+  "order": 14,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/anachegaomonteiro/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2024/02/Ana-Chegao_foto.jpeg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Ana Chegão",
+   "slug": "ana-chegao",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Equipa Científica",
+    "credentials": "PhD",
+    "expertise": "Eletrofisiologia, Comportamento Animal"
+   }
+  },
+  "en": {
+   "title": "Ana Chegão",
+   "slug": "ana-chegao",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Scientific Team",
+    "credentials": "PhD",
+    "expertise": "Electrophysiology, Animal Behaviour"
+   }
+  }
+ },
+ {
+  "id": "person:patricia-sequeira",
+  "order": 15,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/patricia-sequeira/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2024/02/Patricia-Sequeira_Foto.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Patrícia Sequeira",
+   "slug": "patricia-sequeira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Equipa Científica",
+    "credentials": "PhD",
+    "expertise": "Biotecnologia, Química Analítica"
+   }
+  },
+  "en": {
+   "title": "Patrícia Sequeira",
+   "slug": "patricia-sequeira",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Scientific Team",
+    "credentials": "PhD",
+    "expertise": "Biotechnology, Analytical Chemistry"
+   }
+  }
+ },
+ {
+  "id": "person:daniel-vargem",
+  "order": 16,
+  "shared": {
+   "cofounder": false,
+   "links": "",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2024/04/Historia-para-Instagram-a-Castanho-Claro-e-Branco-Tradicional-com-Citacao-de-Vida-1.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Daniel Vargem",
+   "slug": "daniel-vargem",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Assistente Técnico, Mergulho",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Daniel Vargem",
+   "slug": "daniel-vargem",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Technical Assistant, Diving",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:miria-castanhar",
+  "order": 17,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/miri%C3%A3-castanhar-a431012a8/",
+   "photo_credit": "",
+   "photo_check": true,
+   "thumbnail": "2026/01/WhatsApp-Image-2026-01-06-at-11.30.24.jpeg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Miriã Castanhar",
+   "slug": "miria-castanhar",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Técnica de Laboratório",
+    "group": "Equipa Científica",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Miriã Castanhar",
+   "slug": "miria-castanhar",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Lab Technician",
+    "group": "Scientific Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:zara-marques",
+  "order": 18,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/zara-marques-901743230/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/ZaraMarques.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Zara Marques",
+   "slug": "zara-marques",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Administrativa, Controladora Financeira",
+    "group": "Equipa Administrativa",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Zara Marques",
+   "slug": "zara-marques",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Admin, Financial Controller",
+    "group": "Office Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:fernanda-barcelos",
+  "order": 19,
+  "shared": {
+   "cofounder": false,
+   "links": "LinkedIn | https://www.linkedin.com/in/fernanda-heitling-barcelos-57a7a1a3/",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2023/05/FernandaBarcelos.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Fernanda Barcelos",
+   "slug": "fernanda-barcelos",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Assistente Administrativa",
+    "group": "Equipa Administrativa",
+    "credentials": "",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Fernanda Barcelos",
+   "slug": "fernanda-barcelos",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "Admin Assistant",
+    "group": "Office Team",
+    "credentials": "",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:filipe-vilas-boas",
+  "order": 20,
+  "shared": {
+   "cofounder": true,
+   "links": "",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2019/04/IMG-085S8.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Filipe Vilas-Boas",
+   "slug": "filipe-vilas-boas",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Cofundadores",
+    "credentials": "PhD, MBA",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Filipe Vilas-Boas",
+   "slug": "filipe-vilas-boas",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Co-founders",
+    "credentials": "PhD, MBA",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:marisa-sousa",
+  "order": 21,
+  "shared": {
+   "cofounder": true,
+   "links": "",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2019/04/IMG-0865s-2.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Marisa Sousa",
+   "slug": "marisa-sousa",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Cofundadores",
+    "credentials": "PhD, MD",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Marisa Sousa",
+   "slug": "marisa-sousa",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Co-founders",
+    "credentials": "PhD, MD",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:hugo-pacheco",
+  "order": 22,
+  "shared": {
+   "cofounder": true,
+   "links": "",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2019/04/IMG-0869.jpg",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Hugo Pacheco",
+   "slug": "hugo-pacheco",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Cofundadores",
+    "credentials": "BSc",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Hugo Pacheco",
+   "slug": "hugo-pacheco",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Co-founders",
+    "credentials": "BSc",
+    "expertise": ""
+   }
+  }
+ },
+ {
+  "id": "person:clara-patricio",
+  "order": 23,
+  "shared": {
+   "cofounder": true,
+   "links": "",
+   "photo_credit": "",
+   "photo_check": false,
+   "thumbnail": "2020/08/CLARA-bw.png",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/team/"
+  },
+  "pt": {
+   "title": "Clara Patrício",
+   "slug": "clara-patricio",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Cofundadores",
+    "credentials": "MSc",
+    "expertise": ""
+   }
+  },
+  "en": {
+   "title": "Clara Patrício",
+   "slug": "clara-patricio",
+   "excerpt": "",
+   "content": "",
+   "fields": {
+    "role": "",
+    "group": "Co-founders",
+    "credentials": "MSc",
+    "expertise": ""
+   }
+  }
+ }
+]

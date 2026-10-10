@@ -1,0 +1,658 @@
+old_url,old_path,lang,old_type,title,new_path,action,reason
+https://sea4us.pt/en/author/admin/,/en/author/admin/,en,archive,sea4us,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/admin/page/2/,/en/author/admin/page/2/,en,archive,sea4us – Page 2,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/admin/page/3/,/en/author/admin/page/3/,en,archive,sea4us – Page 3,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/admin/page/4/,/en/author/admin/page/4/,en,archive,sea4us – Page 4,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/admin/page/5/,/en/author/admin/page/5/,en,archive,sea4us – Page 5,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/admin/page/6/,/en/author/admin/page/6/,en,archive,sea4us – Page 6,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/beatriz-szwarc/,/en/author/beatriz-szwarc/,en,archive,Beatriz Szwarc,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/beatriz-szwarc/page/2/,/en/author/beatriz-szwarc/page/2/,en,archive,Beatriz Szwarc – Page 2,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/beatriz-szwarc/page/3/,/en/author/beatriz-szwarc/page/3/,en,archive,Beatriz Szwarc – Page 3,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/beatriz-szwarc/page/4/,/en/author/beatriz-szwarc/page/4/,en,archive,Beatriz Szwarc – Page 4,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/michal-babiarz/,/en/author/michal-babiarz/,en,archive,Michal Babiarz,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/author/susana-antunessea4us-pt/,/en/author/susana-antunessea4us-pt/,en,archive,Susana Antunes,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/en/category/aenean/,/en/category/aenean/,en,archive,Aenean,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/bullet-list/,/en/category/bullet-list/,en,archive,Bullet List,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/donec/,/en/category/donec/,en,archive,Donec,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/donec/numbered-list/,/en/category/donec/numbered-list/,en,archive,Numbered List,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/donec/numbered-list/long-post/,/en/category/donec/numbered-list/long-post/,en,archive,Long Post,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/donec/numbered-list/malesuada/,/en/category/donec/numbered-list/malesuada/,en,archive,Malesuada,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/news/,/en/category/news/,en,archive,News,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/news/page/2/,/en/category/news/page/2/,en,archive,News – Page 2,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/news/page/3/,/en/category/news/page/3/,en,archive,News – Page 3,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/news/page/4/,/en/category/news/page/4/,en,archive,News – Page 4,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/news/page/5/,/en/category/news/page/5/,en,archive,News – Page 5,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/scelerisque/,/en/category/scelerisque/,en,archive,Scelerisque,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/short-post/,/en/category/short-post/,en,archive,Short Post,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/uncategorized/,/en/category/uncategorized/,en,archive,Uncategorized,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/uncategorized/page/2/,/en/category/uncategorized/page/2/,en,archive,Uncategorized – Page 2,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/uncategorized/page/3/,/en/category/uncategorized/page/3/,en,archive,Uncategorized – Page 3,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/uncategorized/page/4/,/en/category/uncategorized/page/4/,en,archive,Uncategorized – Page 4,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/uncategorized/page/5/,/en/category/uncategorized/page/5/,en,archive,Uncategorized – Page 5,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/uncategorized/page/6/,/en/category/uncategorized/page/6/,en,archive,Uncategorized – Page 6,/en/news/,301,Category archive → news archive.
+https://sea4us.pt/en/category/vestibulum/,/en/category/vestibulum/,en,archive,Vestibulum,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/category/wenddisse/,/en/category/wenddisse/,en,archive,Wenddisse,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/en/tag/aenean/,/en/tag/aenean/,en,archive,Aenean,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/agencialusa/,/en/tag/agencialusa/,en,archive,agencialusa,/en/search/?q=agencialusa,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/analgesic/,/en/tag/analgesic/,en,archive,analgesic,/en/search/?q=analgesic,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/auctor/,/en/tag/auctor/,en,archive,Auctor,/en/search/?q=auctor,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/award/,/en/tag/award/,en,archive,award,/en/search/?q=award,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/blue-week/,/en/tag/blue-week/,en,archive,Blue Week,/en/search/?q=blue-week,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/bten/,/en/tag/bten/,en,archive,bten,/en/search/?q=bten,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/chronicpain/,/en/tag/chronicpain/,en,archive,chronicpain,/en/search/?q=chronicpain,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/condimentum/,/en/tag/condimentum/,en,archive,Condimentum,/en/search/?q=condimentum,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/conference/,/en/tag/conference/,en,archive,conference,/en/search/?q=conference,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/consectetuer/,/en/tag/consectetuer/,en,archive,Consectetuer,/en/search/?q=consectetuer,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/curabitur/,/en/tag/curabitur/,en,archive,Curabitur,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/divulgacao/,/en/tag/divulgacao/,en,archive,divulgaçao,/en/search/?q=divulgacao,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/donec/,/en/tag/donec/,en,archive,Donec,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/etiam/,/en/tag/etiam/,en,archive,Etiam,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/euromarine/,/en/tag/euromarine/,en,archive,euromarine,/en/search/?q=euromarine,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/europeancommission/,/en/tag/europeancommission/,en,archive,europeancommission,/en/search/?q=europeancommission,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/expresso/,/en/tag/expresso/,en,archive,expresso,/en/search/?q=expresso,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/funding/,/en/tag/funding/,en,archive,funding,/en/search/?q=funding,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/ifeqb/,/en/tag/ifeqb/,en,archive,ifeqb,/en/search/?q=ifeqb,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/imed/,/en/tag/imed/,en,archive,imed,/en/search/?q=imed,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/interview/,/en/tag/interview/,en,archive,interview,/en/search/?q=interview,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/ipsum/,/en/tag/ipsum/,en,archive,Ipsum,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/lorem/,/en/tag/lorem/,en,archive,Lorem,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/maecenas/,/en/tag/maecenas/,en,archive,Maecenas,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/mauris/,/en/tag/mauris/,en,archive,Mauris,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/muhnac/,/en/tag/muhnac/,en,archive,muhnac,/en/search/?q=muhnac,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/neupsig/,/en/tag/neupsig/,en,archive,neupsig,/en/search/?q=neupsig,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/newanalgesic/,/en/tag/newanalgesic/,en,archive,newanalgesic,/en/search/?q=newanalgesic,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/news/,/en/tag/news/,en,archive,news,/en/search/?q=news,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/nisi-turpis/,/en/tag/nisi-turpis/,en,archive,Nisi turpis,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/nova/,/en/tag/nova/,en,archive,NOVA,/en/search/?q=nova,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/nulla/,/en/tag/nulla/,en,archive,Nulla,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/nullam/,/en/tag/nullam/,en,archive,Nullam,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/oceanmedicines/,/en/tag/oceanmedicines/,en,archive,oceanmedicines,/en/search/?q=oceanmedicines,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/pedrolima/,/en/tag/pedrolima/,en,archive,pedrolima,/en/search/?q=pedrolima,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/pellentesque/,/en/tag/pellentesque/,en,archive,Pellentesque,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/phasellus/,/en/tag/phasellus/,en,archive,Phasellus,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/posuere/,/en/tag/posuere/,en,archive,Posuere,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/promar/,/en/tag/promar/,en,archive,promar,/en/search/?q=promar,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/promoters/,/en/tag/promoters/,en,archive,promoters,/en/search/?q=promoters,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/pt2020/,/en/tag/pt2020/,en,archive,pt2020,/en/search/?q=pt2020,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/sea4us/,/en/tag/sea4us/,en,archive,sea4us,/en/search/?q=sea4us,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/sealofexcellence/,/en/tag/sealofexcellence/,en,archive,sealofexcellence,/en/search/?q=sealofexcellence,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/sponsor/,/en/tag/sponsor/,en,archive,sponsor,/en/search/?q=sponsor,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/suspendisse/,/en/tag/suspendisse/,en,archive,Suspendisse,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/therapeutics/,/en/tag/therapeutics/,en,archive,therapeutics,/en/search/?q=therapeutics,301,Tag archive → site search for the same term.
+https://sea4us.pt/en/tag/ullamcorper/,/en/tag/ullamcorper/,en,archive,Ullamcorper,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/venenatis/,/en/tag/venenatis/,en,archive,Venenatis,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/tag/vestibulum/,/en/tag/vestibulum/,en,archive,Vestibulum,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/en/type/image/,/en/type/image/,en,archive,Image,,none,Post-format archive (theme).
+https://sea4us.pt/pt/author/admin/,/pt/author/admin/,pt,archive,sea4us,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/admin/page/2/,/pt/author/admin/page/2/,pt,archive,sea4us – Page 2,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/admin/page/3/,/pt/author/admin/page/3/,pt,archive,sea4us – Page 3,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/admin/page/4/,/pt/author/admin/page/4/,pt,archive,sea4us – Page 4,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/admin/page/5/,/pt/author/admin/page/5/,pt,archive,sea4us – Page 5,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/admin/page/6/,/pt/author/admin/page/6/,pt,archive,sea4us – Page 6,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/beatriz-szwarc/,/pt/author/beatriz-szwarc/,pt,archive,Beatriz Szwarc,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/beatriz-szwarc/page/2/,/pt/author/beatriz-szwarc/page/2/,pt,archive,Beatriz Szwarc – Page 2,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/beatriz-szwarc/page/3/,/pt/author/beatriz-szwarc/page/3/,pt,archive,Beatriz Szwarc – Page 3,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/beatriz-szwarc/page/4/,/pt/author/beatriz-szwarc/page/4/,pt,archive,Beatriz Szwarc – Page 4,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/michal-babiarz/,/pt/author/michal-babiarz/,pt,archive,Michal Babiarz,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/author/susana-antunessea4us-pt/,/pt/author/susana-antunessea4us-pt/,pt,archive,Susana Antunes,,none,Author archive: not kept (authorship shown on each article when published).
+https://sea4us.pt/pt/category/aenean/,/pt/category/aenean/,pt,archive,Aenean,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/bullet-list/,/pt/category/bullet-list/,pt,archive,Bullet List,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/donec/,/pt/category/donec/,pt,archive,Donec,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/donec/numbered-list/,/pt/category/donec/numbered-list/,pt,archive,Numbered List,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/donec/numbered-list/long-post/,/pt/category/donec/numbered-list/long-post/,pt,archive,Long Post,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/donec/numbered-list/malesuada/,/pt/category/donec/numbered-list/malesuada/,pt,archive,Malesuada,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/news/,/pt/category/news/,pt,archive,News,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/news/page/2/,/pt/category/news/page/2/,pt,archive,News – Page 2,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/news/page/3/,/pt/category/news/page/3/,pt,archive,News – Page 3,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/news/page/4/,/pt/category/news/page/4/,pt,archive,News – Page 4,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/news/page/5/,/pt/category/news/page/5/,pt,archive,News – Page 5,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/scelerisque/,/pt/category/scelerisque/,pt,archive,Scelerisque,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/short-post/,/pt/category/short-post/,pt,archive,Short Post,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/uncategorized/,/pt/category/uncategorized/,pt,archive,Uncategorized,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/uncategorized/page/2/,/pt/category/uncategorized/page/2/,pt,archive,Uncategorized – Page 2,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/uncategorized/page/3/,/pt/category/uncategorized/page/3/,pt,archive,Uncategorized – Page 3,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/uncategorized/page/4/,/pt/category/uncategorized/page/4/,pt,archive,Uncategorized – Page 4,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/uncategorized/page/5/,/pt/category/uncategorized/page/5/,pt,archive,Uncategorized – Page 5,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/uncategorized/page/6/,/pt/category/uncategorized/page/6/,pt,archive,Uncategorized – Page 6,/pt/noticias/,301,Category archive → news archive.
+https://sea4us.pt/pt/category/vestibulum/,/pt/category/vestibulum/,pt,archive,Vestibulum,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/category/wenddisse/,/pt/category/wenddisse/,pt,archive,Wenddisse,,none,"Theme demo category, never used by real posts."
+https://sea4us.pt/pt/tag/aenean/,/pt/tag/aenean/,pt,archive,Aenean,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/agencialusa/,/pt/tag/agencialusa/,pt,archive,agencialusa,/pt/pesquisa/?q=agencialusa,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/analgesic/,/pt/tag/analgesic/,pt,archive,analgesic,/pt/pesquisa/?q=analgesic,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/auctor/,/pt/tag/auctor/,pt,archive,Auctor,/pt/pesquisa/?q=auctor,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/award/,/pt/tag/award/,pt,archive,award,/pt/pesquisa/?q=award,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/blue-week/,/pt/tag/blue-week/,pt,archive,Blue Week,/pt/pesquisa/?q=blue-week,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/bten/,/pt/tag/bten/,pt,archive,bten,/pt/pesquisa/?q=bten,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/chronicpain/,/pt/tag/chronicpain/,pt,archive,chronicpain,/pt/pesquisa/?q=chronicpain,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/condimentum/,/pt/tag/condimentum/,pt,archive,Condimentum,/pt/pesquisa/?q=condimentum,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/conference/,/pt/tag/conference/,pt,archive,conference,/pt/pesquisa/?q=conference,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/consectetuer/,/pt/tag/consectetuer/,pt,archive,Consectetuer,/pt/pesquisa/?q=consectetuer,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/curabitur/,/pt/tag/curabitur/,pt,archive,Curabitur,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/divulgacao/,/pt/tag/divulgacao/,pt,archive,divulgaçao,/pt/pesquisa/?q=divulgacao,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/donec/,/pt/tag/donec/,pt,archive,Donec,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/etiam/,/pt/tag/etiam/,pt,archive,Etiam,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/euromarine/,/pt/tag/euromarine/,pt,archive,euromarine,/pt/pesquisa/?q=euromarine,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/europeancommission/,/pt/tag/europeancommission/,pt,archive,europeancommission,/pt/pesquisa/?q=europeancommission,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/expresso/,/pt/tag/expresso/,pt,archive,expresso,/pt/pesquisa/?q=expresso,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/funding/,/pt/tag/funding/,pt,archive,funding,/pt/pesquisa/?q=funding,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/ifeqb/,/pt/tag/ifeqb/,pt,archive,ifeqb,/pt/pesquisa/?q=ifeqb,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/imed/,/pt/tag/imed/,pt,archive,imed,/pt/pesquisa/?q=imed,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/interview/,/pt/tag/interview/,pt,archive,interview,/pt/pesquisa/?q=interview,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/ipsum/,/pt/tag/ipsum/,pt,archive,Ipsum,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/lorem/,/pt/tag/lorem/,pt,archive,Lorem,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/maecenas/,/pt/tag/maecenas/,pt,archive,Maecenas,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/mauris/,/pt/tag/mauris/,pt,archive,Mauris,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/muhnac/,/pt/tag/muhnac/,pt,archive,muhnac,/pt/pesquisa/?q=muhnac,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/neupsig/,/pt/tag/neupsig/,pt,archive,neupsig,/pt/pesquisa/?q=neupsig,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/newanalgesic/,/pt/tag/newanalgesic/,pt,archive,newanalgesic,/pt/pesquisa/?q=newanalgesic,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/news/,/pt/tag/news/,pt,archive,news,/pt/pesquisa/?q=news,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/nisi-turpis/,/pt/tag/nisi-turpis/,pt,archive,Nisi turpis,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/nova/,/pt/tag/nova/,pt,archive,NOVA,/pt/pesquisa/?q=nova,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/nulla/,/pt/tag/nulla/,pt,archive,Nulla,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/nullam/,/pt/tag/nullam/,pt,archive,Nullam,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/oceanmedicines/,/pt/tag/oceanmedicines/,pt,archive,oceanmedicines,/pt/pesquisa/?q=oceanmedicines,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/pedrolima/,/pt/tag/pedrolima/,pt,archive,pedrolima,/pt/pesquisa/?q=pedrolima,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/pellentesque/,/pt/tag/pellentesque/,pt,archive,Pellentesque,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/phasellus/,/pt/tag/phasellus/,pt,archive,Phasellus,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/posuere/,/pt/tag/posuere/,pt,archive,Posuere,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/promar/,/pt/tag/promar/,pt,archive,promar,/pt/pesquisa/?q=promar,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/promoters/,/pt/tag/promoters/,pt,archive,promoters,/pt/pesquisa/?q=promoters,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/pt2020/,/pt/tag/pt2020/,pt,archive,pt2020,/pt/pesquisa/?q=pt2020,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/sea4us/,/pt/tag/sea4us/,pt,archive,sea4us,/pt/pesquisa/?q=sea4us,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/sealofexcellence/,/pt/tag/sealofexcellence/,pt,archive,sealofexcellence,/pt/pesquisa/?q=sealofexcellence,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/sponsor/,/pt/tag/sponsor/,pt,archive,sponsor,/pt/pesquisa/?q=sponsor,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/suspendisse/,/pt/tag/suspendisse/,pt,archive,Suspendisse,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/therapeutics/,/pt/tag/therapeutics/,pt,archive,therapeutics,/pt/pesquisa/?q=therapeutics,301,Tag archive → site search for the same term.
+https://sea4us.pt/pt/tag/ullamcorper/,/pt/tag/ullamcorper/,pt,archive,Ullamcorper,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/venenatis/,/pt/tag/venenatis/,pt,archive,Venenatis,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/tag/vestibulum/,/pt/tag/vestibulum/,pt,archive,Vestibulum,,none,Theme demo tag (lorem ipsum).
+https://sea4us.pt/pt/type/image/,/pt/type/image/,pt,archive,Image,,none,Post-format archive (theme).
+https://sea4us.pt/en/1-5/,/en/1-5/,en,attachment,1,/wp-content/uploads/2024/05/1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/1-6/,/en/1-6/,en,attachment,CTA1,/wp-content/uploads/2026/05/1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/1-7/,/en/1-7/,en,attachment,1,/wp-content/uploads/2026/05/1-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/2-6/,/en/2-6/,en,attachment,2,/wp-content/uploads/2024/05/2.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/2-7/,/en/2-7/,en,attachment,CTA2,/wp-content/uploads/2026/05/2.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/2-8/,/en/2-8/,en,attachment,2,/wp-content/uploads/2026/05/2-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/3-4/,/en/3-4/,en,attachment,3,/wp-content/uploads/2024/05/3.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/3-5/,/en/3-5/,en,attachment,CTA3,/wp-content/uploads/2026/05/3.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/3-6/,/en/3-6/,en,attachment,3,/wp-content/uploads/2026/05/3-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/4-5/,/en/4-5/,en,attachment,4,/wp-content/uploads/2024/05/4.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/4-6/,/en/4-6/,en,attachment,CTA4,/wp-content/uploads/2026/05/4.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/4-7/,/en/4-7/,en,attachment,4,/wp-content/uploads/2026/05/4-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/5-2/,/en/5-2/,en,attachment,5,/wp-content/uploads/2024/05/5.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/5-3/,/en/5-3/,en,attachment,CTA5,/wp-content/uploads/2026/05/5.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/5-4/,/en/5-4/,en,attachment,5,/wp-content/uploads/2026/05/5-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/6-2/,/en/6-2/,en,attachment,6,/wp-content/uploads/2024/05/6.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/6-3/,/en/6-3/,en,attachment,6,/wp-content/uploads/2026/05/6.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/7-2/,/en/7-2/,en,attachment,7,/wp-content/uploads/2024/05/7.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/7-3/,/en/7-3/,en,attachment,7,/wp-content/uploads/2026/05/7.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/8-2/,/en/8-2/,en,attachment,8,/wp-content/uploads/2024/05/8.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/?attachment_id=3438,/en/?attachment_id=3438,en,attachment,ocean medicines,/wp-content/uploads/2017/03/ocean-medicines-e1597254182570.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/bluebio-alliance-takes-sea4us-to-japan/bluebioalliance/,/en/bluebio-alliance-takes-sea4us-to-japan/bluebioalliance/,en,attachment,bluebioalliance,/en/news/bluebio-alliance-takes-sea4us-to-japan/,301,Attachment page under /en/bluebio-alliance-takes-sea4us-to-japan/
+https://sea4us.pt/en/diver-sponge/,/en/diver-sponge/,en,attachment,diver.sponge,/wp-content/uploads/2026/05/diver.sponge.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/final-event-bluebiotech4pain/bluebiotech4pain-2/,/en/final-event-bluebiotech4pain/bluebiotech4pain-2/,en,attachment,BlueBioTech4Pain,/en/news/final-event-bluebiotech4pain/,301,Attachment page under /en/final-event-bluebiotech4pain/
+https://sea4us.pt/en/final-event-bluebiotech4pain/bluebiotech4pain-3/,/en/final-event-bluebiotech4pain/bluebiotech4pain-3/,en,attachment,BlueBioTech4Pain,/en/news/final-event-bluebiotech4pain/,301,Attachment page under /en/final-event-bluebiotech4pain/
+https://sea4us.pt/en/foto-raquel/,/en/foto-raquel/,en,attachment,Raquel Barros,/wp-content/uploads/2025/12/Foto-Raquel.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/foto-rugulopteryx_dv1/,/en/foto-rugulopteryx_dv1/,en,attachment,Foto Rugulopteryx_DV1,/wp-content/uploads/2026/05/Foto-Rugulopteryx_DV1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/foto-rugulopteryx_dv2/,/en/foto-rugulopteryx_dv2/,en,attachment,Foto Rugulopteryx_DV2,/wp-content/uploads/2026/05/Foto-Rugulopteryx_DV2.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/grow-algarve-meetup/growalgarve/,/en/grow-algarve-meetup/growalgarve/,en,attachment,growalgarve,/en/news/grow-algarve-meetup/,301,Attachment page under /en/grow-algarve-meetup/
+https://sea4us.pt/en/home/sagres_202507-3/,/en/home/sagres_202507-3/,en,attachment,Sagres_202507 (3),/en/,301,Attachment page under /en/home/
+https://sea4us.pt/en/home/sea4us_foto_nova_3-2/,/en/home/sea4us_foto_nova_3-2/,en,attachment,Sea4Us_Foto_Nova_3 (2),/en/,301,Attachment page under /en/home/
+https://sea4us.pt/en/home/sea4uslab_2023_3526/,/en/home/sea4uslab_2023_3526/,en,attachment,Sea4UsLab_2023_3526,/en/,301,Attachment page under /en/home/
+https://sea4us.pt/en/home/sea4uslab_apr2024_4415/,/en/home/sea4uslab_apr2024_4415/,en,attachment,Sea4UsLab_Apr2024_4415,/en/,301,Attachment page under /en/home/
+https://sea4us.pt/en/interview-with-barlavento/barlavento-2/,/en/interview-with-barlavento/barlavento-2/,en,attachment,barlavento,/en/news/interview-with-barlavento/,301,Attachment page under /en/interview-with-barlavento/
+https://sea4us.pt/en/isabel-matos-poster-festival-gimm/,/en/isabel-matos-poster-festival-gimm/,en,attachment,Isabel Matos Poster Festival GIMM,/wp-content/uploads/2026/05/Isabel-Matos-Poster-Festival-GIMM-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/mar4pain2_flyer_mp-final-version-2/,/en/mar4pain2_flyer_mp-final-version-2/,en,attachment,mar4pain2_flyer,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/new-milestone-achieved-in-our-analgesic-program/img_4236/,/en/new-milestone-achieved-in-our-analgesic-program/img_4236/,en,attachment,diego hartmann fume hood,/en/news/new-milestone-achieved-in-our-analgesic-program/,301,Attachment page under /en/new-milestone-achieved-in-our-analgesic-program/
+https://sea4us.pt/en/new-partnerships-new-project-algared/algared/,/en/new-partnerships-new-project-algared/algared/,en,attachment,ALGARED,/en/news/new-partnerships-new-project-algared/,301,Attachment page under /en/new-partnerships-new-project-algared/
+https://sea4us.pt/en/okamurae-closeup/,/en/okamurae-closeup/,en,attachment,okamurae-closeup,/wp-content/uploads/2026/05/okamurae-closeup.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/okamurae-nudi/,/en/okamurae-nudi/,en,attachment,okamurae-nudi,/wp-content/uploads/2026/05/okamurae-nudi.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-10/,/en/olympus-digital-camera-10/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-urchin.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-3/,/en/olympus-digital-camera-3/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/luisella-babai-.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-4/,/en/olympus-digital-camera-4/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P7120348.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-5/,/en/olympus-digital-camera-5/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P9190719.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-6/,/en/olympus-digital-camera-6/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P7100483.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-7/,/en/olympus-digital-camera-7/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/felimida-purpurea.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-8/,/en/olympus-digital-camera-8/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-polvo.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/olympus-digital-camera-9/,/en/olympus-digital-camera-9/,en,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-mininudi.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/p5130399/,/en/p5130399/,en,attachment,P5130399,/wp-content/uploads/2026/05/underwater-pictures.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/p5130455/,/en/p5130455/,en,attachment,P5130455,/wp-content/uploads/2026/05/underwater-pictures-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/pt2030_fichaoperacao_a4_algarve2030_blueflow_versao-final/,/en/pt2030_fichaoperacao_a4_algarve2030_blueflow_versao-final/,en,attachment,PT2030_FichaOperacao_A4_Algarve2030_BlueFlow_versão final,/wp-content/uploads/2026/05/PT2030_FichaOperacao_A4_Algarve2030_BlueFlow_versao-final-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/rugulo-ecology_flyer_rogue-version/,/en/rugulo-ecology_flyer_rogue-version/,en,attachment,rugulo-ecology_flyer_rogue-version,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/rugulo4skin_flyer_rogue-version-7/,/en/rugulo4skin_flyer_rogue-version-7/,en,attachment,rugulo4skin_flyer_rogue-version 7,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4us-at-bio-europe-2024/picture2/,/en/sea4us-at-bio-europe-2024/picture2/,en,attachment,Picture2,/en/news/sea4us-at-bio-europe-2024/,301,Attachment page under /en/sea4us-at-bio-europe-2024/
+https://sea4us.pt/en/sea4us-at-the-world-congress-on-pain/andre-e-poster-2/,/en/sea4us-at-the-world-congress-on-pain/andre-e-poster-2/,en,attachment,Andre e Poster 2,/en/news/sea4us-at-the-world-congress-on-pain/,301,Attachment page under /en/sea4us-at-the-world-congress-on-pain/
+https://sea4us.pt/en/sea4us-at-the-world-congress-on-pain/venue1/,/en/sea4us-at-the-world-congress-on-pain/venue1/,en,attachment,venue1,/en/news/sea4us-at-the-world-congress-on-pain/,301,Attachment page under /en/sea4us-at-the-world-congress-on-pain/
+https://sea4us.pt/en/sea4us-featured-at-rtps-sociedade-civil/captura-de-ecra-2026-06-22-165053/,/en/sea4us-featured-at-rtps-sociedade-civil/captura-de-ecra-2026-06-22-165053/,en,attachment,Captura de ecrã 2026-06-22 165053,/en/news/sea4us-featured-at-rtps-sociedade-civil/,301,Attachment page under /en/sea4us-featured-at-rtps-sociedade-civil/
+https://sea4us.pt/en/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/img_1200x900uu2026-04-27-16-10-52-764334/,/en/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/img_1200x900uu2026-04-27-16-10-52-764334/,en,attachment,sabado,/en/news/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,301,Attachment page under /en/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/
+https://sea4us.pt/en/sea4us-featured-on-sic-noticias/captura-de-ecra-2026-05-04-170204/,/en/sea4us-featured-on-sic-noticias/captura-de-ecra-2026-05-04-170204/,en,attachment,sea4us na sic noticias,/en/news/sea4us-featured-on-sic-noticias/,301,Attachment page under /en/sea4us-featured-on-sic-noticias/
+https://sea4us.pt/en/sea4us-gets-onboard25/bio2/,/en/sea4us-gets-onboard25/bio2/,en,attachment,bio2,/en/news/sea4us-gets-onboard25/,301,Attachment page under /en/sea4us-gets-onboard25/
+https://sea4us.pt/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/accelerator/,/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/accelerator/,en,attachment,accelerator,/en/news/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,Attachment page under /en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/
+https://sea4us.pt/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/sea4us_eicstage1_seapain_enwithsubtitles/,/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/sea4us_eicstage1_seapain_enwithsubtitles/,en,attachment,Sea4Us_EICstage1_SeaPain_ENwithSubtitles,/en/news/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,Attachment page under /en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/
+https://sea4us.pt/en/sea4us_foto_nova_3-1-2/,/en/sea4us_foto_nova_3-1-2/,en,attachment,Sea4Us_Foto_Nova_3 (1),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-1-1-scaled-e1777917235170.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4us_foto_nova_3-1/,/en/sea4us_foto_nova_3-1/,en,attachment,Sea4Us_Foto_Nova_3 (1),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4us_foto_nova_3-3/,/en/sea4us_foto_nova_3-3/,en,attachment,Sea4Us_Foto_Nova_3 (3),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-3.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4232/,/en/sea4uslab_apr2024_4232/,en,attachment,Sea4UsLab_Apr2024_4232,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4232.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4279/,/en/sea4uslab_apr2024_4279/,en,attachment,Sea4UsLab_Apr2024_4279,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4279.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4317/,/en/sea4uslab_apr2024_4317/,en,attachment,Sea4UsLab_Apr2024_4317,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4317.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4351/,/en/sea4uslab_apr2024_4351/,en,attachment,Sea4UsLab_Apr2024_4351,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4351.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4362/,/en/sea4uslab_apr2024_4362/,en,attachment,Sea4UsLab_Apr2024_4362,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4362.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4440/,/en/sea4uslab_apr2024_4440/,en,attachment,Sea4UsLab_Apr2024_4440,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4440.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4447/,/en/sea4uslab_apr2024_4447/,en,attachment,Sea4UsLab_Apr2024_4447,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4447.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4461/,/en/sea4uslab_apr2024_4461/,en,attachment,Sea4UsLab_Apr2024_4461,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4461.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4469/,/en/sea4uslab_apr2024_4469/,en,attachment,Sea4UsLab_Apr2024_4469,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4469.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4480/,/en/sea4uslab_apr2024_4480/,en,attachment,Sea4UsLab_Apr2024_4480,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4480.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4491-2/,/en/sea4uslab_apr2024_4491-2/,en,attachment,Sea4UsLab_Apr2024_4491,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4491/,/en/sea4uslab_apr2024_4491/,en,attachment,Sea4UsLab_Apr2024_4491,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4497/,/en/sea4uslab_apr2024_4497/,en,attachment,Sea4UsLab_Apr2024_4497,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4497.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4512/,/en/sea4uslab_apr2024_4512/,en,attachment,Sea4UsLab_Apr2024_4512,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4512.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sea4uslab_apr2024_4534/,/en/sea4uslab_apr2024_4534/,en,attachment,Sea4UsLab_Apr2024_4534,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4534.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/sobre-nos/projects/bluebiotech4pain/direcao-geral-politica-do-mar/,/en/sobre-nos/projects/bluebiotech4pain/direcao-geral-politica-do-mar/,en,attachment,direçao geral politica do mar,/en/projects/bluebiotech4pain/,301,Attachment page under /en/sobre-nos/projects/bluebiotech4pain/
+https://sea4us.pt/en/sobre-nos/projects/bluebiotech4pain/ministerio_da_economia_2015-2018/,/en/sobre-nos/projects/bluebiotech4pain/ministerio_da_economia_2015-2018/,en,attachment,Ministério_da_Economia_(2015-2018),/en/projects/bluebiotech4pain/,301,Attachment page under /en/sobre-nos/projects/bluebiotech4pain/
+https://sea4us.pt/en/sobre-nos/projects/captura-de-ecra-2026-05-22-124115/,/en/sobre-nos/projects/captura-de-ecra-2026-05-22-124115/,en,attachment,blueflow,/en/projects/,301,Attachment page under /en/sobre-nos/projects/
+https://sea4us.pt/en/sobre-nos/projects/mar4health/ficha_de_operacao_mar4health/,/en/sobre-nos/projects/mar4health/ficha_de_operacao_mar4health/,en,attachment,Ficha_de_Operacao_Mar4Health,/en/projects/mar4health/,301,Attachment page under /en/sobre-nos/projects/mar4health/
+https://sea4us.pt/en/sobre-nos/projects/mar4health/mar4health/,/en/sobre-nos/projects/mar4health/mar4health/,en,attachment,mar4health,/en/projects/mar4health/,301,Attachment page under /en/sobre-nos/projects/mar4health/
+https://sea4us.pt/en/sobre-nos/projects/mar4pain/mar4pain/,/en/sobre-nos/projects/mar4pain/mar4pain/,en,attachment,mar4pain,/en/projects/mar4pain/,301,Attachment page under /en/sobre-nos/projects/mar4pain/
+https://sea4us.pt/en/sobre-nos/projects/marinebiotech/ficha_de_operacao_marinebiotech/,/en/sobre-nos/projects/marinebiotech/ficha_de_operacao_marinebiotech/,en,attachment,Ficha_de_Operacao_Marinebiotech,/en/projects/marinebiotech/,301,Attachment page under /en/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/en/sobre-nos/projects/marinebiotech/headermarinebiotech/,/en/sobre-nos/projects/marinebiotech/headermarinebiotech/,en,attachment,HeaderMarineBiotech,/en/projects/marinebiotech/,301,Attachment page under /en/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/en/sobre-nos/projects/marinebiotech/picture1/,/en/sobre-nos/projects/marinebiotech/picture1/,en,attachment,MarineBiotech,/en/projects/marinebiotech/,301,Attachment page under /en/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/en/sobre-nos/projects/medida-emprego/img_4480/,/en/sobre-nos/projects/medida-emprego/img_4480/,en,attachment,medida emprego,/en/projects/medida-emprego/,301,Attachment page under /en/sobre-nos/projects/medida-emprego/
+https://sea4us.pt/en/sobre-nos/projects/sea4market/eu/,/en/sobre-nos/projects/sea4market/eu/,en,attachment,EU,/en/projects/sea4market/,301,Attachment page under /en/sobre-nos/projects/sea4market/
+https://sea4us.pt/en/sobre-nos/projects/sea4market/sea4market/,/en/sobre-nos/projects/sea4market/sea4market/,en,attachment,sea4market,/en/projects/sea4market/,301,Attachment page under /en/sobre-nos/projects/sea4market/
+https://sea4us.pt/en/sobre-nos/team/ana-chegao_foto/,/en/sobre-nos/team/ana-chegao_foto/,en,attachment,Ana Chegao_foto,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/sobre-nos/team/foto_filipa-magalhaes/,/en/sobre-nos/team/foto_filipa-magalhaes/,en,attachment,Foto_Filipa Magalhães,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/sobre-nos/team/foto_miria-castanhar/,/en/sobre-nos/team/foto_miria-castanhar/,en,attachment,Foto_Miria Castanhar,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/sobre-nos/team/historia-para-instagram-a-castanho-claro-e-branco-tradicional-com-citacao-de-vida-1/,/en/sobre-nos/team/historia-para-instagram-a-castanho-claro-e-branco-tradicional-com-citacao-de-vida-1/,en,attachment,Daniel Vargem,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/sobre-nos/team/sea4usteam_dez2023_3618/,/en/sobre-nos/team/sea4usteam_dez2023_3618/,en,attachment,Sea4UsTeam_Dez2023_3618,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/sobre-nos/team/sea4usteam_dez2023_3625/,/en/sobre-nos/team/sea4usteam_dez2023_3625/,en,attachment,Sea4UsTeam_Dez2023_3625,/en/about/team/,301,Attachment page under /en/sobre-nos/team/
+https://sea4us.pt/en/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/sea4market-2/,/en/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/sea4market-2/,en,attachment,sea4market,/en/news/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,301,Attachment page under /en/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/
+https://sea4us.pt/en/vaniaroberto_poster_longevitysummit_dublin25/,/en/vaniaroberto_poster_longevitysummit_dublin25/,en,attachment,VaniaRoberto_Poster_LongevitySummit_Dublin25,/wp-content/uploads/2026/05/VaniaRoberto_Poster_LongevitySummit_Dublin25-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/whatsapp-image-2026-01-06-at-11-30-24/,/en/whatsapp-image-2026-01-06-at-11-30-24/,en,attachment,WhatsApp Image 2026-01-06 at 11.30.24,/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-06-at-11.30.24.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/en/whatsapp-image-2026-02-03-at-12-29-11-2/,/en/whatsapp-image-2026-02-03-at-12-29-11-2/,en,attachment,WhatsApp Image 2026-02-03 at 12.29.11 (2),/wp-content/uploads/2026/05/WhatsApp-Image-2026-02-03-at-12.29.11-2.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/1-5/,/pt/1-5/,pt,attachment,1,/wp-content/uploads/2024/05/1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/1-6/,/pt/1-6/,pt,attachment,CTA1,/wp-content/uploads/2026/05/1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/1-7/,/pt/1-7/,pt,attachment,1,/wp-content/uploads/2026/05/1-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/2-6/,/pt/2-6/,pt,attachment,2,/wp-content/uploads/2024/05/2.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/2-7/,/pt/2-7/,pt,attachment,CTA2,/wp-content/uploads/2026/05/2.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/2-8/,/pt/2-8/,pt,attachment,2,/wp-content/uploads/2026/05/2-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/3-4/,/pt/3-4/,pt,attachment,3,/wp-content/uploads/2024/05/3.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/3-5/,/pt/3-5/,pt,attachment,CTA3,/wp-content/uploads/2026/05/3.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/3-6/,/pt/3-6/,pt,attachment,3,/wp-content/uploads/2026/05/3-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/4-5/,/pt/4-5/,pt,attachment,4,/wp-content/uploads/2024/05/4.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/4-6/,/pt/4-6/,pt,attachment,CTA4,/wp-content/uploads/2026/05/4.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/4-7/,/pt/4-7/,pt,attachment,4,/wp-content/uploads/2026/05/4-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/5-2/,/pt/5-2/,pt,attachment,5,/wp-content/uploads/2024/05/5.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/5-3/,/pt/5-3/,pt,attachment,CTA5,/wp-content/uploads/2026/05/5.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/5-4/,/pt/5-4/,pt,attachment,5,/wp-content/uploads/2026/05/5-1.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/6-2/,/pt/6-2/,pt,attachment,6,/wp-content/uploads/2024/05/6.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/6-3/,/pt/6-3/,pt,attachment,6,/wp-content/uploads/2026/05/6.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/7-2/,/pt/7-2/,pt,attachment,7,/wp-content/uploads/2024/05/7.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/7-3/,/pt/7-3/,pt,attachment,7,/wp-content/uploads/2026/05/7.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/8-2/,/pt/8-2/,pt,attachment,8,/wp-content/uploads/2024/05/8.png,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/?attachment_id=3438,/pt/?attachment_id=3438,pt,attachment,ocean medicines,/wp-content/uploads/2017/03/ocean-medicines-e1597254182570.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/bluebio-alliance-takes-sea4us-to-japan/bluebioalliance/,/pt/bluebio-alliance-takes-sea4us-to-japan/bluebioalliance/,pt,attachment,bluebioalliance,/pt/noticias/bluebio-alliance-takes-sea4us-to-japan/,301,Attachment page under /pt/bluebio-alliance-takes-sea4us-to-japan/
+https://sea4us.pt/pt/diver-sponge/,/pt/diver-sponge/,pt,attachment,diver.sponge,/wp-content/uploads/2026/05/diver.sponge.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/final-event-bluebiotech4pain/bluebiotech4pain-2/,/pt/final-event-bluebiotech4pain/bluebiotech4pain-2/,pt,attachment,BlueBioTech4Pain,/pt/noticias/final-event-bluebiotech4pain/,301,Attachment page under /pt/final-event-bluebiotech4pain/
+https://sea4us.pt/pt/final-event-bluebiotech4pain/bluebiotech4pain-3/,/pt/final-event-bluebiotech4pain/bluebiotech4pain-3/,pt,attachment,BlueBioTech4Pain,/pt/noticias/final-event-bluebiotech4pain/,301,Attachment page under /pt/final-event-bluebiotech4pain/
+https://sea4us.pt/pt/foto-raquel/,/pt/foto-raquel/,pt,attachment,Raquel Barros,/wp-content/uploads/2025/12/Foto-Raquel.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/foto-rugulopteryx_dv1/,/pt/foto-rugulopteryx_dv1/,pt,attachment,Foto Rugulopteryx_DV1,/wp-content/uploads/2026/05/Foto-Rugulopteryx_DV1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/foto-rugulopteryx_dv2/,/pt/foto-rugulopteryx_dv2/,pt,attachment,Foto Rugulopteryx_DV2,/wp-content/uploads/2026/05/Foto-Rugulopteryx_DV2.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/grow-algarve-meetup/growalgarve/,/pt/grow-algarve-meetup/growalgarve/,pt,attachment,growalgarve,/pt/noticias/grow-algarve-meetup/,301,Attachment page under /pt/grow-algarve-meetup/
+https://sea4us.pt/pt/home/sagres_202507-3/,/pt/home/sagres_202507-3/,pt,attachment,Sagres_202507 (3),/pt/,301,Attachment page under /pt/home/
+https://sea4us.pt/pt/home/sea4us_foto_nova_3-2/,/pt/home/sea4us_foto_nova_3-2/,pt,attachment,Sea4Us_Foto_Nova_3 (2),/pt/,301,Attachment page under /pt/home/
+https://sea4us.pt/pt/home/sea4uslab_2023_3526/,/pt/home/sea4uslab_2023_3526/,pt,attachment,Sea4UsLab_2023_3526,/pt/,301,Attachment page under /pt/home/
+https://sea4us.pt/pt/home/sea4uslab_apr2024_4415/,/pt/home/sea4uslab_apr2024_4415/,pt,attachment,Sea4UsLab_Apr2024_4415,/pt/,301,Attachment page under /pt/home/
+https://sea4us.pt/pt/interview-with-barlavento/barlavento-2/,/pt/interview-with-barlavento/barlavento-2/,pt,attachment,barlavento,/pt/noticias/interview-with-barlavento/,301,Attachment page under /pt/interview-with-barlavento/
+https://sea4us.pt/pt/isabel-matos-poster-festival-gimm/,/pt/isabel-matos-poster-festival-gimm/,pt,attachment,Isabel Matos Poster Festival GIMM,/wp-content/uploads/2026/05/Isabel-Matos-Poster-Festival-GIMM-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/mar4pain2_flyer_mp-final-version-2/,/pt/mar4pain2_flyer_mp-final-version-2/,pt,attachment,mar4pain2_flyer,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/new-milestone-achieved-in-our-analgesic-program/img_4236/,/pt/new-milestone-achieved-in-our-analgesic-program/img_4236/,pt,attachment,diego hartmann fume hood,/pt/noticias/new-milestone-achieved-in-our-analgesic-program/,301,Attachment page under /pt/new-milestone-achieved-in-our-analgesic-program/
+https://sea4us.pt/pt/new-partnerships-new-project-algared/algared/,/pt/new-partnerships-new-project-algared/algared/,pt,attachment,ALGARED,/pt/noticias/new-partnerships-new-project-algared/,301,Attachment page under /pt/new-partnerships-new-project-algared/
+https://sea4us.pt/pt/okamurae-closeup/,/pt/okamurae-closeup/,pt,attachment,okamurae-closeup,/wp-content/uploads/2026/05/okamurae-closeup.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/okamurae-nudi/,/pt/okamurae-nudi/,pt,attachment,okamurae-nudi,/wp-content/uploads/2026/05/okamurae-nudi.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-10/,/pt/olympus-digital-camera-10/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-urchin.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-3/,/pt/olympus-digital-camera-3/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/luisella-babai-.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-4/,/pt/olympus-digital-camera-4/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P7120348.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-5/,/pt/olympus-digital-camera-5/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P9190719.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-6/,/pt/olympus-digital-camera-6/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/P7100483.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-7/,/pt/olympus-digital-camera-7/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/felimida-purpurea.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-8/,/pt/olympus-digital-camera-8/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-polvo.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/olympus-digital-camera-9/,/pt/olympus-digital-camera-9/,pt,attachment,OLYMPUS DIGITAL CAMERA,/wp-content/uploads/2026/05/okamurae-mininudi.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/p5130399/,/pt/p5130399/,pt,attachment,P5130399,/wp-content/uploads/2026/05/underwater-pictures.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/p5130455/,/pt/p5130455/,pt,attachment,P5130455,/wp-content/uploads/2026/05/underwater-pictures-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/pt2030_fichaoperacao_a4_algarve2030_blueflow_versao-final/,/pt/pt2030_fichaoperacao_a4_algarve2030_blueflow_versao-final/,pt,attachment,PT2030_FichaOperacao_A4_Algarve2030_BlueFlow_versão final,/wp-content/uploads/2026/05/PT2030_FichaOperacao_A4_Algarve2030_BlueFlow_versao-final-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/rugulo-ecology_flyer_rogue-version/,/pt/rugulo-ecology_flyer_rogue-version/,pt,attachment,rugulo-ecology_flyer_rogue-version,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/rugulo4skin_flyer_rogue-version-7/,/pt/rugulo4skin_flyer_rogue-version-7/,pt,attachment,rugulo4skin_flyer_rogue-version 7,,none,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4us-at-bio-europe-2024/picture2/,/pt/sea4us-at-bio-europe-2024/picture2/,pt,attachment,Picture2,/pt/noticias/sea4us-at-bio-europe-2024/,301,Attachment page under /pt/sea4us-at-bio-europe-2024/
+https://sea4us.pt/pt/sea4us-at-the-world-congress-on-pain/andre-e-poster-2/,/pt/sea4us-at-the-world-congress-on-pain/andre-e-poster-2/,pt,attachment,Andre e Poster 2,/pt/noticias/sea4us-at-the-world-congress-on-pain/,301,Attachment page under /pt/sea4us-at-the-world-congress-on-pain/
+https://sea4us.pt/pt/sea4us-at-the-world-congress-on-pain/venue1/,/pt/sea4us-at-the-world-congress-on-pain/venue1/,pt,attachment,venue1,/pt/noticias/sea4us-at-the-world-congress-on-pain/,301,Attachment page under /pt/sea4us-at-the-world-congress-on-pain/
+https://sea4us.pt/pt/sea4us-featured-at-rtps-sociedade-civil/captura-de-ecra-2026-06-22-165053/,/pt/sea4us-featured-at-rtps-sociedade-civil/captura-de-ecra-2026-06-22-165053/,pt,attachment,Captura de ecrã 2026-06-22 165053,/pt/noticias/sea4us-featured-at-rtps-sociedade-civil/,301,Attachment page under /pt/sea4us-featured-at-rtps-sociedade-civil/
+https://sea4us.pt/pt/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/img_1200x900uu2026-04-27-16-10-52-764334/,/pt/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/img_1200x900uu2026-04-27-16-10-52-764334/,pt,attachment,sabado,/pt/noticias/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,301,Attachment page under /pt/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/
+https://sea4us.pt/pt/sea4us-featured-on-sic-noticias/captura-de-ecra-2026-05-04-170204/,/pt/sea4us-featured-on-sic-noticias/captura-de-ecra-2026-05-04-170204/,pt,attachment,sea4us na sic noticias,/pt/noticias/sea4us-featured-on-sic-noticias/,301,Attachment page under /pt/sea4us-featured-on-sic-noticias/
+https://sea4us.pt/pt/sea4us-gets-onboard25/bio2/,/pt/sea4us-gets-onboard25/bio2/,pt,attachment,bio2,/pt/noticias/sea4us-gets-onboard25/,301,Attachment page under /pt/sea4us-gets-onboard25/
+https://sea4us.pt/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/accelerator/,/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/accelerator/,pt,attachment,accelerator,/pt/noticias/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,Attachment page under /pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/
+https://sea4us.pt/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/sea4us_eicstage1_seapain_enwithsubtitles/,/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/sea4us_eicstage1_seapain_enwithsubtitles/,pt,attachment,Sea4Us_EICstage1_SeaPain_ENwithSubtitles,/pt/noticias/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,Attachment page under /pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/
+https://sea4us.pt/pt/sea4us_foto_nova_3-1-2/,/pt/sea4us_foto_nova_3-1-2/,pt,attachment,Sea4Us_Foto_Nova_3 (1),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-1-1-scaled-e1777917235170.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4us_foto_nova_3-1/,/pt/sea4us_foto_nova_3-1/,pt,attachment,Sea4Us_Foto_Nova_3 (1),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4us_foto_nova_3-3/,/pt/sea4us_foto_nova_3-3/,pt,attachment,Sea4Us_Foto_Nova_3 (3),/wp-content/uploads/2026/05/Sea4Us_Foto_Nova_3-3.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4232/,/pt/sea4uslab_apr2024_4232/,pt,attachment,Sea4UsLab_Apr2024_4232,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4232.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4279/,/pt/sea4uslab_apr2024_4279/,pt,attachment,Sea4UsLab_Apr2024_4279,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4279.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4317/,/pt/sea4uslab_apr2024_4317/,pt,attachment,Sea4UsLab_Apr2024_4317,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4317.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4351/,/pt/sea4uslab_apr2024_4351/,pt,attachment,Sea4UsLab_Apr2024_4351,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4351.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4362/,/pt/sea4uslab_apr2024_4362/,pt,attachment,Sea4UsLab_Apr2024_4362,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4362.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4440/,/pt/sea4uslab_apr2024_4440/,pt,attachment,Sea4UsLab_Apr2024_4440,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4440.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4447/,/pt/sea4uslab_apr2024_4447/,pt,attachment,Sea4UsLab_Apr2024_4447,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4447.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4461/,/pt/sea4uslab_apr2024_4461/,pt,attachment,Sea4UsLab_Apr2024_4461,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4461.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4469/,/pt/sea4uslab_apr2024_4469/,pt,attachment,Sea4UsLab_Apr2024_4469,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4469.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4480/,/pt/sea4uslab_apr2024_4480/,pt,attachment,Sea4UsLab_Apr2024_4480,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4480.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4491-2/,/pt/sea4uslab_apr2024_4491-2/,pt,attachment,Sea4UsLab_Apr2024_4491,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491-1.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4491/,/pt/sea4uslab_apr2024_4491/,pt,attachment,Sea4UsLab_Apr2024_4491,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4497/,/pt/sea4uslab_apr2024_4497/,pt,attachment,Sea4UsLab_Apr2024_4497,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4497.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4512/,/pt/sea4uslab_apr2024_4512/,pt,attachment,Sea4UsLab_Apr2024_4512,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4512.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sea4uslab_apr2024_4534/,/pt/sea4uslab_apr2024_4534/,pt,attachment,Sea4UsLab_Apr2024_4534,/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4534.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/sobre-nos/projects/bluebiotech4pain/direcao-geral-politica-do-mar/,/pt/sobre-nos/projects/bluebiotech4pain/direcao-geral-politica-do-mar/,pt,attachment,direçao geral politica do mar,/pt/projetos/bluebiotech4pain/,301,Attachment page under /pt/sobre-nos/projects/bluebiotech4pain/
+https://sea4us.pt/pt/sobre-nos/projects/bluebiotech4pain/ministerio_da_economia_2015-2018/,/pt/sobre-nos/projects/bluebiotech4pain/ministerio_da_economia_2015-2018/,pt,attachment,Ministério_da_Economia_(2015-2018),/pt/projetos/bluebiotech4pain/,301,Attachment page under /pt/sobre-nos/projects/bluebiotech4pain/
+https://sea4us.pt/pt/sobre-nos/projects/captura-de-ecra-2026-05-22-124115/,/pt/sobre-nos/projects/captura-de-ecra-2026-05-22-124115/,pt,attachment,blueflow,/pt/projetos/,301,Attachment page under /pt/sobre-nos/projects/
+https://sea4us.pt/pt/sobre-nos/projects/mar4health/ficha_de_operacao_mar4health/,/pt/sobre-nos/projects/mar4health/ficha_de_operacao_mar4health/,pt,attachment,Ficha_de_Operacao_Mar4Health,/pt/projetos/mar4health/,301,Attachment page under /pt/sobre-nos/projects/mar4health/
+https://sea4us.pt/pt/sobre-nos/projects/mar4health/mar4health/,/pt/sobre-nos/projects/mar4health/mar4health/,pt,attachment,mar4health,/pt/projetos/mar4health/,301,Attachment page under /pt/sobre-nos/projects/mar4health/
+https://sea4us.pt/pt/sobre-nos/projects/mar4pain/mar4pain/,/pt/sobre-nos/projects/mar4pain/mar4pain/,pt,attachment,mar4pain,/pt/projetos/mar4pain/,301,Attachment page under /pt/sobre-nos/projects/mar4pain/
+https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/ficha_de_operacao_marinebiotech/,/pt/sobre-nos/projects/marinebiotech/ficha_de_operacao_marinebiotech/,pt,attachment,Ficha_de_Operacao_Marinebiotech,/pt/projetos/marinebiotech/,301,Attachment page under /pt/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/headermarinebiotech/,/pt/sobre-nos/projects/marinebiotech/headermarinebiotech/,pt,attachment,HeaderMarineBiotech,/pt/projetos/marinebiotech/,301,Attachment page under /pt/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/picture1/,/pt/sobre-nos/projects/marinebiotech/picture1/,pt,attachment,MarineBiotech,/pt/projetos/marinebiotech/,301,Attachment page under /pt/sobre-nos/projects/marinebiotech/
+https://sea4us.pt/pt/sobre-nos/projects/medida-emprego/img_4480/,/pt/sobre-nos/projects/medida-emprego/img_4480/,pt,attachment,medida emprego,/pt/projetos/medida-emprego/,301,Attachment page under /pt/sobre-nos/projects/medida-emprego/
+https://sea4us.pt/pt/sobre-nos/projects/sea4market/eu/,/pt/sobre-nos/projects/sea4market/eu/,pt,attachment,EU,/pt/projetos/sea4market/,301,Attachment page under /pt/sobre-nos/projects/sea4market/
+https://sea4us.pt/pt/sobre-nos/projects/sea4market/sea4market/,/pt/sobre-nos/projects/sea4market/sea4market/,pt,attachment,sea4market,/pt/projetos/sea4market/,301,Attachment page under /pt/sobre-nos/projects/sea4market/
+https://sea4us.pt/pt/sobre-nos/team/ana-chegao_foto/,/pt/sobre-nos/team/ana-chegao_foto/,pt,attachment,Ana Chegao_foto,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/sobre-nos/team/foto_filipa-magalhaes/,/pt/sobre-nos/team/foto_filipa-magalhaes/,pt,attachment,Foto_Filipa Magalhães,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/sobre-nos/team/foto_miria-castanhar/,/pt/sobre-nos/team/foto_miria-castanhar/,pt,attachment,Foto_Miria Castanhar,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/sobre-nos/team/historia-para-instagram-a-castanho-claro-e-branco-tradicional-com-citacao-de-vida-1/,/pt/sobre-nos/team/historia-para-instagram-a-castanho-claro-e-branco-tradicional-com-citacao-de-vida-1/,pt,attachment,Daniel Vargem,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/sobre-nos/team/sea4usteam_dez2023_3618/,/pt/sobre-nos/team/sea4usteam_dez2023_3618/,pt,attachment,Sea4UsTeam_Dez2023_3618,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/sobre-nos/team/sea4usteam_dez2023_3625/,/pt/sobre-nos/team/sea4usteam_dez2023_3625/,pt,attachment,Sea4UsTeam_Dez2023_3625,/pt/sobre/equipa/,301,Attachment page under /pt/sobre-nos/team/
+https://sea4us.pt/pt/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/sea4market-2/,/pt/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/sea4market-2/,pt,attachment,sea4market,/pt/noticias/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,301,Attachment page under /pt/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/
+https://sea4us.pt/pt/vaniaroberto_poster_longevitysummit_dublin25/,/pt/vaniaroberto_poster_longevitysummit_dublin25/,pt,attachment,VaniaRoberto_Poster_LongevitySummit_Dublin25,/wp-content/uploads/2026/05/VaniaRoberto_Poster_LongevitySummit_Dublin25-pdf.jpg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/whatsapp-image-2026-01-06-at-11-30-24/,/pt/whatsapp-image-2026-01-06-at-11-30-24/,pt,attachment,WhatsApp Image 2026-01-06 at 11.30.24,/wp-content/uploads/2026/01/WhatsApp-Image-2026-01-06-at-11.30.24.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/pt/whatsapp-image-2026-02-03-at-12-29-11-2/,/pt/whatsapp-image-2026-02-03-at-12-29-11-2/,pt,attachment,WhatsApp Image 2026-02-03 at 12.29.11 (2),/wp-content/uploads/2026/05/WhatsApp-Image-2026-02-03-at-12.29.11-2.jpeg,301,"Attachment page (thin, auto-generated by WordPress)."
+https://sea4us.pt/home/about-us/our-partners/,/home/about-us/our-partners/,,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+https://sea4us.pt/jogos/,/jogos/,,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+https://sea4us.pt/wp-content/uploads/2019/02/premioalumni.png,/wp-content/uploads/2019/02/premioalumni.png,,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+"https://sea4us.pt/wp-content/uploads/2020/08/Untitled-design-3-scaled.jpg"",""id"":5328},""video_type"":""youtube"",""controls"":""yes"",""aspect_ratio"":""169""}","/wp-content/uploads/2020/08/Untitled-design-3-scaled.jpg"",""id"":5328},""video_type"":""youtube"",""controls"":""yes"",""aspect_ratio"":""169""}",,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+"https://sea4us.pt/wp-content/uploads/2026/05/P7120348-scaled.jpg""},{""id"":5481,""url"":""https://sea4us.pt/wp-content/uploads/2020/08/7.jpg""},{""id"":7985,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/diver.sponge-scaled.jpg""},{""id"":7986,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/luisella-babai--scaled.jpg""},{""id"":7988,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/underwater-pictures-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}","/wp-content/uploads/2026/05/P7120348-scaled.jpg""},{""id"":5481,""url"":""/wp-content/uploads/2020/08/7.jpg""},{""id"":7985,""url"":""/wp-content/uploads/2026/05/diver.sponge-scaled.jpg""},{""id"":7986,""url"":""/wp-content/uploads/2026/05/luisella-babai--scaled.jpg""},{""id"":7988,""url"":""/wp-content/uploads/2026/05/underwater-pictures-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}",,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+"https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4232-scaled.jpg""},{""id"":7978,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4480-scaled.jpg""},{""id"":7972,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4317-scaled.jpg""},{""id"":7973,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4362-scaled.jpg""},{""id"":7971,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4279-scaled.jpg""},{""id"":7974,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4440-scaled.jpg""},{""id"":8026,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491-1-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}","/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4232-scaled.jpg""},{""id"":7978,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4480-scaled.jpg""},{""id"":7972,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4317-scaled.jpg""},{""id"":7973,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4362-scaled.jpg""},{""id"":7971,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4279-scaled.jpg""},{""id"":7974,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4440-scaled.jpg""},{""id"":8026,""url"":""/wp-content/uploads/2026/05/Sea4UsLab_Apr2024_4491-1-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}",,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+"https://sea4us.pt/wp-content/uploads/2026/05/underwater-pictures-1-scaled.jpg""},{""id"":8007,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/P9190719-scaled.jpg""},{""id"":8008,""url"":""https://sea4us.pt/wp-content/uploads/2026/05/P7100483-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}","/wp-content/uploads/2026/05/underwater-pictures-1-scaled.jpg""},{""id"":8007,""url"":""/wp-content/uploads/2026/05/P9190719-scaled.jpg""},{""id"":8008,""url"":""/wp-content/uploads/2026/05/P7100483-scaled.jpg""}],""background_slideshow_slide_duration"":3000,""background_slideshow_slide_transition"":""slide_right"",""background_slideshow_transition_duration"":800,""background_slideshow_loop"":""yes""}",,broken (404 on old site),,,none,Linked from the old site but returns 404; nothing to migrate.
+https://sea4us.pt/en/,/en/,en,home,Sea4Us – Biotecnologia e Recursos Marinhos,/en/,keep,
+https://sea4us.pt/pt/,/pt/,pt,home,Sea4Us – Biotecnologia e Recursos Marinhos,/pt/,keep,
+https://sea4us.pt/en/alg-02-0752-feder-036043/,/en/alg-02-0752-feder-036043/,en,other,ALG-02-0752-FEDER-036043,/en/projects/,301,Standalone copy of the ALG-02-0752-FEDER-036043 funding sheet: merged into the matching project sheet.
+https://sea4us.pt/pt/alg-02-0752-feder-036043/,/pt/alg-02-0752-feder-036043/,pt,other,ALG-02-0752-FEDER-036043,/pt/projetos/,301,Standalone copy of the ALG-02-0752-FEDER-036043 funding sheet: merged into the matching project sheet.
+https://sea4us.pt/en/crowdfunding-supporters/,/en/crowdfunding-supporters/,en,page,Crowdfunding Supporters,/en/crowdfunding-supporters/,keep,
+https://sea4us.pt/en/news-2/,/en/news-2/,en,page,News,/en/news/,301,Old title “NotíciasNotícias” fixed to “Notícias”.
+https://sea4us.pt/en/partnering/,/en/partnering/,en,page,Partnering,/en/partnering-investment/,301,
+https://sea4us.pt/en/public-funding/,/en/public-funding/,en,page,Public Funding,/en/projects/,301,“Fundos Públicos” duplicates the projects index: merged.
+https://sea4us.pt/en/sobre-nos/,/en/sobre-nos/,en,page,About Us,/en/about/,301,
+https://sea4us.pt/en/sobre-nos/mission-vision/,/en/sobre-nos/mission-vision/,en,page,Mission & Vision,/en/about/,301,Mission & vision merged into About.
+https://sea4us.pt/en/sobre-nos/partners/,/en/sobre-nos/partners/,en,page,Partners,/en/partners/,301,
+https://sea4us.pt/en/sobre-nos/projects/,/en/sobre-nos/projects/,en,page,Projects,/en/projects/,301,
+https://sea4us.pt/en/sobre-nos/projects/alg-02-0752-feder-036043/,/en/sobre-nos/projects/alg-02-0752-feder-036043/,en,page,ALG-02-0752-FEDER-036043,/en/projects/,301,Code-only page (ALG-02-0752-FEDER-036043): merged into the matching project sheet; confirm which project.
+https://sea4us.pt/en/sobre-nos/projects/algae4ibd/,/en/sobre-nos/projects/algae4ibd/,en,page,Algae4IBD,/en/projects/algae4ibd/,301,
+https://sea4us.pt/en/sobre-nos/projects/algared-es/,/en/sobre-nos/projects/algared-es/,en,page,ALGARED+ – es,/en/projects/algared/,301,Duplicate of algared: merged.
+https://sea4us.pt/en/sobre-nos/projects/algared/,/en/sobre-nos/projects/algared/,en,page,ALGARED+,/en/projects/algared/,301,
+https://sea4us.pt/en/sobre-nos/projects/aquaculture/,/en/sobre-nos/projects/aquaculture/,en,page,Aquaculture,/en/projects/aquaculture/,301,
+https://sea4us.pt/en/sobre-nos/projects/ativar-pt/,/en/sobre-nos/projects/ativar-pt/,en,page,ATIVAR.PT,/en/projects/ativar-pt/,301,
+https://sea4us.pt/en/sobre-nos/projects/blue-bioeconomy-innovation-pact/,/en/sobre-nos/projects/blue-bioeconomy-innovation-pact/,en,page,Blue Bioeconomy Innovation Pact,/en/projects/blue-bioeconomy-innovation-pact/,301,
+https://sea4us.pt/en/sobre-nos/projects/blue4cancerpain/,/en/sobre-nos/projects/blue4cancerpain/,en,page,Blue4CancerPain,/en/projects/blue4cancerpain/,301,
+https://sea4us.pt/en/sobre-nos/projects/blue4pain/,/en/sobre-nos/projects/blue4pain/,en,page,Blue4Pain,/en/projects/blue4pain/,301,
+https://sea4us.pt/en/sobre-nos/projects/bluebiotech4pain/,/en/sobre-nos/projects/bluebiotech4pain/,en,page,Bluebiotech4Pain,/en/projects/bluebiotech4pain/,301,
+https://sea4us.pt/en/sobre-nos/projects/blueflow/,/en/sobre-nos/projects/blueflow/,en,page,BlueFlow,/en/projects/blueflow/,301,
+https://sea4us.pt/en/sobre-nos/projects/chemistry/,/en/sobre-nos/projects/chemistry/,en,page,Chemistry,/en/projects/chemistry/,301,
+https://sea4us.pt/en/sobre-nos/projects/highly-qualified-human-resources/,/en/sobre-nos/projects/highly-qualified-human-resources/,en,page,Highly Qualified Human Resources,/en/projects/highly-qualified-human-resources/,301,
+https://sea4us.pt/en/sobre-nos/projects/https-sea4us-pt-sobre-nos-projects-highly-qualified-human-resources/,/en/sobre-nos/projects/https-sea4us-pt-sobre-nos-projects-highly-qualified-human-resources/,en,page,Recursos Humanos Altamente Qualificados,/en/projects/highly-qualified-human-resources/,301,Duplicate of highly-qualified-human-resources: merged.
+https://sea4us.pt/en/sobre-nos/projects/internacionalizacao/,/en/sobre-nos/projects/internacionalizacao/,en,page,Internacionalização,/en/projects/internacionalizacao/,301,
+https://sea4us.pt/en/sobre-nos/projects/mar4health/,/en/sobre-nos/projects/mar4health/,en,page,Mar4Health,/en/projects/mar4health/,301,
+https://sea4us.pt/en/sobre-nos/projects/mar4pain/,/en/sobre-nos/projects/mar4pain/,en,page,Mar4Pain,/en/projects/mar4pain/,301,
+https://sea4us.pt/en/sobre-nos/projects/mar4pain2/,/en/sobre-nos/projects/mar4pain2/,en,page,Mar4Pain2,/en/projects/mar4pain2/,301,
+https://sea4us.pt/en/sobre-nos/projects/marinebiotech/,/en/sobre-nos/projects/marinebiotech/,en,page,MarineBiotech,/en/projects/marinebiotech/,301,
+https://sea4us.pt/en/sobre-nos/projects/medida-emprego/,/en/sobre-nos/projects/medida-emprego/,en,page,Medida Emprego,/en/projects/medida-emprego/,301,
+https://sea4us.pt/en/sobre-nos/projects/ocean-medicines/,/en/sobre-nos/projects/ocean-medicines/,en,page,Ocean Medicines,/en/projects/ocean-medicines/,301,
+https://sea4us.pt/en/sobre-nos/projects/patents/,/en/sobre-nos/projects/patents/,en,page,Patents,/en/projects/patents/,301,
+https://sea4us.pt/en/sobre-nos/projects/sea4cipn/,/en/sobre-nos/projects/sea4cipn/,en,page,SEA4CIPN,/en/projects/sea4cipn/,301,
+https://sea4us.pt/en/sobre-nos/projects/sea4market/,/en/sobre-nos/projects/sea4market/,en,page,Sea4Market,/en/projects/sea4market/,301,
+https://sea4us.pt/en/sobre-nos/projects/sea4pain/,/en/sobre-nos/projects/sea4pain/,en,page,Sea4Pain,/en/projects/sea4pain/,301,
+https://sea4us.pt/en/sobre-nos/projects/sea4paininternational/,/en/sobre-nos/projects/sea4paininternational/,en,page,Sea4PainInternational,/en/projects/sea4paininternational/,301,
+https://sea4us.pt/en/sobre-nos/projects/seabiocide-2/,/en/sobre-nos/projects/seabiocide-2/,en,page,SEABIOCIDE,/en/projects/seabiocide-2/,301,
+https://sea4us.pt/en/sobre-nos/projects/si2e/,/en/sobre-nos/projects/si2e/,en,page,SI2E,/en/projects/si2e/,301,
+https://sea4us.pt/en/sobre-nos/team/,/en/sobre-nos/team/,en,page,Team,/en/about/team/,301,
+https://sea4us.pt/en/technology/,/en/technology/,en,page,Technology,/en/science-technology/,301,"Split: science & technology, programmes/pipeline and research transparency (#animalresearch)."
+https://sea4us.pt/en/useful-links/,/en/useful-links/,en,page,Useful Links,/en/useful-links/,keep,
+https://sea4us.pt/pt/crowdfunding-supporters/,/pt/crowdfunding-supporters/,pt,page,Apoiantes de Crowdfunding,/pt/apoiantes-crowdfunding/,301,
+https://sea4us.pt/pt/news-2/,/pt/news-2/,pt,page,NotíciasNotícias,/pt/noticias/,301,Old title “NotíciasNotícias” fixed to “Notícias”.
+https://sea4us.pt/pt/partnering/,/pt/partnering/,pt,page,Partnering,/pt/parcerias-e-investimento/,301,
+https://sea4us.pt/pt/public-funding/,/pt/public-funding/,pt,page,Fundos Públicos,/pt/projetos/,301,“Fundos Públicos” duplicates the projects index: merged.
+https://sea4us.pt/pt/sobre-nos/,/pt/sobre-nos/,pt,page,Sobre Nós,/pt/sobre/,301,
+https://sea4us.pt/pt/sobre-nos/mission-vision/,/pt/sobre-nos/mission-vision/,pt,page,Missão e Visão,/pt/sobre/,301,Mission & vision merged into About.
+https://sea4us.pt/pt/sobre-nos/partners/,/pt/sobre-nos/partners/,pt,page,Parceiros,/pt/parceiros/,301,
+https://sea4us.pt/pt/sobre-nos/projects/,/pt/sobre-nos/projects/,pt,page,Projetos,/pt/projetos/,301,
+https://sea4us.pt/pt/sobre-nos/projects/alg-02-0752-feder-036043/,/pt/sobre-nos/projects/alg-02-0752-feder-036043/,pt,page,ALG-02-0752-FEDER-036043,/pt/projetos/,301,Code-only page (ALG-02-0752-FEDER-036043): merged into the matching project sheet; confirm which project.
+https://sea4us.pt/pt/sobre-nos/projects/algae4ibd/,/pt/sobre-nos/projects/algae4ibd/,pt,page,Algae4IBD,/pt/projetos/algae4ibd/,301,
+https://sea4us.pt/pt/sobre-nos/projects/algared-es/,/pt/sobre-nos/projects/algared-es/,pt,page,ALGARED+ – es,/pt/projetos/algared/,301,Duplicate of algared: merged.
+https://sea4us.pt/pt/sobre-nos/projects/algared/,/pt/sobre-nos/projects/algared/,pt,page,ALGARED+,/pt/projetos/algared/,301,
+https://sea4us.pt/pt/sobre-nos/projects/aquaculture/,/pt/sobre-nos/projects/aquaculture/,pt,page,Aquacultura,/pt/projetos/aquaculture/,301,
+https://sea4us.pt/pt/sobre-nos/projects/ativar-pt/,/pt/sobre-nos/projects/ativar-pt/,pt,page,Medida Estágios ATIVAR.PT,/pt/projetos/ativar-pt/,301,
+https://sea4us.pt/pt/sobre-nos/projects/blue-bioeconomy-innovation-pact/,/pt/sobre-nos/projects/blue-bioeconomy-innovation-pact/,pt,page,Pacto para a Bioeconomia Azul,/pt/projetos/blue-bioeconomy-innovation-pact/,301,
+https://sea4us.pt/pt/sobre-nos/projects/blue4cancerpain/,/pt/sobre-nos/projects/blue4cancerpain/,pt,page,Blue4CancerPain,/pt/projetos/blue4cancerpain/,301,
+https://sea4us.pt/pt/sobre-nos/projects/blue4pain/,/pt/sobre-nos/projects/blue4pain/,pt,page,Blue4Pain,/pt/projetos/blue4pain/,301,
+https://sea4us.pt/pt/sobre-nos/projects/bluebiotech4pain/,/pt/sobre-nos/projects/bluebiotech4pain/,pt,page,Bluebiotech4Pain,/pt/projetos/bluebiotech4pain/,301,
+https://sea4us.pt/pt/sobre-nos/projects/blueflow/,/pt/sobre-nos/projects/blueflow/,pt,page,BlueFlow,/pt/projetos/blueflow/,301,
+https://sea4us.pt/pt/sobre-nos/projects/chemistry/,/pt/sobre-nos/projects/chemistry/,pt,page,Química,/pt/projetos/chemistry/,301,
+https://sea4us.pt/pt/sobre-nos/projects/highly-qualified-human-resources/,/pt/sobre-nos/projects/highly-qualified-human-resources/,pt,page,Recursos Humanos Altamente Qualificados,/pt/projetos/highly-qualified-human-resources/,301,
+https://sea4us.pt/pt/sobre-nos/projects/https-sea4us-pt-sobre-nos-projects-highly-qualified-human-resources/,/pt/sobre-nos/projects/https-sea4us-pt-sobre-nos-projects-highly-qualified-human-resources/,pt,page,Recursos Humanos Altamente Qualificados,/pt/projetos/highly-qualified-human-resources/,301,Duplicate of highly-qualified-human-resources: merged.
+https://sea4us.pt/pt/sobre-nos/projects/internacionalizacao/,/pt/sobre-nos/projects/internacionalizacao/,pt,page,Internacionalização,/pt/projetos/internacionalizacao/,301,
+https://sea4us.pt/pt/sobre-nos/projects/mar4health/,/pt/sobre-nos/projects/mar4health/,pt,page,Mar4Health,/pt/projetos/mar4health/,301,
+https://sea4us.pt/pt/sobre-nos/projects/mar4pain/,/pt/sobre-nos/projects/mar4pain/,pt,page,Mar4Pain,/pt/projetos/mar4pain/,301,
+https://sea4us.pt/pt/sobre-nos/projects/mar4pain2/,/pt/sobre-nos/projects/mar4pain2/,pt,page,Mar4Pain2,/pt/projetos/mar4pain2/,301,
+https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/,/pt/sobre-nos/projects/marinebiotech/,pt,page,MarineBiotech,/pt/projetos/marinebiotech/,301,
+https://sea4us.pt/pt/sobre-nos/projects/medida-emprego/,/pt/sobre-nos/projects/medida-emprego/,pt,page,Medida Emprego,/pt/projetos/medida-emprego/,301,
+https://sea4us.pt/pt/sobre-nos/projects/ocean-medicines/,/pt/sobre-nos/projects/ocean-medicines/,pt,page,Ocean Medicines,/pt/projetos/ocean-medicines/,301,
+https://sea4us.pt/pt/sobre-nos/projects/patents/,/pt/sobre-nos/projects/patents/,pt,page,Patentes,/pt/projetos/patents/,301,
+https://sea4us.pt/pt/sobre-nos/projects/sea4cipn/,/pt/sobre-nos/projects/sea4cipn/,pt,page,SEA4CIPN,/pt/projetos/sea4cipn/,301,
+https://sea4us.pt/pt/sobre-nos/projects/sea4market/,/pt/sobre-nos/projects/sea4market/,pt,page,Sea4Market,/pt/projetos/sea4market/,301,
+https://sea4us.pt/pt/sobre-nos/projects/sea4pain/,/pt/sobre-nos/projects/sea4pain/,pt,page,Sea4Pain,/pt/projetos/sea4pain/,301,
+https://sea4us.pt/pt/sobre-nos/projects/sea4paininternational/,/pt/sobre-nos/projects/sea4paininternational/,pt,page,Sea4PainInternational,/pt/projetos/sea4paininternational/,301,
+https://sea4us.pt/pt/sobre-nos/projects/seabiocide-2/,/pt/sobre-nos/projects/seabiocide-2/,pt,page,SEABIOCIDE,/pt/projetos/seabiocide-2/,301,
+https://sea4us.pt/pt/sobre-nos/projects/si2e/,/pt/sobre-nos/projects/si2e/,pt,page,SI2E,/pt/projetos/si2e/,301,
+https://sea4us.pt/pt/sobre-nos/team/,/pt/sobre-nos/team/,pt,page,Team,/pt/sobre/equipa/,301,
+https://sea4us.pt/pt/technology/,/pt/technology/,pt,page,Tecnologia,/pt/ciencia-e-tecnologia/,301,"Split: science & technology, programmes/pipeline and research transparency (#animalresearch)."
+https://sea4us.pt/pt/useful-links/,/pt/useful-links/,pt,page,Links Úteis,/pt/links-uteis/,301,
+https://sea4us.pt/en/10th-innovation-awards-novo-banco-sea4us-finals/,/en/10th-innovation-awards-novo-banco-sea4us-finals/,en,post,10th Innovation Awards – Novo Banco: Sea4Us at the finals,/en/news/10th-innovation-awards-novo-banco-sea4us-finals/,301,
+https://sea4us.pt/en/11th-innovation-awards-novo-banco-sea4us-finals/,/en/11th-innovation-awards-novo-banco-sea4us-finals/,en,post,11th Innovation Awards – Novo Banco: Sea4Us at the finals,/en/news/11th-innovation-awards-novo-banco-sea4us-finals/,301,
+https://sea4us.pt/en/3-anos-30-fotografias-30-cientistas-marisa-sousa/,/en/3-anos-30-fotografias-30-cientistas-marisa-sousa/,en,post,"30 anos, 30 fotografias, 30 cientistas | Marisa Sousa",/en/news/3-anos-30-fotografias-30-cientistas-marisa-sousa/,301,
+https://sea4us.pt/en/4760-2/,/en/4760-2/,en,post,NeuPSIG 2019 | Sea4Us,/en/news/4760-2/,301,
+https://sea4us.pt/en/algae4ibd-project-starts-now/,/en/algae4ibd-project-starts-now/,en,post,Algae4IBD Project starts NOW,/en/news/algae4ibd-project-starts-now/,301,
+https://sea4us.pt/en/barlavento-journal-interview/,/en/barlavento-journal-interview/,en,post,Barlavento Journal Interview | Pedro Lima and Filipe Vilas-Boas,/en/news/barlavento-journal-interview/,301,
+https://sea4us.pt/en/bem-vinda-giovanna-ocean-medicines/,/en/bem-vinda-giovanna-ocean-medicines/,en,post,"Welcome, Giovanna! | Ocean Medicines",/en/news/bem-vinda-giovanna-ocean-medicines/,301,
+https://sea4us.pt/en/blue-bioeconomy-pact-starts-now/,/en/blue-bioeconomy-pact-starts-now/,en,post,Blue BioEconomy Pact starts NOW,/en/news/blue-bioeconomy-pact-starts-now/,301,
+https://sea4us.pt/en/bluebio-alliance-takes-sea4us-to-japan/,/en/bluebio-alliance-takes-sea4us-to-japan/,en,post,BlueBio Alliance takes Sea4us to Japan,/en/news/bluebio-alliance-takes-sea4us-to-japan/,301,
+https://sea4us.pt/en/bluebiovalue2020/,/en/bluebiovalue2020/,en,post,"BLUE BIO VALUE 2020 – The world needs your sustainable solutions now, more than ever",/en/news/bluebiovalue2020/,301,
+https://sea4us.pt/en/bten-interview/,/en/bten-interview/,en,post,B’TEN Interview | Filipe Vilas-Boas,/en/news/bten-interview/,301,
+https://sea4us.pt/en/clinical-trial-application-approval/,/en/clinical-trial-application-approval/,en,post,Clinical Trial Application Approved!,/en/news/clinical-trial-application-approval/,301,
+https://sea4us.pt/en/cohitec/,/en/cohitec/,en,post,COHiTEC Program,/en/news/cohitec/,301,
+https://sea4us.pt/en/congrats-rosa/,/en/congrats-rosa/,en,post,Congrats Rosa!,/en/news/congrats-rosa/,301,
+https://sea4us.pt/en/correiodamanha/,/en/correiodamanha/,en,post,“Correio da Manhã” Interview | Filipe Vilas-Boas and Marisa Sousa,/en/news/correiodamanha/,301,
+https://sea4us.pt/en/crowdfunding-campaign-press-release/,/en/crowdfunding-campaign-press-release/,en,post,Crowdfunding Campaign – Press Release,/en/news/crowdfunding-campaign-press-release/,301,
+https://sea4us.pt/en/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,/en/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,en,post,End of 2nd round of med-chem for the analgesic compound – Lead Selected,/en/news/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,301,
+https://sea4us.pt/en/european-maritime-day-2019/,/en/european-maritime-day-2019/,en,post,European Maritime Day 2019,/en/news/european-maritime-day-2019/,301,
+https://sea4us.pt/en/final-event-bluebiotech4pain/,/en/final-event-bluebiotech4pain/,en,post,Final Event BlueBioTech4Pain,/en/news/final-event-bluebiotech4pain/,301,
+https://sea4us.pt/en/first-in-person-general-assembly-of-algae4ibd-in-israel/,/en/first-in-person-general-assembly-of-algae4ibd-in-israel/,en,post,First in person General Assembly of Algae4IBD in Israel,/en/news/first-in-person-general-assembly-of-algae4ibd-in-israel/,301,
+https://sea4us.pt/en/go-far-go-together-poctep/,/en/go-far-go-together-poctep/,en,post,"To go far, go together | POCTEP",/en/news/go-far-go-together-poctep/,301,
+https://sea4us.pt/en/grow-algarve-meetup/,/en/grow-algarve-meetup/,en,post,Grow Algarve Meetup,/en/news/grow-algarve-meetup/,301,
+https://sea4us.pt/en/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,/en/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,en,post,"Happy to announce our fully renovated Discovery Lab and Headquarters, Sagres",/en/news/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,301,
+https://sea4us.pt/en/imed-award-beatriz-szwarc/,/en/imed-award-beatriz-szwarc/,en,post,iMed 8.0 Best Presentation Award | Beatriz Szwarc,/en/news/imed-award-beatriz-szwarc/,301,
+https://sea4us.pt/en/interview-with-barlavento/,/en/interview-with-barlavento/,en,post,Interview with Barlavento,/en/news/interview-with-barlavento/,301,
+https://sea4us.pt/en/jornal-de-negocios-interview/,/en/jornal-de-negocios-interview/,en,post,“Jornal de Negócios” Interview,/en/news/jornal-de-negocios-interview/,301,
+https://sea4us.pt/en/maritime-offshore-news-noticias-mar-interview/,/en/maritime-offshore-news-noticias-mar-interview/,en,post,Maritime & Offshore News (Notícias do Mar) Interview | Pedro Lima,/en/news/maritime-offshore-news-noticias-mar-interview/,301,
+https://sea4us.pt/en/neupsig/,/en/neupsig/,en,post,NeuPSIG 2017 | Sea4Us,/en/news/neupsig/,301,
+https://sea4us.pt/en/new-milestone-achieved-in-our-analgesic-program/,/en/new-milestone-achieved-in-our-analgesic-program/,en,post,New Milestone Achieved in our Analgesic Program,/en/news/new-milestone-achieved-in-our-analgesic-program/,301,
+https://sea4us.pt/en/new-partners-to-join-sea4us-2/,/en/new-partners-to-join-sea4us-2/,en,post,New partners to join Sea4Us,/en/news/new-partners-to-join-sea4us-2/,301,
+https://sea4us.pt/en/new-partners-to-join-sea4us/,/en/new-partners-to-join-sea4us/,en,post,New partners to join Sea4Us,/en/news/new-partners-to-join-sea4us/,301,
+https://sea4us.pt/en/new-partnerships-new-project-algared/,/en/new-partnerships-new-project-algared/,en,post,"New partnerships, new project | ALGARED+",/en/news/new-partnerships-new-project-algared/,301,
+https://sea4us.pt/en/news-mar4health/,/en/news-mar4health/,en,post,Mar4Health,/en/news/news-mar4health/,301,
+https://sea4us.pt/en/nova-medical-school-open-day-sea4us/,/en/nova-medical-school-open-day-sea4us/,en,post,NOVA Medical School OPEN DAY | Sea4Us,/en/news/nova-medical-school-open-day-sea4us/,301,
+https://sea4us.pt/en/ocean-medicines-emiliana/,/en/ocean-medicines-emiliana/,en,post,"Welcome, Emiliana! | Ocean Medicines",/en/news/ocean-medicines-emiliana/,301,
+https://sea4us.pt/en/ocean-medicines-kick-off-meeting/,/en/ocean-medicines-kick-off-meeting/,en,post,Ocean Medicines “Kick-Off Meeting” | Silvia Lino and Nuno Leitão,/en/news/ocean-medicines-kick-off-meeting/,301,
+https://sea4us.pt/en/ocean-medicines-silvia-lino/,/en/ocean-medicines-silvia-lino/,en,post,"Silvia Lino is at IPB-CNR, Naples, Italy! | Ocean Medicines",/en/news/ocean-medicines-silvia-lino/,301,
+https://sea4us.pt/en/ocean-mediciness-first-midterm-meeting-nova-medical-school/,/en/ocean-mediciness-first-midterm-meeting-nova-medical-school/,en,post,Ocean Medicines’s first Midterm Meeting | NOVA Medical School,/en/news/ocean-mediciness-first-midterm-meeting-nova-medical-school/,301,
+https://sea4us.pt/en/onestart/,/en/onestart/,en,post,OneStart Europe Semi-Finalists!,/en/news/onestart/,301,
+https://sea4us.pt/en/parabens-gilberto/,/en/parabens-gilberto/,en,post,"Congrats, Gilberto!",/en/news/parabens-gilberto/,301,
+https://sea4us.pt/en/pedro-lima-receives-premio-carreira-almuni-ualg/,/en/pedro-lima-receives-premio-carreira-almuni-ualg/,en,post,Pedro Lima receives UAlg “Prémio Carreira Almuni”,/en/news/pedro-lima-receives-premio-carreira-almuni-ualg/,301,
+https://sea4us.pt/en/portugal-2020-funding-approved/,/en/portugal-2020-funding-approved/,en,post,Portugal 2020 funding approved!,/en/news/portugal-2020-funding-approved/,301,
+https://sea4us.pt/en/promar-funding-approved/,/en/promar-funding-approved/,en,post,PROMAR funding approved!,/en/news/promar-funding-approved/,301,
+https://sea4us.pt/en/qren1/,/en/qren1/,en,post,QREN funding approved!,/en/news/qren1/,301,
+https://sea4us.pt/en/sea4pain-approved-funding-sme-instrument-phase-1/,/en/sea4pain-approved-funding-sme-instrument-phase-1/,en,post,Sea4Pain approved for funding under the SME Instrument – Phase 1,/en/news/sea4pain-approved-funding-sme-instrument-phase-1/,301,
+https://sea4us.pt/en/sea4us-11th-brazilian-congress-pain/,/en/sea4us-11th-brazilian-congress-pain/,en,post,Sea4Us was at the “11th Brazilian Congress of Pain” | Marisa Sousa,/en/news/sea4us-11th-brazilian-congress-pain/,301,
+https://sea4us.pt/en/sea4us-15th-young-entrepreneurs-award-finals/,/en/sea4us-15th-young-entrepreneurs-award-finals/,en,post,Sea4Us at the 15th Young Entrepreneurs Award Finals,/en/news/sea4us-15th-young-entrepreneurs-award-finals/,301,
+https://sea4us.pt/en/sea4us-at-bio-europe-2024/,/en/sea4us-at-bio-europe-2024/,en,post,Sea4Us at Bio-Europe 2024,/en/news/sea4us-at-bio-europe-2024/,301,
+https://sea4us.pt/en/sea4us-at-bio-europe-round-table/,/en/sea4us-at-bio-europe-round-table/,en,post,Sea4Us at Bio-Europe Round Table,/en/news/sea4us-at-bio-europe-round-table/,301,
+https://sea4us.pt/en/sea4us-at-biofit-2019/,/en/sea4us-at-biofit-2019/,en,post,Sea4Us at BioFIT 2019,/en/news/sea4us-at-biofit-2019/,301,
+https://sea4us.pt/en/sea4us-at-euromarine/,/en/sea4us-at-euromarine/,en,post,Sea4Us at Euromarine workshop | Silvia Lino and Nuno Leitão,/en/news/sea4us-at-euromarine/,301,
+https://sea4us.pt/en/sea4us-at-expresso/,/en/sea4us-at-expresso/,en,post,Sea4Us at Expresso,/en/news/sea4us-at-expresso/,301,
+https://sea4us.pt/en/sea4us-at-ifeqb/,/en/sea4us-at-ifeqb/,en,post,Sea4Us at iFEQB | Filipe Vilas-Boas,/en/news/sea4us-at-ifeqb/,301,
+https://sea4us.pt/en/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,/en/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,en,post,Sea4Us at II JORNADA PROYECTO ALGARED+ – New Applications of Microalgae,/en/news/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,301,
+https://sea4us.pt/en/sea4us-at-manapro/,/en/sea4us-at-manapro/,en,post,Sea4Us at MaNaPro,/en/news/sea4us-at-manapro/,301,
+https://sea4us.pt/en/sea4us-at-the-blue-business-forum-blue-week/,/en/sea4us-at-the-blue-business-forum-blue-week/,en,post,Sea4Us at the Blue Business Forum | Blue Week Lisboa 2015,/en/news/sea4us-at-the-blue-business-forum-blue-week/,301,
+https://sea4us.pt/en/sea4us-at-the-world-congress-on-pain/,/en/sea4us-at-the-world-congress-on-pain/,en,post,Sea4Us at the World Congress on Pain,/en/news/sea4us-at-the-world-congress-on-pain/,301,
+https://sea4us.pt/en/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,/en/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,en,post,Sea4Us Crowdfunding Campaign – Marine Organisms for the Treatment of Chronic Pain,/en/news/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,301,
+https://sea4us.pt/en/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,/en/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,en,post,Sea4Us at “Encontros no Aquário Vasco da Gama” | Pedro Lima,/en/news/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,301,
+https://sea4us.pt/en/sea4us-featured-at-rtps-sociedade-civil/,/en/sea4us-featured-at-rtps-sociedade-civil/,en,post,Sea4Us featured at RTP’s Sociedade Civil,/en/news/sea4us-featured-at-rtps-sociedade-civil/,301,
+https://sea4us.pt/en/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,/en/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,en,post,Sea4Us featured in Portugal Startup News: marine biotechnology serving a pain-free future,/en/news/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,301,
+https://sea4us.pt/en/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,/en/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,en,post,Sea4Us featured in SÁBADO: Portuguese discoveries with the potential to transform pain treatment,/en/news/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,301,
+https://sea4us.pt/en/sea4us-featured-on-sic-noticias/,/en/sea4us-featured-on-sic-noticias/,en,post,Sea4Us featured on SIC Notícias,/en/news/sea4us-featured-on-sic-noticias/,301,
+https://sea4us.pt/en/sea4us-founding-member-bluebio-alliance/,/en/sea4us-founding-member-bluebio-alliance/,en,post,Sea4Us is a founding member of BLUEBIO ALLIANCE,/en/news/sea4us-founding-member-bluebio-alliance/,301,
+https://sea4us.pt/en/sea4us-gets-on-board24/,/en/sea4us-gets-on-board24/,en,post,Sea4Us gets on #BOARD24,/en/news/sea4us-gets-on-board24/,301,Only available in PT on the old site: translation to write.
+https://sea4us.pt/en/sea4us-gets-onboard25/,/en/sea4us-gets-onboard25/,en,post,Sea4Us gets #ONBOARD25,/en/news/sea4us-gets-onboard25/,301,
+https://sea4us.pt/en/sea4us-inn/,/en/sea4us-inn/,en,post,Sea4Us featured on Innovation News Network,/en/news/sea4us-inn/,301,
+https://sea4us.pt/en/sea4us-interview-agencialusa/,/en/sea4us-interview-agencialusa/,en,post,Innovative solutions for chronic pain | Agência Lusa,/en/news/sea4us-interview-agencialusa/,301,Only available in PT on the old site: translation to write.
+https://sea4us.pt/en/sea4us-interview-expresso/,/en/sea4us-interview-expresso/,en,post,Sea4Us Interview with Expresso | Portugal 2020,/en/news/sea4us-interview-expresso/,301,
+https://sea4us.pt/en/sea4us-interview-with-nova-magazine/,/en/sea4us-interview-with-nova-magazine/,en,post,"Sea4Us Interview with NOVA Magazine | Pedro Lima, André Bastos, Beatriz Szwarc",/en/news/sea4us-interview-with-nova-magazine/,301,
+https://sea4us.pt/en/sea4us-is-at-blue-bioeconomy-forum-brussels/,/en/sea4us-is-at-blue-bioeconomy-forum-brussels/,en,post,Sea4Us is at Blue Bioeconomy Forum (Brussels),/en/news/sea4us-is-at-blue-bioeconomy-forum-brussels/,301,
+https://sea4us.pt/en/sea4us-is-attending-bioeurope-2022/,/en/sea4us-is-attending-bioeurope-2022/,en,post,Sea4Us is attending BioEurope 2022,/en/news/sea4us-is-attending-bioeurope-2022/,301,
+https://sea4us.pt/en/sea4us-is-attending-un2022-ocean-conference/,/en/sea4us-is-attending-un2022-ocean-conference/,en,post,Sea4Us is attending UN2022 Ocean Conference,/en/news/sea4us-is-attending-un2022-ocean-conference/,301,
+https://sea4us.pt/en/sea4us-joins-the-united-nations-global-compact/,/en/sea4us-joins-the-united-nations-global-compact/,en,post,Sea4Us joins the United Nations Global Compact,/en/news/sea4us-joins-the-united-nations-global-compact/,301,
+https://sea4us.pt/en/sea4us-na-noite-europeia-dos-investigadores/,/en/sea4us-na-noite-europeia-dos-investigadores/,en,post,Sea4Us at the European Researcher’s Night,/en/news/sea4us-na-noite-europeia-dos-investigadores/,301,
+https://sea4us.pt/en/sea4us-no-muhnac/,/en/sea4us-no-muhnac/,en,post,Sea4Us no MUHNAC! | Filipe Vilas-Boas,/en/news/sea4us-no-muhnac/,301,Only available in PT on the old site: translation to write.
+https://sea4us.pt/en/sea4us-noite-europeia-dos-investigadores-2017/,/en/sea4us-noite-europeia-dos-investigadores-2017/,en,post,Sea4Us @ European Researchers’ Night,/en/news/sea4us-noite-europeia-dos-investigadores-2017/,301,
+https://sea4us.pt/en/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,/en/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,en,post,Sea4Us at the Official Visit of the President of the Portuguese Republic to Norway – Business Delegation,/en/news/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,301,
+https://sea4us.pt/en/sea4us-onestarts-bootcamp-london/,/en/sea4us-onestarts-bootcamp-london/,en,post,"Sea4Us at OneStart’s bootcamp in London | Marisa Sousa, Filipe Vilas-Boas and Hugo Pacheco",/en/news/sea4us-onestarts-bootcamp-london/,301,
+https://sea4us.pt/en/sea4us-sa/,/en/sea4us-sa/,en,post,"Sea4Us, SA",/en/news/sea4us-sa/,301,
+https://sea4us.pt/en/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,/en/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,en,post,Sea4Us at the second evaluation round of the 15th Young Entrepreneurs Award,/en/news/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,301,
+https://sea4us.pt/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,/en/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,en,post,Sea4Us secures Accelerator Program from the EiC and SMEs Executive Agency (EISMEA),/en/news/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,
+https://sea4us.pt/en/sea4us-sets-record-at-goparity-campaing/,/en/sea4us-sets-record-at-goparity-campaing/,en,post,Sea4Us sets record at Goparity campaing,/en/news/sea4us-sets-record-at-goparity-campaing/,301,
+https://sea4us.pt/en/sea4us-team-event-and-general-meeting-in-sagres/,/en/sea4us-team-event-and-general-meeting-in-sagres/,en,post,Sea4Us Team Event and General Meeting in Sagres,/en/news/sea4us-team-event-and-general-meeting-in-sagres/,301,
+https://sea4us.pt/en/seal-excellence-european-commission/,/en/seal-excellence-european-commission/,en,post,Seal of Excellence by the European Commission,/en/news/seal-excellence-european-commission/,301,
+https://sea4us.pt/en/seal-of-excellence-by-the-european-commission/,/en/seal-of-excellence-by-the-european-commission/,en,post,Seal of Excellence by the European Commission,/en/news/seal-of-excellence-by-the-european-commission/,301,
+https://sea4us.pt/en/second-qren-funding-approved/,/en/second-qren-funding-approved/,en,post,Second QREN funding approved!,/en/news/second-qren-funding-approved/,301,
+https://sea4us.pt/en/semi-finalists-everis-foundations-entrepreneurs-award-2014/,/en/semi-finalists-everis-foundations-entrepreneurs-award-2014/,en,post,Semi-finalists for the Everis Foundation’s Entrepreneurs Award 2014,/en/news/semi-finalists-everis-foundations-entrepreneurs-award-2014/,301,
+https://sea4us.pt/en/seminar-viladobispo/,/en/seminar-viladobispo/,en,post,II Seminar Potentialities of a Municipality – The Sea of ​​Vila do Bispo,/en/news/seminar-viladobispo/,301,
+https://sea4us.pt/en/silvia-lino-uit-tromso-norway-ocean-medicines/,/en/silvia-lino-uit-tromso-norway-ocean-medicines/,en,post,"Silvia Lino is at UiT, Tromsø, Norway! | Ocean Medicines",/en/news/silvia-lino-uit-tromso-norway-ocean-medicines/,301,
+https://sea4us.pt/en/starting-bluebiotech4pain-project/,/en/starting-bluebiotech4pain-project/,en,post,Starting Bluebiotech4Pain project!,/en/news/starting-bluebiotech4pain-project/,301,
+https://sea4us.pt/en/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,/en/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,en,post,Taking our non-opioid analgesic to clinical trials: Sea4Market has started,/en/news/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,301,
+https://sea4us.pt/en/thank-nava-sea4us/,/en/thank-nava-sea4us/,en,post,Thank you NAVA! | Sea4Us,/en/news/thank-nava-sea4us/,301,
+https://sea4us.pt/en/the-blue-economy/,/en/the-blue-economy/,en,post,Sea4Us at The BLUE Economy – marine bioresources value chain in Portugal | Filipe Vilas-Boas,/en/news/the-blue-economy/,301,
+https://sea4us.pt/en/vertical-algas-kick-off-event/,/en/vertical-algas-kick-off-event/,en,post,Vertical Algas kick off event,/en/news/vertical-algas-kick-off-event/,301,
+https://sea4us.pt/en/xv-meeting-portuguese-society-neuroscience-sea4us/,/en/xv-meeting-portuguese-society-neuroscience-sea4us/,en,post,XV Meeting of the Portuguese Society for Neuroscience | Sea4Us,/en/news/xv-meeting-portuguese-society-neuroscience-sea4us/,301,
+https://sea4us.pt/pt/10th-innovation-awards-novo-banco-sea4us-finals/,/pt/10th-innovation-awards-novo-banco-sea4us-finals/,pt,post,10th Innovation Awards – Novo Banco: Sea4Us at the finals,/pt/noticias/10th-innovation-awards-novo-banco-sea4us-finals/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/11th-innovation-awards-novo-banco-sea4us-finals/,/pt/11th-innovation-awards-novo-banco-sea4us-finals/,pt,post,11th Innovation Awards – Novo Banco: Sea4Us at the finals,/pt/noticias/11th-innovation-awards-novo-banco-sea4us-finals/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/3-anos-30-fotografias-30-cientistas-marisa-sousa/,/pt/3-anos-30-fotografias-30-cientistas-marisa-sousa/,pt,post,"30 anos, 30 fotografias, 30 cientistas | Marisa Sousa",/pt/noticias/3-anos-30-fotografias-30-cientistas-marisa-sousa/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/4760-2/,/pt/4760-2/,pt,post,NeuPSIG 2019 | Sea4Us,/pt/noticias/4760-2/,301,
+https://sea4us.pt/pt/algae4ibd-project-starts-now/,/pt/algae4ibd-project-starts-now/,pt,post,Projecto Algae4IBD começa agora!,/pt/noticias/algae4ibd-project-starts-now/,301,
+https://sea4us.pt/pt/barlavento-journal-interview/,/pt/barlavento-journal-interview/,pt,post,Barlavento Journal Interview | Pedro Lima and Filipe Vilas-Boas,/pt/noticias/barlavento-journal-interview/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/bem-vinda-giovanna-ocean-medicines/,/pt/bem-vinda-giovanna-ocean-medicines/,pt,post,"Bem-vinda, Giovanna! | Ocean Medicines",/pt/noticias/bem-vinda-giovanna-ocean-medicines/,301,
+https://sea4us.pt/pt/blue-bioeconomy-pact-starts-now/,/pt/blue-bioeconomy-pact-starts-now/,pt,post,Blue Bioeconomy Pact começa agora!,/pt/noticias/blue-bioeconomy-pact-starts-now/,301,
+https://sea4us.pt/pt/bluebio-alliance-takes-sea4us-to-japan/,/pt/bluebio-alliance-takes-sea4us-to-japan/,pt,post,A BlueBio Alliance leva a Sea4us ao Japão,/pt/noticias/bluebio-alliance-takes-sea4us-to-japan/,301,
+https://sea4us.pt/pt/bluebiovalue2020/,/pt/bluebiovalue2020/,pt,post,BLUE BIO VALUE 2020 – O mundo precisa de soluções sustentáveis agora mais que nunca,/pt/noticias/bluebiovalue2020/,301,
+https://sea4us.pt/pt/bten-interview/,/pt/bten-interview/,pt,post,B’TEN Interview | Filipe Vilas-Boas,/pt/noticias/bten-interview/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/clinical-trial-application-approval/,/pt/clinical-trial-application-approval/,pt,post,Submissão a Ensaios Clínicos Aprovada!,/pt/noticias/clinical-trial-application-approval/,301,
+https://sea4us.pt/pt/cohitec/,/pt/cohitec/,pt,post,COHiTEC Program,/pt/noticias/cohitec/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/congrats-rosa/,/pt/congrats-rosa/,pt,post,"Parabéns, Rosa!",/pt/noticias/congrats-rosa/,301,
+https://sea4us.pt/pt/correiodamanha/,/pt/correiodamanha/,pt,post,“Correio da Manhã” Interview | Filipe Vilas-Boas and Marisa Sousa,/pt/noticias/correiodamanha/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/crowdfunding-campaign-press-release/,/pt/crowdfunding-campaign-press-release/,pt,post,Crowdfunding Campaign – Press Release,/pt/noticias/crowdfunding-campaign-press-release/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,/pt/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,pt,post,Fim da segunda ronda de med-chem do composto analgésico – Lead Selected,/pt/noticias/end-of-2nd-round-of-med-chem-for-the-analgesic-compound-lead-selected/,301,
+https://sea4us.pt/pt/european-maritime-day-2019/,/pt/european-maritime-day-2019/,pt,post,European Maritime Day 2019,/pt/noticias/european-maritime-day-2019/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/final-event-bluebiotech4pain/,/pt/final-event-bluebiotech4pain/,pt,post,Evento Final BlueBioTech4Pain,/pt/noticias/final-event-bluebiotech4pain/,301,
+https://sea4us.pt/pt/first-in-person-general-assembly-of-algae4ibd-in-israel/,/pt/first-in-person-general-assembly-of-algae4ibd-in-israel/,pt,post,Primeiro encontro presencial do Algae4IBD em Israel,/pt/noticias/first-in-person-general-assembly-of-algae4ibd-in-israel/,301,
+https://sea4us.pt/pt/go-far-go-together-poctep/,/pt/go-far-go-together-poctep/,pt,post,"To go far, go together | POCTEP",/pt/noticias/go-far-go-together-poctep/,301,
+https://sea4us.pt/pt/grow-algarve-meetup/,/pt/grow-algarve-meetup/,pt,post,Encontro Grow Algarve,/pt/noticias/grow-algarve-meetup/,301,
+https://sea4us.pt/pt/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,/pt/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,pt,post,Renovação e capacitação do laboratório e Discovery em Sagres,/pt/noticias/happy-to-announce-our-fully-renovated-discovery-lab-and-headquarters-sagres/,301,
+https://sea4us.pt/pt/imed-award-beatriz-szwarc/,/pt/imed-award-beatriz-szwarc/,pt,post,iMed 8.0 Best Presentation Award | Beatriz Szwarc,/pt/noticias/imed-award-beatriz-szwarc/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/interview-with-barlavento/,/pt/interview-with-barlavento/,pt,post,Entrevista com Barlavento,/pt/noticias/interview-with-barlavento/,301,
+https://sea4us.pt/pt/jornal-de-negocios-interview/,/pt/jornal-de-negocios-interview/,pt,post,“Jornal de Negócios” Interview,/pt/noticias/jornal-de-negocios-interview/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/maritime-offshore-news-noticias-mar-interview/,/pt/maritime-offshore-news-noticias-mar-interview/,pt,post,Maritime & Offshore News (Notícias do Mar) Interview | Pedro Lima,/pt/noticias/maritime-offshore-news-noticias-mar-interview/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/neupsig/,/pt/neupsig/,pt,post,NeuPSIG 2017 | Sea4Us,/pt/noticias/neupsig/,301,
+https://sea4us.pt/pt/new-milestone-achieved-in-our-analgesic-program/,/pt/new-milestone-achieved-in-our-analgesic-program/,pt,post,Novo Marco Alcançado no nosso Programa de Analgésicos,/pt/noticias/new-milestone-achieved-in-our-analgesic-program/,301,
+https://sea4us.pt/pt/new-partners-to-join-sea4us-2/,/pt/new-partners-to-join-sea4us-2/,pt,post,Entrada de novos sócios,/pt/noticias/new-partners-to-join-sea4us-2/,301,
+https://sea4us.pt/pt/new-partners-to-join-sea4us/,/pt/new-partners-to-join-sea4us/,pt,post,Entrada de novos sócios,/pt/noticias/new-partners-to-join-sea4us/,301,
+https://sea4us.pt/pt/new-partnerships-new-project-algared/,/pt/new-partnerships-new-project-algared/,pt,post,"Novas parcerias, novo projecto | ALGARED+",/pt/noticias/new-partnerships-new-project-algared/,301,
+https://sea4us.pt/pt/news-mar4health/,/pt/news-mar4health/,pt,post,Mar4Health,/pt/noticias/news-mar4health/,301,
+https://sea4us.pt/pt/nova-medical-school-open-day-sea4us/,/pt/nova-medical-school-open-day-sea4us/,pt,post,NOVA Medical School OPEN DAY | Sea4Us,/pt/noticias/nova-medical-school-open-day-sea4us/,301,
+https://sea4us.pt/pt/ocean-medicines-emiliana/,/pt/ocean-medicines-emiliana/,pt,post,"Welcome, Emiliana! | Ocean Medicines",/pt/noticias/ocean-medicines-emiliana/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/ocean-medicines-kick-off-meeting/,/pt/ocean-medicines-kick-off-meeting/,pt,post,Ocean Medicines “Kick-Off Meeting” | Silvia Lino and Nuno Leitão,/pt/noticias/ocean-medicines-kick-off-meeting/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/ocean-medicines-silvia-lino/,/pt/ocean-medicines-silvia-lino/,pt,post,"Silvia Lino is at IPB-CNR, Naples, Italy! | Ocean Medicines",/pt/noticias/ocean-medicines-silvia-lino/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/ocean-mediciness-first-midterm-meeting-nova-medical-school/,/pt/ocean-mediciness-first-midterm-meeting-nova-medical-school/,pt,post,Ocean Medicines’s first Midterm Meeting | NOVA Medical School,/pt/noticias/ocean-mediciness-first-midterm-meeting-nova-medical-school/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/onestart/,/pt/onestart/,pt,post,OneStart Europe Semi-Finalists!,/pt/noticias/onestart/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/parabens-gilberto/,/pt/parabens-gilberto/,pt,post,"Parabéns, Gilberto!",/pt/noticias/parabens-gilberto/,301,
+https://sea4us.pt/pt/pedro-lima-receives-premio-carreira-almuni-ualg/,/pt/pedro-lima-receives-premio-carreira-almuni-ualg/,pt,post,Pedro Lima recebe “Prémio Carreira Alumni” da UAlg,/pt/noticias/pedro-lima-receives-premio-carreira-almuni-ualg/,301,
+https://sea4us.pt/pt/portugal-2020-funding-approved/,/pt/portugal-2020-funding-approved/,pt,post,Portugal 2020 funding approved!,/pt/noticias/portugal-2020-funding-approved/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/promar-funding-approved/,/pt/promar-funding-approved/,pt,post,PROMAR funding approved!,/pt/noticias/promar-funding-approved/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/qren1/,/pt/qren1/,pt,post,QREN funding approved!,/pt/noticias/qren1/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4pain-approved-funding-sme-instrument-phase-1/,/pt/sea4pain-approved-funding-sme-instrument-phase-1/,pt,post,Sea4Pain aprovado para financiamento no âmbito do SME Instrument – Phase 1,/pt/noticias/sea4pain-approved-funding-sme-instrument-phase-1/,301,
+https://sea4us.pt/pt/sea4us-11th-brazilian-congress-pain/,/pt/sea4us-11th-brazilian-congress-pain/,pt,post,Sea4Us was at the “11th Brazilian Congress of Pain” | Marisa Sousa,/pt/noticias/sea4us-11th-brazilian-congress-pain/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-15th-young-entrepreneurs-award-finals/,/pt/sea4us-15th-young-entrepreneurs-award-finals/,pt,post,Sea4Us at the 15th Young Entrepreneurs Award Finals,/pt/noticias/sea4us-15th-young-entrepreneurs-award-finals/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-at-bio-europe-2024/,/pt/sea4us-at-bio-europe-2024/,pt,post,Sea4Us no Bio-Europe 2024,/pt/noticias/sea4us-at-bio-europe-2024/,301,
+https://sea4us.pt/pt/sea4us-at-bio-europe-round-table/,/pt/sea4us-at-bio-europe-round-table/,pt,post,Sea4Us na Mesa Redonda da Bio-Europe,/pt/noticias/sea4us-at-bio-europe-round-table/,301,
+https://sea4us.pt/pt/sea4us-at-biofit-2019/,/pt/sea4us-at-biofit-2019/,pt,post,Sea4Us no BioFIT 2019,/pt/noticias/sea4us-at-biofit-2019/,301,
+https://sea4us.pt/pt/sea4us-at-euromarine/,/pt/sea4us-at-euromarine/,pt,post,Sea4Us at Euromarine workshop | Silvia Lino and Nuno Leitão,/pt/noticias/sea4us-at-euromarine/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-at-expresso/,/pt/sea4us-at-expresso/,pt,post,Sea4Us no Expresso,/pt/noticias/sea4us-at-expresso/,301,
+https://sea4us.pt/pt/sea4us-at-ifeqb/,/pt/sea4us-at-ifeqb/,pt,post,Sea4Us at iFEQB | Filipe Vilas-Boas,/pt/noticias/sea4us-at-ifeqb/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,/pt/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,pt,post,Sea4Us presente na II JORNADA PROYECTO ALGARED+ – Nuevas Aplicaciones de Microalgas,/pt/noticias/sea4us-at-ii-jornada-proyecto-algared-new-applications-of-microalgae/,301,
+https://sea4us.pt/pt/sea4us-at-manapro/,/pt/sea4us-at-manapro/,pt,post,Sea4Us na MaNaPro,/pt/noticias/sea4us-at-manapro/,301,
+https://sea4us.pt/pt/sea4us-at-the-blue-business-forum-blue-week/,/pt/sea4us-at-the-blue-business-forum-blue-week/,pt,post,Sea4Us at the Blue Business Forum | Blue Week Lisboa 2015,/pt/noticias/sea4us-at-the-blue-business-forum-blue-week/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-at-the-world-congress-on-pain/,/pt/sea4us-at-the-world-congress-on-pain/,pt,post,Sea4Us no Congresso Mundial da Dor,/pt/noticias/sea4us-at-the-world-congress-on-pain/,301,
+https://sea4us.pt/pt/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,/pt/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,pt,post,Sea4Us Crowdfunding Campaign – Marine Organisms for the Treatment of Chronic Pain,/pt/noticias/sea4us-crowdfunding-campaign-marine-organisms-treatment-chronic-pain/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,/pt/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,pt,post,Sea4Us at “Encontros no Aquário Vasco da Gama” | Pedro Lima,/pt/noticias/sea4us-encontros-no-aquario-vasco-da-gama-pedro-lima/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-featured-at-rtps-sociedade-civil/,/pt/sea4us-featured-at-rtps-sociedade-civil/,pt,post,Sea4Us no programa Sociedade Civil da RTP,/pt/noticias/sea4us-featured-at-rtps-sociedade-civil/,301,
+https://sea4us.pt/pt/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,/pt/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,pt,post,Sea4Us em destaque na Portugal Startup News: biotecnologia marinha ao serviço de um futuro sem dor,/pt/noticias/sea4us-featured-in-portugal-startup-news-marine-biotechnology-serving-a-pain-free-future/,301,
+https://sea4us.pt/pt/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,/pt/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,pt,post,Sea4Us em destaque na SÁBADO: novas descobertas portuguesas para transformar o tratamento da dor,/pt/noticias/sea4us-featured-in-sabado-portuguese-discoveries-with-the-potential-to-transform-pain-treatment/,301,
+https://sea4us.pt/pt/sea4us-featured-on-sic-noticias/,/pt/sea4us-featured-on-sic-noticias/,pt,post,Sea4Us destacada pela SIC Notícias,/pt/noticias/sea4us-featured-on-sic-noticias/,301,
+https://sea4us.pt/pt/sea4us-founding-member-bluebio-alliance/,/pt/sea4us-founding-member-bluebio-alliance/,pt,post,Sea4Us is a founding member of BLUEBIO ALLIANCE,/pt/noticias/sea4us-founding-member-bluebio-alliance/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-gets-on-board24/,/pt/sea4us-gets-on-board24/,pt,post,Sea4Us gets on #BOARD24,/pt/noticias/sea4us-gets-on-board24/,301,
+https://sea4us.pt/pt/sea4us-gets-onboard25/,/pt/sea4us-gets-onboard25/,pt,post,Sea4Us participa do #BOARD25,/pt/noticias/sea4us-gets-onboard25/,301,
+https://sea4us.pt/pt/sea4us-inn/,/pt/sea4us-inn/,pt,post,Sea4Us em destaque na Innovation News Network,/pt/noticias/sea4us-inn/,301,
+https://sea4us.pt/pt/sea4us-interview-agencialusa/,/pt/sea4us-interview-agencialusa/,pt,post,Innovative solutions for chronic pain | Agência Lusa,/pt/noticias/sea4us-interview-agencialusa/,301,
+https://sea4us.pt/pt/sea4us-interview-expresso/,/pt/sea4us-interview-expresso/,pt,post,Sea4Us Interview with Expresso | Portugal 2020,/pt/noticias/sea4us-interview-expresso/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-interview-with-nova-magazine/,/pt/sea4us-interview-with-nova-magazine/,pt,post,"Sea4Us Interview with NOVA Magazine | Pedro Lima, André Bastos, Beatriz Szwarc",/pt/noticias/sea4us-interview-with-nova-magazine/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-is-at-blue-bioeconomy-forum-brussels/,/pt/sea4us-is-at-blue-bioeconomy-forum-brussels/,pt,post,Sea4Us está no Blue Bioeconomy Forum (Bruxelas),/pt/noticias/sea4us-is-at-blue-bioeconomy-forum-brussels/,301,
+https://sea4us.pt/pt/sea4us-is-attending-bioeurope-2022/,/pt/sea4us-is-attending-bioeurope-2022/,pt,post,Sea4Us participa na BioEurope 2022,/pt/noticias/sea4us-is-attending-bioeurope-2022/,301,
+https://sea4us.pt/pt/sea4us-is-attending-un2022-ocean-conference/,/pt/sea4us-is-attending-un2022-ocean-conference/,pt,post,Sea4Us participa na UN2022 Ocean Conference,/pt/noticias/sea4us-is-attending-un2022-ocean-conference/,301,
+https://sea4us.pt/pt/sea4us-joins-the-united-nations-global-compact/,/pt/sea4us-joins-the-united-nations-global-compact/,pt,post,Sea4Us adere ao United Nations Global Compact,/pt/noticias/sea4us-joins-the-united-nations-global-compact/,301,
+https://sea4us.pt/pt/sea4us-na-noite-europeia-dos-investigadores/,/pt/sea4us-na-noite-europeia-dos-investigadores/,pt,post,Sea4Us na Noite Europeia dos Investigadores,/pt/noticias/sea4us-na-noite-europeia-dos-investigadores/,301,
+https://sea4us.pt/pt/sea4us-no-muhnac/,/pt/sea4us-no-muhnac/,pt,post,Sea4Us no MUHNAC! | Filipe Vilas-Boas,/pt/noticias/sea4us-no-muhnac/,301,
+https://sea4us.pt/pt/sea4us-noite-europeia-dos-investigadores-2017/,/pt/sea4us-noite-europeia-dos-investigadores-2017/,pt,post,Sea4Us @ Noite Europeia dos Investigadores 2017,/pt/noticias/sea4us-noite-europeia-dos-investigadores-2017/,301,
+https://sea4us.pt/pt/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,/pt/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,pt,post,Sea4Us at the Official Visit of the President of the Portuguese Republic to Norway – Business Delegation,/pt/noticias/sea4us-official-visit-president-portuguese-republic-norway-business-delegation/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-onestarts-bootcamp-london/,/pt/sea4us-onestarts-bootcamp-london/,pt,post,"Sea4Us at OneStart’s bootcamp in London | Marisa Sousa, Filipe Vilas-Boas and Hugo Pacheco",/pt/noticias/sea4us-onestarts-bootcamp-london/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-sa/,/pt/sea4us-sa/,pt,post,Passagem a SA,/pt/noticias/sea4us-sa/,301,
+https://sea4us.pt/pt/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,/pt/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,pt,post,Sea4Us at the second evaluation round of the 15th Young Entrepreneurs Award,/pt/noticias/sea4us-second-evaluation-round-15th-young-entrepreneurs-award/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,/pt/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,pt,post,Sea4Us assegura Accelerator Program da EiC e SMEs Executive Agency (EISMEA),/pt/noticias/sea4us-secures-accelerator-program-from-the-eic-and-smes-executive-agency-eismea/,301,
+https://sea4us.pt/pt/sea4us-sets-record-at-goparity-campaing/,/pt/sea4us-sets-record-at-goparity-campaing/,pt,post,A Sea4Us atinge recorde com campanha na Goparity,/pt/noticias/sea4us-sets-record-at-goparity-campaing/,301,
+https://sea4us.pt/pt/sea4us-team-event-and-general-meeting-in-sagres/,/pt/sea4us-team-event-and-general-meeting-in-sagres/,pt,post,Encontro Sea4Us em Sagres,/pt/noticias/sea4us-team-event-and-general-meeting-in-sagres/,301,
+https://sea4us.pt/pt/seal-excellence-european-commission/,/pt/seal-excellence-european-commission/,pt,post,Seal of Excellence by the European Commission,/pt/noticias/seal-excellence-european-commission/,301,
+https://sea4us.pt/pt/seal-of-excellence-by-the-european-commission/,/pt/seal-of-excellence-by-the-european-commission/,pt,post,Seal of Excellence by the European Commission,/pt/noticias/seal-of-excellence-by-the-european-commission/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/second-qren-funding-approved/,/pt/second-qren-funding-approved/,pt,post,Second QREN funding approved!,/pt/noticias/second-qren-funding-approved/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/semi-finalists-everis-foundations-entrepreneurs-award-2014/,/pt/semi-finalists-everis-foundations-entrepreneurs-award-2014/,pt,post,Semi-finalists for the Everis Foundation’s Entrepreneurs Award 2014,/pt/noticias/semi-finalists-everis-foundations-entrepreneurs-award-2014/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/seminar-viladobispo/,/pt/seminar-viladobispo/,pt,post,II Seminário Potencialidades de um Concelho – O Mar de Vila do Bispo,/pt/noticias/seminar-viladobispo/,301,
+https://sea4us.pt/pt/silvia-lino-uit-tromso-norway-ocean-medicines/,/pt/silvia-lino-uit-tromso-norway-ocean-medicines/,pt,post,"Silvia Lino is at UiT, Tromsø, Norway! | Ocean Medicines",/pt/noticias/silvia-lino-uit-tromso-norway-ocean-medicines/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/starting-bluebiotech4pain-project/,/pt/starting-bluebiotech4pain-project/,pt,post,Starting Bluebiotech4Pain project!,/pt/noticias/starting-bluebiotech4pain-project/,301,
+https://sea4us.pt/pt/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,/pt/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,pt,post,Levar o nosso analgésico não-opioide a ensaios clínicos: começou o Sea4Market,/pt/noticias/taking-our-non-opioid-analgesic-to-clinical-trials-sea4market-has-started/,301,
+https://sea4us.pt/pt/thank-nava-sea4us/,/pt/thank-nava-sea4us/,pt,post,Thank you NAVA! | Sea4Us,/pt/noticias/thank-nava-sea4us/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/the-blue-economy/,/pt/the-blue-economy/,pt,post,Sea4Us at The BLUE Economy – marine bioresources value chain in Portugal | Filipe Vilas-Boas,/pt/noticias/the-blue-economy/,301,Only available in EN on the old site: translation to write.
+https://sea4us.pt/pt/vertical-algas-kick-off-event/,/pt/vertical-algas-kick-off-event/,pt,post,Evento de lançamento de Vertical Algas,/pt/noticias/vertical-algas-kick-off-event/,301,
+https://sea4us.pt/pt/xv-meeting-portuguese-society-neuroscience-sea4us/,/pt/xv-meeting-portuguese-society-neuroscience-sea4us/,pt,post,XV Meeting of the Portuguese Society for Neuroscience | Sea4Us,/pt/noticias/xv-meeting-portuguese-society-neuroscience-sea4us/,301,
+https://sea4us.pt/en/?elementskit-content/dynamic-content-megamenu-menuitem,/en/?elementskit-content/dynamic-content-megamenu-menuitem,en,template,dynamic-content-megamenu-menuitem,,none,ElementsKit template exposed publicly; not content.
+https://sea4us.pt/en/?elementskit_template=footer,/en/?elementskit_template=footer,en,template,Footer,,none,Theme footer template exposed publicly; not content.
+https://sea4us.pt/pt/?elementskit-content/dynamic-content-megamenu-menuitem,/pt/?elementskit-content/dynamic-content-megamenu-menuitem,pt,template,dynamic-content-megamenu-menuitem,,none,ElementsKit template exposed publicly; not content.
+https://sea4us.pt/pt/?elementskit_template=footer,/pt/?elementskit_template=footer,pt,template,Footer,,none,Theme footer template exposed publicly; not content.

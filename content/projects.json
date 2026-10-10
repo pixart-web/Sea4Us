@@ -1,0 +1,1301 @@
+[
+ {
+  "id": "project:blueflow",
+  "order": 1,
+  "shared": {
+   "code": "ALGARVE-FEDER-02241800",
+   "status": "active",
+   "funding_programme": "Portugal 2030 · Algarve 2030 (Programa Regional do Algarve 2021-2027) · FEDER",
+   "start_date": "2025-10-15",
+   "end_date": "2027-04-14",
+   "total_cost": "450418.17",
+   "funding_amount": "288527.75",
+   "funding_logos": [
+    "2025/12/Picture1.png"
+   ],
+   "display_check": true,
+   "documents": [
+    "doc:ficha-operacao-blueflow"
+   ],
+   "programs": [],
+   "highlight": true,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/blueflow/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2026/05/Captura-de-ecra-2026-05-22-124115-e1779450377551.png"
+  },
+  "pt": {
+   "title": "BlueFlow",
+   "slug": "blueflow",
+   "excerpt": "Otimização e escalabilidade da produção de um analgésico inovador de origem marinha (S#072) através de tecnologia de fluxo contínuo.",
+   "content": "<p>A Sea4Us é uma empresa dedicada à transformação de recursos marinhos em soluções terapêuticas inovadoras, com foco em compostos bioativos para necessidades clínicas não satisfeitas, como dor crónica e neuropatias. Desenvolveu metodologias de extração e otimização de compostos naturais, validadas em contexto pré-clínico e com forte potencial de aplicação farmacêutica.</p><p>No âmbito da sua estratégia de inovação, a Sea4Us tem vindo a desenvolver a molécula S072, um analgésico inovador de origem marinha com um mecanismo de ação não opioide, destinado ao tratamento da dor crónica moderada a severa.</p><p>Com o projeto BlueFlow, a empresa dá um passo crítico na transição da investigação para a demonstração tecnológica, através da implementação de uma linha piloto baseada em química de fluxo contínuo, permitindo escalar a produção desta molécula para níveis compatíveis com o desenvolvimento pré-clínico e clínico.</p><p>O projeto visa a criação de capacidade interna para produção em escala da molécula S072, reduzindo a dependência de prestadores externos, aumentando a eficiência operacional e reforçando a competitividade da Sea4Us. Esta abordagem permitirá demonstrar, em ambiente real, as vantagens técnicas e económicas da tecnologia de fluxo contínuo aplicada à produção farmacêutica, com potencial de replicação para outras moléculas da pipeline da empresa.</p>",
+   "fields": {
+    "full_title": "BlueFlow – Otimização e escalabilidade da produção de um analgésico inovador de origem marinha (S#072) através de tecnologia de fluxo contínuo",
+    "status_note": "Em curso: período publicado 15/10/2025 – 14/04/2027 (18 meses). Número do projeto: 21320.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Custo elegível: 450 418,17 €\nApoio financeiro da UE (FEDER): 288 527,75 €\nTaxa de cofinanciamento UE: 64,06 % (fonte: ficha de operação)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/blueflow/"
+   }
+  },
+  "en": {
+   "title": "BlueFlow",
+   "slug": "blueflow",
+   "excerpt": "Optimisation and scalability of the production of an innovative marine-derived analgesic (S#072) using continuous flow technology.",
+   "content": "<p>Sea4Us is a company dedicated to transforming marine resources into innovative therapeutic solutions, focusing on bioactive compounds for unmet clinical needs, such as chronic pain and neuropathies. It has developed extraction and optimisation methodologies for natural compounds, validated in a pre-clinical context and with strong potential for pharmaceutical application.</p><p>As part of its innovation strategy, Sea4Us has been developing the S072 molecule, an innovative marine-derived analgesic with a non-opioid mechanism of action, intended for the treatment of moderate to severe chronic pain.</p><p>With the BlueFlow project, the company is taking a critical step in the transition from research to technological demonstration, through the implementation of a pilot line based on continuous flow chemistry, allowing the production of this molecule to scale up to levels compatible with pre-clinical and clinical development.</p><p>The project aims to create internal capacity for large-scale production of the S072 molecule, reducing dependence on external providers, increasing operational efficiency, and strengthening Sea4Us’ competitiveness. This approach will allow us to demonstrate, in a real-world environment, the technical and economic advantages of continuous flow technology applied to pharmaceutical production, with the potential for replication to other molecules in the company’s pipeline.</p>",
+   "fields": {
+    "full_title": "BlueFlow – Optimisation and scalability of the production of an innovative marine-derived analgesic (S#072) using continuous flow technology",
+    "status_note": "Ongoing: published period 15/10/2025 – 14/04/2027 (18 months). Project number: 21320.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Eligible cost: €450,418.17\nEU financial support (ERDF): €288,527.75\nEU co-financing rate: 64.06% (source: operation sheet)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/blueflow/"
+   }
+  }
+ },
+ {
+  "id": "project:marinebiotech",
+  "order": 2,
+  "shared": {
+   "code": "ALGARVE-FEDER-02065100",
+   "status": "active",
+   "funding_programme": "Portugal 2030 · Algarve 2030 (Programa Regional do Algarve) · FEDER · Criação, expansão ou modernização de micro e pequenas empresas (SI)",
+   "start_date": "2025-09-01",
+   "end_date": "2027-08-31",
+   "total_cost": "349954.20",
+   "funding_amount": "193922.52",
+   "funding_logos": [
+    "2025/12/Picture1.png"
+   ],
+   "display_check": true,
+   "documents": [
+    "doc:ficha-operacao-marinebiotech"
+   ],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2025/12/HeaderMarineBiotech-e1779450315582.png"
+  },
+  "pt": {
+   "title": "MARINEBiotech",
+   "slug": "marinebiotech",
+   "excerpt": "Ingredientes inovadores de base marinha para nutracêuticos e cosmecêuticos: criação de uma unidade produtiva de ingredientes bioativos derivados de biomassa marinha.",
+   "content": "<p>A Sea4Us é uma empresa dedicada à transformação de recursos marinhos em soluções terapêuticas inovadoras, com foco em compostos bioativos para necessidades clínicas não satisfeitas, como dor crónica e neuropatias. Desenvolveu metodologias de extração de compostos naturais, testados em ensaios pré-clínicos e clínicos, resultando em fármacos patenteados e otimizações químicas diferenciadas das moléculas originais (vertente de “Pharma”, CAE 72110). Além do interesse farmacêutico nas suas patentes, a empresa identificou oportunidades nos mercados nutracêutico e cosmecêutico, com extratos e ingredientes bioativos cientificamente validados.</p><p>Com o MARINEbiotech, a Sea4Us consolida a sua vertente estratégica de “Health”, desenvolvendo ingredientes bioativos para os mercados de suplementos nutracêuticos e cosmecêuticos, que têm um tempo de lançamento no mercado mais curto quando comparados a novos produtos farmacêuticos. A sólida experiência em I&amp;D e desenvolvimento farmacêutico confere à nova gama “Health” uma validação científica rara no segmento de nutracêuticos e cosmecêuticos, facilitando a aceitação no mercado e um posicionamento premium, sustentado pela qualidade e eficácia comprovada.</p><p>O projeto visa a criação de uma unidade produtiva para a produção e comercialização de ingredientes bioativos derivados de biomassa marinha, destinados ao mercado B2B do setor nutracêutico e cosmecêutico. Esta unidade permitirá escalar a produção de compostos bioativos de alta pureza, com qualidade e sustentabilidade asseguradas, consolidando a posição da Sea4Us como referência na economia azul.</p>",
+   "fields": {
+    "full_title": "MARINEBiotech – Ingredientes Inovadores de Base Marinha para Nutracêuticos e Cosmecêuticos",
+    "status_note": "Em curso: período publicado 01/09/2025 – 31/08/2027 (24 meses).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Investimento total: 349 954,20 €\nApoio financeiro da União Europeia: 193 922,52 € (fonte: ficha de operação)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/marinebiotech/"
+   }
+  },
+  "en": {
+   "title": "MARINEBiotech",
+   "slug": "marinebiotech",
+   "excerpt": "Innovative marine-based ingredients for nutraceuticals and cosmeceuticals: setting up a production unit for bioactive ingredients derived from marine biomass.",
+   "content": "<p>Sea4Us is a company dedicated to transforming marine resources into innovative therapeutic solutions, focusing on bioactive compounds for unmet clinical needs such as chronic pain and neuropathies. It has developed methodologies for extracting natural compounds, tested in pre-clinical and clinical trials, resulting in patented drugs and chemically optimised versions of the original molecules (“Pharma” segment, NACE 72110). In addition to the pharmaceutical relevance of its patents, the company has identified opportunities in the nutraceutical and cosmeceutical markets, offering scientifically validated extracts and bioactive ingredients.</p><p>With MARINEbiotech, Sea4Us strengthens its strategic “Health” pillar by developing bioactive ingredients for the nutraceutical and cosmeceutical supplement markets, which have shorter time-to-market compared to new pharmaceutical products. The company’s strong R&amp;D and pharmaceutical development expertise provides the new “Health” product line with a level of scientific validation that is rare in the nutraceutical and cosmeceutical segment, supporting market acceptance and a premium positioning based on proven quality and efficacy.</p><p>The project aims to create a production unit for the manufacturing and commercialisation of bioactive ingredients derived from marine biomass, targeting the B2B market in the nutraceutical and cosmeceutical sector. This unit will enable the scaling of high-purity bioactive compound production, ensuring quality and sustainability, and reinforcing Sea4Us’s position as a reference in the blue economy.</p>",
+   "fields": {
+    "full_title": "MARINEBiotech – Innovative Marine-Based Ingredients for Nutraceuticals and Cosmeceuticals",
+    "status_note": "Ongoing: published period 01/09/2025 – 31/08/2027 (24 months).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Total investment: €349,954.20\nEU financial support: €193,922.52 (source: operation sheet)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/marinebiotech/"
+   }
+  }
+ },
+ {
+  "id": "project:medida-emprego",
+  "order": 3,
+  "shared": {
+   "code": "0112/TJ/23; 0020/TP/24",
+   "status": "unknown",
+   "funding_programme": "IEFP – Medida Compromisso Emprego Sustentável; Prémio ao Emprego",
+   "start_date": "2023-07-04",
+   "end_date": "",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2020/08/fundos-publicos.png"
+   ],
+   "display_check": true,
+   "documents": [
+    "doc:iefp-ficha-sintese-compromisso-emprego-sustentavel"
+   ],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/medida-emprego/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2025/04/IMG_4480.jpg"
+  },
+  "pt": {
+   "title": "Medida Emprego",
+   "slug": "medida-emprego",
+   "excerpt": "Apoios do IEFP à contratação: Compromisso Emprego Sustentável e Prémio ao Emprego, para integrar na Sea4Us ex-estagiários da Medida Estágios ATIVAR.PT.",
+   "content": "<h2>Apoios à contratação</h2><h3>IEFP</h3><p>O IEFP é o serviço público de emprego nacional. Tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas de emprego, nomeadamente de formação profissional.</p><p>Mais informação: <a href=\"https://www.iefp.pt/web/guest/home\">IEFP</a></p><h3>Medida Compromisso Emprego Sustentável</h3><p>A medida Compromisso Emprego Sustentável consiste na concessão, à entidade empregadora, de um apoio financeiro à contratação sem termo de desempregados inscritos no IEFP, conjugado com um apoio financeiro ao pagamento de contribuições para a segurança social, no primeiro ano de vigência dos contratos de trabalho apoiados.</p><p>Mais informação: <a href=\"https://www.iefp.pt/documents/10181/11256471/Ficha+Sintese+Compromisso+Emprego+Sustentavel_v.22-05-2024.pdf/9c5015bc-5eb8-4689-839e-b399e016d279\">Medida Compromisso Emprego Sustentável</a></p><h3>Prémio ao Emprego</h3><p>No âmbito da medida Estágios Profissionais é concedido um prémio à entidade promotora que celebre um contrato de trabalho sem termo com ex-estagiário da medida e das medidas Estágio Emprego e Reativar.</p><p>Mais informação: <a href=\"https://iefponline.iefp.pt/IEFP/premioEmprego2.do\">Prémio ao Emprego</a></p><h2>Projetos apoiados</h2><h3>Projeto Medida Emprego 0112/TJ/23</h3><ul><li><strong>Identificação da medida:</strong> Medida Compromisso Emprego Sustentável</li><li><strong>N.º do projeto:</strong> 0112/TJ/23</li><li><strong>Data de início:</strong> 04/07/2023</li><li><strong>Valor do incentivo:</strong> 10 642,74 €</li><li><strong>Objetivo:</strong> integração na empresa após o estágio no âmbito da Medida Estágios ATIVAR.PT.</li></ul><h3>Projeto Medida Emprego 0020/TP/24</h3><ul><li><strong>Identificação da medida:</strong> Prémio ao Emprego – Medida Estágios ATIVAR.PT</li><li><strong>N.º do projeto:</strong> 0020/TP/24</li><li><strong>Data de início:</strong> 26/06/2024</li><li><strong>Valor do incentivo:</strong> 3 055,56 €</li><li><strong>Objetivo:</strong> integração na empresa após o estágio no âmbito da Medida Estágios ATIVAR.PT.</li></ul>",
+   "fields": {
+    "full_title": "Medida Emprego – Apoios à Contratação (IEFP)",
+    "status_note": "Estado não publicado na fonte; confirmar com a Sea4Us. A fonte publica apenas datas de início (04/07/2023 e 26/06/2024); não publica datas de fim. Listado em “Projetos Ativos” no índice antigo.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nIEFP – Instituto do Emprego e Formação Profissional",
+    "funding_breakdown": "0112/TJ/23 (Compromisso Emprego Sustentável): 10 642,74 €\n0020/TP/24 (Prémio ao Emprego): 3 055,56 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/medida-emprego/"
+   }
+  },
+  "en": {
+   "title": "Medida Emprego",
+   "slug": "medida-emprego",
+   "excerpt": "IEFP hiring incentives (Compromisso Emprego Sustentável and Prémio ao Emprego) to bring former ATIVAR.PT interns into Sea4Us on a permanent basis.",
+   "content": "<h2>Hiring incentives</h2><h3>IEFP</h3><p>IEFP is the Portuguese national public employment service. Its mission is to promote job creation and quality employment and to combat unemployment through the implementation of active employment policies, particularly vocational training.</p><p>More information: <a href=\"https://www.iefp.pt/web/guest/home\">IEFP</a></p><h3>Compromisso Emprego Sustentável measure</h3><p>The Compromisso Emprego Sustentável measure consists of granting financial support to employers for the permanent hiring of unemployed individuals registered with the IEFP, combined with financial assistance for the payment of social security contributions during the first year of the supported employment contracts.</p><p>More information: <a href=\"https://www.iefp.pt/documents/10181/11256471/Ficha+Sintese+Compromisso+Emprego+Sustentavel_v.22-05-2024.pdf/9c5015bc-5eb8-4689-839e-b399e016d279\">Medida Compromisso Emprego Sustentável</a></p><h3>Prémio ao Emprego</h3><p>Under the Estágios Profissionais measure, a bonus is granted to the host entity that signs a permanent employment contract with a former intern from this measure, as well as from the Estágio Emprego and Reativar measures.</p><p>More information: <a href=\"https://iefponline.iefp.pt/IEFP/premioEmprego2.do\">Prémio ao Emprego</a></p><h2>Supported projects</h2><h3>Medida Emprego project 0112/TJ/23</h3><ul><li><strong>Measure:</strong> Medida Compromisso Emprego Sustentável</li><li><strong>Project number:</strong> 0112/TJ/23</li><li><strong>Start date:</strong> 04/07/2023</li><li><strong>Incentive amount:</strong> €10,642.74</li><li><strong>Objective:</strong> to integrate the intern into the company following the internship under the ATIVAR.PT Internships Measure.</li></ul><h3>Medida Emprego project 0020/TP/24</h3><ul><li><strong>Measure:</strong> Prémio ao Emprego – Medida Estágios ATIVAR.PT</li><li><strong>Project number:</strong> 0020/TP/24</li><li><strong>Start date:</strong> 26/06/2024</li><li><strong>Incentive amount:</strong> €3,055.56</li><li><strong>Objective:</strong> to integrate the individual into the company after the internship under the ATIVAR.PT Internships Measure.</li></ul>",
+   "fields": {
+    "full_title": "Medida Emprego – Hiring Incentives (IEFP)",
+    "status_note": "Status not published in the source; confirm with Sea4Us. The source only publishes start dates (04/07/2023 and 26/06/2024); no end dates. Listed under “Active Projects” on the old index.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nIEFP – Instituto do Emprego e Formação Profissional",
+    "funding_breakdown": "0112/TJ/23 (Compromisso Emprego Sustentável): €10,642.74\n0020/TP/24 (Prémio ao Emprego): €3,055.56",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/medida-emprego/"
+   }
+  }
+ },
+ {
+  "id": "project:mar4health",
+  "order": 4,
+  "shared": {
+   "code": "MPr-2023-9 – SIID – I&D Empresarial – Operações Individuais – Outros Territórios; Projeto n.º 14315",
+   "status": "completed",
+   "funding_programme": "Portugal 2030 · Lisboa 2030 (Programa Regional de Lisboa – Domínio da Competitividade e Internacionalização)",
+   "start_date": "2024-05-01",
+   "end_date": "2026-04-30",
+   "total_cost": "655266.92",
+   "funding_amount": "262106.77",
+   "funding_logos": [
+    "2025/06/mar4health.png"
+   ],
+   "display_check": false,
+   "documents": [
+    "doc:ficha-operacao-mar4health"
+   ],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4health/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2026/05/P7100483.jpg"
+  },
+  "pt": {
+   "title": "Mar4Health",
+   "slug": "mar4health",
+   "excerpt": "Moléculas marinhas patenteadas para novas aplicações médicas em necessidades clínicas sem tratamento adequado: prova de conceito de compostos análogos em novas indicações.",
+   "content": "<p>A Sea4Us é uma empresa de biotecnologia de classe mundial, focada em transformar compostos derivados do mar com potencial terapêutico para necessidades médicas ainda sem resposta em ativos farmacêuticos. A Sea4Us desenvolveu uma plataforma focada na descoberta e desenvolvimento de novos produtos farmacêuticos, baseada na sua especialização em canais iónicos e biologia marinha.</p><p>Em projetos passados, a Sea4Us identificou novas estruturas químicas de origem marinha e um novo mecanismo de ação. Com base neste novo modo de ação, a Sea4Us desenvolveu princípios ativos, com foco na mitigação da dor crónica. Das atividades de desenvolvimento e otimização do composto líder para ensaios clínicos resultaram mais de 130 compostos análogos. Destes, dez destacam-se pelo potencial farmacêutico, que deve ser explorado. Concretamente, estes compostos demonstram uma eficácia sem precedentes na modulação de neurónios aberrantemente hiperativos, que estão implicados em patologias como a bexiga hiperativa, a vesícula hiperinflamada, a epilepsia, a neuropatia periférica induzida por quimioterapia (CIPN), entre outras.</p><p>Partindo deste contexto, o presente projeto, <strong>“Mar4Health: Moléculas Marinhas Patenteadas para novas aplicações médicas em necessidades clínicas sem tratamento adequado”</strong>, visa aumentar o valor da propriedade da Sea4Us, por desmultiplicação das suas aplicações, exploração do potencial de novas patentes e criação de modelos de negócio para comercialização das tecnologias. Resultados preliminares validam o potencial terapêutico destes novos produtos, que neste projeto é ampliado para Prova de Conceito (PoC) para condições médicas sem tratamento adequado, esperando-se o alcance de uma TRL 4 durante o horizonte temporal do projeto, e que o mesmo venha a dar origem à submissão de novas patentes.</p>",
+   "fields": {
+    "full_title": "Mar4Health: Moléculas Marinhas Patenteadas para novas aplicações médicas em necessidades clínicas sem tratamento adequado",
+    "status_note": "Concluído: data de fim publicada 30/04/2026.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Investimento total: 655 266,92 €\nApoio financeiro da União Europeia: 262 106,77 € (fonte: ficha de operação)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4health/"
+   }
+  },
+  "en": {
+   "title": "Mar4Health",
+   "slug": "mar4health",
+   "excerpt": "Patented marine molecules for new medical applications in unmet clinical needs: proof of concept of analogue compounds in new indications.",
+   "content": "<p>Sea4Us is a world-class biotechnology company focused on transforming marine-derived compounds with therapeutic potential for unmet medical needs into pharmaceutical assets. Sea4Us has developed a platform focused on the discovery and development of new pharmaceutical products, based on its expertise in ion channels and marine biology.</p><p>In past projects, Sea4Us identified new chemical structures of marine origin and a novel mechanism of action. Based on this new mode of action, Sea4Us developed active pharmaceutical ingredients aimed at mitigating chronic pain. From the development and optimisation activities of the lead compound for clinical trials, more than 130 analogous compounds were generated. Of these, ten stand out for their pharmaceutical potential, which should be further explored. Specifically, these compounds have shown unprecedented efficacy in modulating aberrantly hyperactive neurons, which are implicated in conditions such as overactive bladder, hyper-inflamed gallbladder, epilepsy, chemotherapy-induced peripheral neuropathy (CIPN), among others.</p><p>Building on this context, the current project, <strong>“Mar4Health: Patented Marine Molecules for New Medical Applications in Unmet Clinical Needs”</strong>, aims to increase the value of Sea4Us’s intellectual property by expanding its applications, exploring the potential of new patents, and creating business models for commercialising the technologies. Preliminary results validate the therapeutic potential of these new products, which in this project will be further developed to reach Proof of Concept (PoC) for medical conditions with no adequate treatment, with the goal of achieving TRL 4 within the project’s timeframe and leading to the submission of new patents.</p>",
+   "fields": {
+    "full_title": "Mar4Health: Patented Marine Molecules for New Medical Applications in Unmet Clinical Needs",
+    "status_note": "Completed: published end date 30/04/2026.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Total investment: €655,266.92\nEU financial support: €262,106.77 (source: operation sheet)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/mar4health/"
+   }
+  }
+ },
+ {
+  "id": "project:sea4market",
+  "order": 5,
+  "shared": {
+   "code": "HORIZON-EIC-2023-ACCELERATOROPEN-01; Project number 101145231",
+   "status": "completed",
+   "funding_programme": "Horizon Europe · EIC Accelerator (HORIZON-EIC-2023-ACCELERATOROPEN-01)",
+   "start_date": "2024-03-01",
+   "end_date": "2026-02-28",
+   "total_cost": "3570051.25",
+   "funding_amount": "2499035.80",
+   "funding_logos": [
+    "2024/06/EU.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": true,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4market/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2023/05/20221110_155115.jpg"
+  },
+  "pt": {
+   "title": "Sea4Market",
+   "slug": "sea4market",
+   "excerpt": "Validação clínica de um novo analgésico não-opioide derivado do mar português para o tratamento da dor crónica (EIC Accelerator).",
+   "content": "<p>A Sea4Us é uma empresa de biotecnologia de classe mundial, focada em transformar compostos derivados do mar com potencial terapêutico para necessidades médicas ainda sem resposta em ativos farmacêuticos. A Sea4Us desenvolveu uma plataforma focada na descoberta e desenvolvimento de novos produtos farmacêuticos, baseada na sua especialização em canais iónicos e biologia marinha. A Sea4Us está particularmente empenhada em desenvolver e comercializar terapias para a dor crónica. A Sea4Us desenvolveu um composto terapêutico inovador para tratar a dor crónica em pacientes. A dor crónica afeta 100 milhões de pessoas na Europa, 1,6 mil milhões globalmente, e tem um impacto devastador na qualidade de vida. Existem muitos medicamentos no mercado para tratar a dor crónica, mas são ineficazes para a maioria dos tipos de dor crónica e/ou têm efeitos secundários adversos. A nossa nova molécula analgésica tem um mecanismo de ação inovador, o que significa que é altamente eficaz no tratamento da dor crónica e sem quaisquer efeitos secundários conhecidos, ao contrário dos medicamentos atuais no mercado.</p><h2>Objetivo principal</h2><p>Este projeto do Acelerador EIC, chamado Sea4Market, permitirá validar clinicamente o nosso novo analgésico através da realização de ensaios <em>First-in-Human</em> e licenciar a nossa tecnologia para uma entrada rápida no mercado da dor crónica, avaliado em vários milhares de milhões de euros. O apoio do EIC é essencial para entregar este projeto de alto risco e alta recompensa, e permitirá o crescimento sustentável do nosso negócio com a criação de 8 novos postos de trabalho e geração de lucros líquidos de 24,1 milhões de euros até 2028. Reinvestiremos as receitas do nosso acordo de licenciamento no nosso <em>pipeline</em> de projetos e garantiremos o crescimento sustentável da nossa empresa.</p>",
+   "fields": {
+    "full_title": "Sea4Market – Validação Clínica de um novo analgésico não-opioide derivado do mar português para o tratamento da dor crónica",
+    "status_note": "Concluído: data de fim publicada 28/02/2026 (duração de 24 meses). Listado em “Projetos Ativos” no índice antigo.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Custos elegíveis totais: 3 570 051,25 €\nApoio financeiro da UE: 2 499 035,80 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4market/"
+   }
+  },
+  "en": {
+   "title": "Sea4Market",
+   "slug": "sea4market",
+   "excerpt": "Clinical validation of a novel non-opioid analgesic derived from the Portuguese sea for treating chronic pain (EIC Accelerator).",
+   "content": "<p>Sea4Us is a world-class biotechnology company with a focus on translating marine-derived compounds with therapeutic potential for unmet medical needs into pharmaceutical assets. Sea4Us has developed a platform focused on drug discovery and development of novel pharmaceuticals based on its core expertise in ion channels and marine biology. Sea4Us is particularly focused on developing and commercialising therapies for chronic pain. Sea4Us has developed a ground-breaking therapeutic drug to treat chronic pain in patients. Chronic pain affects 100 million people across Europe, 1.6 billion globally, and has a devastating impact on quality of life. There are many medications on the market for treating chronic pain, but they are either ineffective for most types of chronic pain and/or have adverse side effects. Our novel analgesic molecule has a novel mechanism of action meaning it is highly effective at treating chronic pain and without any known side effects unlike current drugs on the market.</p><h2>Main goal</h2><p>This EIC Accelerator project, called Sea4Market, will enable us to clinically validate our novel analgesic through completion of First-in-Human trials and out-license our technology to make a rapid entry into the multi-billion euro chronic pain market. EIC support is essential to deliver this high-risk, high-reward project and will enable the sustainable growth of our business with the creation of 8 new positions and generation of net profits of €24.1 m by 2028. We will reinvest revenues from our licensing deal back into our project pipeline and ensure the sustainable growth of our company.</p>",
+   "fields": {
+    "full_title": "Sea4Market – Clinical Validation of a novel non-opioid analgesic derived from the Portuguese sea for treating chronic pain",
+    "status_note": "Completed: published end date 28/02/2026 (24-month duration). Listed under “Active Projects” on the old index.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA",
+    "funding_breakdown": "Total eligible costs: €3,570,051.25\nEU financial support: €2,499,035.80",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/sea4market/"
+   }
+  }
+ },
+ {
+  "id": "project:ativar-pt",
+  "order": 6,
+  "shared": {
+   "code": "0340/TE/22; 0327/TE/22; 0288/TE/23",
+   "status": "completed",
+   "funding_programme": "IEFP – Medida Estágios ATIVAR.PT",
+   "start_date": "2022-09-28",
+   "end_date": "2024-06-03",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2020/08/fundos-publicos.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/ativar-pt/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Medida Estágios ATIVAR.PT",
+   "slug": "ativar-pt",
+   "excerpt": "Três estágios profissionais apoiados pelo IEFP no âmbito da Medida Estágios ATIVAR.PT, nas áreas de investigação em dor e de gestão financeira.",
+   "content": "<h2>Programas de estágio</h2><h3>IEFP</h3><p>O IEFP é o serviço público de emprego nacional. Tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas de emprego, nomeadamente de formação profissional.</p><p>Mais informação: <a href=\"https://www.iefp.pt/web/guest/home\">IEFP</a></p><h3>ATIVAR.PT</h3><p>Um programa do IEFP destinado a dar uma resposta rápida e abrangente, através de formação profissional, estágios profissionais e de apoios reforçados à contratação e ao empreendedorismo.</p><p>Mais informação: <a href=\"https://www.iefp.pt/ativar.pt\">https://www.iefp.pt/ativar.pt</a></p><h2>Projetos apoiados</h2><h3>Projeto Estágio Ativar 0340/TE/22</h3><ul><li><strong>Identificação da medida:</strong> Medida Estágios ATIVAR.PT</li><li><strong>N.º do projeto:</strong> 0340/TE/22</li><li><strong>Data de início:</strong> 04/09/2023</li><li><strong>Data de fim:</strong> 03/06/2024</li><li><strong>Valor do incentivo:</strong> 8 618,04 €</li><li><strong>Objetivo:</strong> Este estágio profissional destina-se a proporcionar o contacto direto com uma experiência prática em contexto real de trabalho laboratorial. Relativamente aos objetivos científicos, pretende-se a implementação das células F-11 em estudos de dor, e uma consequente redução do número de animais de laboratório, num alinhamento claro com as normativas da Comissão Europeia que regem a experimentação em animais de laboratório.</li></ul><h3>Projeto Estágio Ativar 0327/TE/22</h3><ul><li><strong>Identificação da medida:</strong> Medida Estágios ATIVAR.PT</li><li><strong>N.º do projeto:</strong> 0327/TE/22</li><li><strong>Data de início:</strong> 28/09/2022</li><li><strong>Data de fim:</strong> 27/06/2023</li><li><strong>Valor do incentivo:</strong> 7 806,07 €</li><li><strong>Objetivo:</strong> Este estágio tem como objetivo capacitar o estagiário a preparar com independência informação financeira e de gestão a reportar ao Conselho de Administração da empresa, nomeadamente preparando o orçamento anual da empresa por área e por projetos e fazendo o acompanhamento dos mesmos numa base mensal. Deverá igualmente estar apto a auditar a contabilidade geral da empresa por forma a constituir um sistema de controlo interno que garantirá a qualidade da informação financeira.</li></ul><h3>Projeto Estágio Ativar 0288/TE/23</h3><ul><li><strong>Identificação da medida:</strong> Medida Estágios ATIVAR.PT</li><li><strong>N.º do projeto:</strong> 0288/TE/23</li><li><strong>Data de início:</strong> 28/09/2022</li><li><strong>Data de fim:</strong> 27/06/2023</li><li><strong>Valor do incentivo:</strong> 8 445,06 €</li><li><strong>Objetivo:</strong> Este estágio tem como objetivo o estabelecimento de um novo modelo de dor crónica (IBD), a caracterização eletrofisiológica das correntes iónicas dos neurónios afetados pela dor e a identificação de compostos de origem marinha com potencial efeito analgésico neste tipo de dor.</li></ul>",
+   "fields": {
+    "full_title": "Medida Estágios ATIVAR.PT – Programas de Estágio (IEFP)",
+    "status_note": "Concluído: a data de fim mais tardia publicada é 03/06/2024 (estágio 0340/TE/22). As datas indicadas nos campos partilhados correspondem ao início mais cedo e ao fim mais tardio dos três estágios.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nIEFP – Instituto do Emprego e Formação Profissional",
+    "funding_breakdown": "0340/TE/22: 8 618,04 €\n0327/TE/22: 7 806,07 €\n0288/TE/23: 8 445,06 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/ativar-pt/"
+   }
+  },
+  "en": {
+   "title": "ATIVAR.PT Internships Measure",
+   "slug": "ativar-pt",
+   "excerpt": "Three professional internships supported by IEFP under the ATIVAR.PT Internships Measure, in pain research and financial management.",
+   "content": "<h2>Internship programmes</h2><h3>IEFP</h3><p>IEFP is the Portuguese national public employment service. Its mission is to promote job creation and quality employment and to combat unemployment through the implementation of active employment policies, particularly vocational training.</p><p>More information: <a href=\"https://www.iefp.pt/web/guest/home\">IEFP</a></p><h3>ATIVAR.PT</h3><p>A programme by the IEFP aimed at providing a quick and comprehensive response through vocational training, professional internships, and enhanced support for hiring and entrepreneurship.</p><p>More information: <a href=\"https://www.iefp.pt/ativar.pt\">https://www.iefp.pt/ativar.pt</a></p><h2>Supported projects</h2><h3>ATIVAR internship project 0340/TE/22</h3><ul><li><strong>Measure:</strong> Medida Estágios ATIVAR.PT</li><li><strong>Project number:</strong> 0340/TE/22</li><li><strong>Start date:</strong> 04/09/2023</li><li><strong>End date:</strong> 03/06/2024</li><li><strong>Incentive amount:</strong> €8,618.04</li><li><strong>Objective:</strong> This internship is intended to provide direct exposure to practical experience in a real laboratory work environment. Regarding the scientific goals, the aim is to implement F-11 cells in pain studies, thereby reducing the number of laboratory animals used, in clear alignment with European Commission regulations governing animal experimentation.</li></ul><h3>ATIVAR internship project 0327/TE/22</h3><ul><li><strong>Measure:</strong> Medida Estágios ATIVAR.PT</li><li><strong>Project number:</strong> 0327/TE/22</li><li><strong>Start date:</strong> 28/09/2022</li><li><strong>End date:</strong> 27/06/2023</li><li><strong>Incentive amount:</strong> €7,806.07</li><li><strong>Objective:</strong> This internship aims to train the intern to independently prepare financial and management information to be reported to the company’s Board of Directors. Specifically, this includes preparing the company’s annual budget by department and by project, and conducting monthly follow-ups. The intern should also be able to audit the company’s general accounting to establish an internal control system that ensures the quality of financial information.</li></ul><h3>ATIVAR internship project 0288/TE/23</h3><ul><li><strong>Measure:</strong> Medida Estágios ATIVAR.PT</li><li><strong>Project number:</strong> 0288/TE/23</li><li><strong>Start date:</strong> 28/09/2022</li><li><strong>End date:</strong> 27/06/2023</li><li><strong>Incentive amount:</strong> €8,445.06</li><li><strong>Objective:</strong> This internship aims to establish a new model of chronic pain (IBD). It involves the electrophysiological characterisation of ionic currents in neurons affected by pain and the identification of marine-derived compounds with potential analgesic effects for this type of pain.</li></ul>",
+   "fields": {
+    "full_title": "ATIVAR.PT Internships Measure – Internship Programmes (IEFP)",
+    "status_note": "Completed: the latest published end date is 03/06/2024 (internship 0340/TE/22). The shared start/end dates are the earliest start and latest end of the three internships.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nIEFP – Instituto do Emprego e Formação Profissional",
+    "funding_breakdown": "0340/TE/22: €8,618.04\n0327/TE/22: €7,806.07\n0288/TE/23: €8,445.06",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/ativar-pt/"
+   }
+  }
+ },
+ {
+  "id": "project:blue-bioeconomy-innovation-pact",
+  "order": 7,
+  "shared": {
+   "code": "Pacto de Inovação N.º C644915664-00000026",
+   "status": "completed",
+   "funding_programme": "PRR – Plano de Recuperação e Resiliência · NextGenerationEU · Agendas Mobilizadoras para a Inovação Empresarial (Aviso N.º 02/C05-i01/2022)",
+   "start_date": "2022-07-01",
+   "end_date": "2025-12-31",
+   "total_cost": "793549.12",
+   "funding_amount": "634839.30",
+   "funding_logos": [
+    "2023/05/prr.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/blue-bioeconomy-innovation-pact/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/4-otmpgtfoe964jnrdykovjx9nw0cxvxceqiwbbl0ukw.jpg"
+  },
+  "pt": {
+   "title": "Pacto para a Bioeconomia Azul",
+   "slug": "blue-bioeconomy-innovation-pact",
+   "excerpt": "Agenda mobilizadora do PRR para promover o desenvolvimento de produtos inovadores sustentáveis a partir de recursos marinhos; a Sea4Us lidera a subvertical “Aplicações de Alto Valor” da vertical “Algas”.",
+   "content": "<p>Mais informação na página do PRR: <a href=\"https://recuperarportugal.gov.pt\">recuperarportugal.gov.pt</a></p><h2>Objetivos, atividades e resultados</h2><p>O mundo precisa de um novo modelo económico que gere crescimento económico desvinculando as matérias-primas dos recursos naturais. Com esta missão crítica em mente, o Pacto da Bioeconomia Azul abraçou o desafio de reindustrializar as indústrias portuguesas através da integração de soluções de biotecnologia azul nas cadeias de valor, alavancando o uso sustentável dos biorrecursos marinhos para aumentar o valor acrescentado através da inovação descarbonizante.</p><p>Este consórcio vai levar o Oceano às prateleiras, investindo em 7 setores:</p><ul><li>Biomateriais;</li><li>Novo paradigma para a produção de bivalves;</li><li>Têxteis de base marinha;</li><li>Sustentabilidade no setor alimentar;</li><li>Aumento da produção de algas e desenvolvimento de <strong>produtos derivados de algas</strong>;</li><li>Soluções circulares para rações;</li><li>Bioinformática para o setor das pescas.</li></ul><p>Irá investir também em 3 iniciativas transversais que integram projetos que visam acelerar o desenvolvimento e comercialização de produtos e serviços do setor: a rede portuguesa de Biobancos Azuis, uma plataforma digital de valorização de coprodutos marinhos e a promoção de startups e do crescimento e internacionalização das PME.</p><p>A Sea4Us lidera a subvertical “Aplicações de Alto Valor”, na vertical “Algas”. A nossa missão é descobrir novos compostos bioativos a partir de recursos derivados de algas e desenvolver novos ingredientes e produtos para os mercados cosmecêuticos e nutracêuticos.</p>",
+   "fields": {
+    "full_title": "Pacto para a Bioeconomia Azul – Promover o desenvolvimento de produtos inovadores sustentáveis a partir de recursos marinhos",
+    "status_note": "Concluído: data de fim publicada 31/12/2025. Dimensão: Resiliência; Componente: Investimento e Inovação; Área de intervenção: Algarve.",
+    "lead": "Consórcio do Pacto para a Bioeconomia Azul (entidade líder não indicada na página da Sea4Us)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA (líder da subvertical “Aplicações de Alto Valor”, vertical “Algas”)",
+    "funding_breakdown": "Custo total elegível (Sea4Us): 793 549,12 € (consórcio: 133 M€)\nApoio financeiro dos programas de financiamento (Sea4Us): 634 839,30 € (consórcio: 94 M€)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/blue-bioeconomy-innovation-pact/"
+   }
+  },
+  "en": {
+   "title": "Blue Bioeconomy Innovation Pact",
+   "slug": "blue-bioeconomy-innovation-pact",
+   "excerpt": "PRR mobilising agenda to promote the development of sustainable innovative products from marine resources; Sea4Us leads the “High Value Applications” sub-vertical within the “Algae” vertical.",
+   "content": "<p>More information on the PRR website: <a href=\"https://recuperarportugal.gov.pt\">recuperarportugal.gov.pt</a></p><h2>Goals, activities and results</h2><p>The world needs a new economic model that generates economic growth by decoupling raw materials from natural resources. With this critical mission in mind, the Pacto da Bioeconomia Azul embraced the challenge of reindustrialising Portuguese industries through the integration of blue biotech solutions in value chains, leveraging the sustainable use of marine bioresources to increase added value through decarbonising innovation.</p><p>This consortium will bring the Ocean to shelves by investing in 7 sectors:</p><ul><li>Biomaterials;</li><li>A new paradigm for bivalve production;</li><li>Marine-based textiles;</li><li>Sustainability in the food sector;</li><li>Scaling up algae production and development of <strong>algae-derived products</strong>;</li><li>Circular feed solutions;</li><li>Bioinformatics for the fishing sector.</li></ul><p>It also includes 3 transversal initiatives overarching projects aimed at accelerating the development and commercialisation of products and services of the sector: the Portuguese Blue Biobanks network, a digital platform for the valorisation of marine co-products, and the promotion of startups and SMEs’ growth and internationalisation.</p><p>Sea4Us is leader of the “High Value Applications” sub-vertical within the “Algae” vertical. Our mission is to discover new bioactive compounds from algae-derived resources and develop new ingredients and products for the cosmeceutical and nutraceutical markets.</p>",
+   "fields": {
+    "full_title": "Blue Bioeconomy Innovation Pact – To promote the development of sustainable innovative products from marine resources",
+    "status_note": "Completed: published end date 31/12/2025. Dimension: Resilience; Component: Investment and Innovation; Intervention area: Algarve.",
+    "lead": "Blue Bioeconomy Pact consortium (lead entity not stated on the Sea4Us page)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA (leader of the “High Value Applications” sub-vertical, “Algae” vertical)",
+    "funding_breakdown": "Total eligible cost (Sea4Us): €793,549.12 (consortium: €133M)\nFinancial support from the funding programmes (Sea4Us): €634,839.30 (consortium: €94M)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/blue-bioeconomy-innovation-pact/"
+   }
+  }
+ },
+ {
+  "id": "project:seabiocide",
+  "order": 8,
+  "shared": {
+   "code": "ALG-01-0247-FEDER-072232 / LISBOA-01-0247-FEDER-072232",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 / Lisboa 2020 · FEDER · Projetos de I&D Empresarial em Copromoção para Territórios do Interior (Aviso N.º 13/SI/2020)",
+   "start_date": "2021-05-03",
+   "end_date": "2023-06-30",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2021/10/mar4pain.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/seabiocide-2/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2026/05/okamurae-nudi.jpg"
+  },
+  "pt": {
+   "title": "SEABIOCIDE",
+   "slug": "seabiocide",
+   "excerpt": "Novo biocida com origem no mar português para o tratamento de doenças infeciosas, a partir de algas invasoras da costa sudoeste, em consórcio com o ITQB NOVA.",
+   "content": "<p>As infeções multirresistentes causadas por bactérias, fungos ou vírus são um problema global, para o qual não existem soluções adequadas. O consórcio constituído pela empresa Sea4Us e pelo centro de I&amp;D ITQB NOVA pretende utilizar algas invasoras presentes na costa sudoeste portuguesa para extrair novos compostos biocidas de forma inovadora.</p><p>Em consonância com a estratégia definida pelo consórcio, o projeto SEABIOCIDE, de I&amp;D na área da biotecnologia, vem dar continuidade a estudos preliminares que demonstraram que os extratos obtidos apresentam bioatividade contra várias espécies bacterianas e fúngicas envolvidas em patologias humanas, incluindo estirpes resistentes aos fármacos existentes. Neste contexto, o projeto SEABIOCIDE está orientado para:</p><ul><li>a recolha das algas e a otimização do método de extração de compostos (atividade 1);</li><li>a identificação de novas moléculas biocidas (atividade 2);</li><li>a otimização química destas moléculas e a determinação dos seus mecanismos de ação (atividade 3);</li><li>a proteção da propriedade intelectual associada, assegurando também uma ampla divulgação dos resultados associados ao projeto (atividade 4).</li></ul><p>As equipas da Sea4Us e do ITQB NOVA contam com fortes valências nos campos de conhecimento relevantes para o projeto SEABIOCIDE, sendo totalmente adequadas a todas as suas necessidades. Os conhecimentos científicos relacionados com a biologia marinha, microbiologia e química permitirão desenvolver um fármaco que tem por base novos conceitos de extrações químicas, novos compostos biocidas e mecanismos de ação, permitindo um futuro tratamento de infeções multirresistentes causadas por diversos microrganismos (bactérias, fungos e vírus). Para além disso, a recolha das algas invasoras permitirá a gestão e exploração destes recursos de forma sustentável, tendo um impacto positivo nas outras espécies do ecossistema e preservando a sua biodiversidade.</p>",
+   "fields": {
+    "full_title": "SEABIOCIDE – Novo biocida com origem no mar português para o tratamento de doenças infeciosas",
+    "status_note": "Concluído: data de fim publicada 30/06/2023. Prioridade de investimento: P 1.2 – Promover o investimento das empresas em I&I; Tipologia de intervenção: TI 47 – Atividades de I&D Empresarial. Montantes não publicados.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos (liderança do consórcio não indicada explicitamente)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nITQB NOVA – Instituto de Tecnologia Química e Biológica António Xavier",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/seabiocide-2/"
+   }
+  },
+  "en": {
+   "title": "SEABIOCIDE",
+   "slug": "seabiocide",
+   "excerpt": "New biocide originating from Portuguese coastal waters for the treatment of infectious diseases, extracted from invasive algae of the south-west coast, in consortium with ITQB NOVA.",
+   "content": "<p>Multidrug-resistant infections caused by bacteria, fungi or viruses are a global problem, for which there are no adequate solutions. The consortium formed by the company Sea4Us and the R&amp;D centre ITQB NOVA intends to use invasive algae present on the south-west coast of Portugal to extract new biocidal compounds in an innovative way.</p><p>In line with the strategy defined by the consortium, the SEABIOCIDE R&amp;D project in the field of biotechnology will continue the preliminary studies that demonstrated that the extracts obtained are bioactive against various bacterial and fungal species involved in human pathologies, including species resistant to existing drugs. In this context, the SEABIOCIDE project is aimed at:</p><ul><li>collecting algae and optimising the method of extracting compounds (activity 1);</li><li>identifying new biocidal molecules (activity 2);</li><li>chemically optimising these molecules and determining their mechanisms of action (activity 3);</li><li>protecting the associated intellectual property, also ensuring a wide dissemination of the results associated with the project (activity 4).</li></ul><p>The Sea4Us and ITQB NOVA teams have strong skills in the fields of knowledge relevant to the SEABIOCIDE project, being fully suited to all its needs. Scientific knowledge related to marine biology, microbiology and chemistry will allow the development of a drug based on new concepts of chemical extraction, new biocidal compounds and mechanisms of action, allowing the future treatment of multi-resistant infections caused by several microorganisms (bacteria, fungi and viruses). In addition, the collection of invasive algae will allow the management and exploitation of these resources in a sustainable manner, having a positive impact on other species in the ecosystem and preserving their biodiversity.</p>",
+   "fields": {
+    "full_title": "SEABIOCIDE – New biocide originating from Portuguese coastal waters for the treatment of infectious diseases",
+    "status_note": "Completed: published end date 30/06/2023. Investment priority: P 1.2 – Promoting business investment in R&I; Intervention type: TI 47 – Business R&D activities (from the PT page). Amounts not published.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos (consortium leadership not stated explicitly)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nITQB NOVA – Instituto de Tecnologia Química e Biológica António Xavier",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/seabiocide-2/"
+   }
+  }
+ },
+ {
+  "id": "project:sea4paininternational",
+  "order": 9,
+  "shared": {
+   "code": "ALG-02-0752-FEDER-071119",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 · FEDER · Internacionalização das PME – Acelerador de Exportações (Aviso N.º 01/SI/2020)",
+   "start_date": "2021-02-13",
+   "end_date": "",
+   "total_cost": "219184.00",
+   "funding_amount": "98632.80",
+   "funding_logos": [
+    "2020/12/POAlgarve_PT2020_FEDER_barra_assin_site.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4paininternational/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/7-ottc1ly0aiku5o27g4kztklttjapbs9493j19qc3ps.jpg"
+  },
+  "pt": {
+   "title": "SEA4PAINTERNACIONAL",
+   "slug": "sea4paininternational",
+   "excerpt": "Internacionalização da patente de um novo analgésico de origem marinha: entrada em oito novos mercados internacionais.",
+   "content": "<p>A Sea4Us – Biotecnologia e Recursos Marinhos, Lda. pretende, com o presente projeto de internacionalização, entrar em oito novos mercados internacionais, tais como os EUA, Japão, Reino Unido, Espanha, Alemanha, França, Suíça e Itália, sendo que serão os primeiros mercados da empresa.</p><p>De forma a alcançar os objetivos supracitados, bem como colocar em prática a estratégia visada ao nível da internacionalização, a empresa irá desenvolver ações enquadradas nas seguintes tipologias:</p><ul><li><strong>Conhecimento dos mercados externos:</strong> participação em eventos de carácter científico e comercial de modo a dar a conhecer a investigação desenvolvida na empresa e, assim, angariar clientes;</li><li><strong>Prospeção e presença em mercados internacionais:</strong> viagens de acompanhamento dos potenciais contactos comerciais com o objetivo de dar a conhecer a investigação efetuada e aprofundar o interesse comercial;</li><li><strong>Presença na web, através da economia digital:</strong> desenvolvimento de campanhas de marketing digital e de um vídeo publicitário.</li></ul><p>Com este projeto de internacionalização, a empresa pretende iniciar a sua atividade comercial nos mercados internacionais.</p>",
+   "fields": {
+    "full_title": "SEA4PAINTERNACIONAL – Internacionalização da patente de um novo analgésico revolucionário de origem marinha",
+    "status_note": "Concluído: as duas datas de fim publicadas (12/02/2023 na página PT; 30/06/2023 na página EN) são anteriores a 10/10/2026. Data de fim por confirmar com a Sea4Us. Prioridade de investimento PI 3.2; Tipologia de intervenção TI 52 – Internacionalização das PME.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Valor do projeto: 219 184,00 €\nApoio financeiro: 98 632,80 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4paininternational/"
+   }
+  },
+  "en": {
+   "title": "SEA4PAINTERNACIONAL",
+   "slug": "sea4paininternational",
+   "excerpt": "Internationalisation of the patent of a new marine-derived analgesic: entry into eight new international markets.",
+   "content": "<p>Sea4Us – Biotecnologia e Recursos Marinhos, Lda. intends, with this internationalisation project, to enter eight new international markets, such as the USA, Japan, United Kingdom, Spain, Germany, France, Switzerland and Italy, these being the company’s first markets.</p><p>In order to achieve these objectives, as well as to put into practice its internationalisation strategy, the company will develop actions of the following types:</p><ul><li><strong>Knowledge of foreign markets:</strong> participation in events of a scientific and commercial nature in order to raise awareness of the company’s research and, thus, attract customers;</li><li><strong>Prospecting and presence in international markets:</strong> follow-up trips to potential commercial contacts with the aim of making known the research carried out and deepening commercial interest;</li><li><strong>Presence on the web, through the digital economy:</strong> development of digital marketing campaigns and of an advertising video.</li></ul><p>With this internationalisation project, the company intends to start its commercial activity in international markets.</p>",
+   "fields": {
+    "full_title": "SEA4PAINTERNACIONAL – Internationalisation of the patent of a new revolutionary analgesic of marine origin",
+    "status_note": "Completed: both published end dates (12/02/2023 on the PT page; 30/06/2023 on the EN page) are before 10/10/2026. End date to be confirmed with Sea4Us. Investment priority PI 3.2; Intervention type TI 52 – Internationalisation of SMEs.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Project value: €219,184.00\nApproved funding: €98,632.80",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/sea4paininternational/"
+   }
+  }
+ },
+ {
+  "id": "project:highly-qualified-human-resources",
+  "order": 10,
+  "shared": {
+   "code": "ALG-05-3559-FSE-000017",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 · FSE · Contratação de Recursos Humanos Altamente Qualificados (Aviso ALG-59-2018-29)",
+   "start_date": "2020-10-30",
+   "end_date": "",
+   "total_cost": "101100.00",
+   "funding_amount": "50550.00",
+   "funding_logos": [
+    "2020/12/POAlgarve_PT2020_FEDER_barra_assin_site.png"
+   ],
+   "display_check": true,
+   "documents": [
+    "doc:ficha-operacao-rhaq-pt",
+    "doc:ficha-operacao-rhaq-en"
+   ],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/highly-qualified-human-resources/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/1-otmpgbkqsehof2hbuuyyqjrwlosytodic2i37brbv4.jpg"
+  },
+  "pt": {
+   "title": "Recursos Humanos Altamente Qualificados",
+   "slug": "highly-qualified-human-resources",
+   "excerpt": "Inovação e otimização da plataforma de descoberta de compostos terapêuticos de origem marinha, através da contratação de um investigador experiente em Neurociências.",
+   "content": "<p>A Sea4Us pretende contratar um investigador experiente na área das Neurociências, com um elevado nível de conhecimento em culturas neuronais, investigação em Alzheimer, neurodegeneração, imagiologia de células em tempo real, registos de cálcio, eletrofisiologia e técnicas de biologia molecular.</p><p>A contratação do RH prevista na candidatura tem como objetivo geral impulsionar a sua Plataforma de Descoberta e Desenvolvimento de Compostos Terapêuticos, avanço este que deve ser realizado com base em dois objetivos:</p><ul><li>Aumento da inovação e da rentabilidade da plataforma existente, através da introdução de um sistema <em>in vitro</em> de triagem de <em>medium-throughput</em> de compostos terapêuticos, com o propósito de escalar a descoberta de compostos terapêuticos de origem marinha para patologias mediadas por canais iónicos (a principal área de I&amp;D da Sea4Us);</li><li>Abertura de uma nova linha de I&amp;D e respetivo modelo de negócio, através do desenvolvimento de ensaios de descoberta de compostos terapêuticos direcionados para a doença de Alzheimer, uma nova área terapêutica dentro da Sea4Us, que irá potenciar grandemente o uso da sua vasta biblioteca de compostos.</li></ul>",
+   "fields": {
+    "full_title": "Recursos Humanos Altamente Qualificados – Inovação e otimização da plataforma de descoberta de compostos terapêuticos de origem marinha",
+    "status_note": "Concluído: as datas de fim publicadas (29/10/2022 na página PT e na ficha de operação; 31/12/2023 na página EN) são anteriores a 10/10/2026. Data de fim por confirmar. Fusão de duas páginas duplicadas (IDs 6084 e 6386).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 101 100 €\nApoio financeiro da União Europeia: 50 550 € (fonte: ficha de operação)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/highly-qualified-human-resources/"
+   }
+  },
+  "en": {
+   "title": "Highly Qualified Human Resources",
+   "slug": "highly-qualified-human-resources",
+   "excerpt": "Innovation and optimisation of the discovery platform for therapeutic compounds of marine origin, through the hiring of an experienced neuroscience researcher.",
+   "content": "<p>Sea4Us plans to hire an experienced researcher in the field of neuroscience, with a high level of knowledge in neuronal cultures, Alzheimer’s research, neurodegeneration, real-time cell imaging, calcium recordings, electrophysiology, and molecular biology techniques.</p><p>The hiring of the human resource foreseen in the application has the general objective of boosting the company’s Drug Discovery and Development Platform, an advance that must be carried out based on two objectives:</p><ul><li>Increased innovation and profitability of the existing platform, through the introduction of an <em>in vitro</em> medium-throughput drug screening system, with the purpose of scaling up the discovery of therapeutic compounds of marine origin for pathologies mediated by ion channels (Sea4Us’ main R&amp;D area);</li><li>Opening of a new line of R&amp;D and the respective business model, through the development of tests to discover therapeutic compounds targeting Alzheimer’s disease, a new therapeutic area within Sea4Us, which will greatly enhance the use of its vast compound library.</li></ul>",
+   "fields": {
+    "full_title": "Highly Qualified Human Resources – Innovation and optimisation of the discovery platform for therapeutic compounds of marine origin",
+    "status_note": "Completed: the published end dates (29/10/2022 on the PT page and operation sheet; 31/12/2023 on the EN page) are before 10/10/2026. End date to be confirmed. Merged from two duplicate pages (IDs 6084 and 6386).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Total eligible cost: €101,100\nEU financial support: €50,550 (source: operation sheet)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/highly-qualified-human-resources/"
+   }
+  }
+ },
+ {
+  "id": "project:bluebiotech4pain",
+  "order": 11,
+  "shared": {
+   "code": "PT-INNOVATION-0012",
+   "status": "completed",
+   "funding_programme": "EEA Grants 2014-2021 · Programa Crescimento Azul (Aviso EEA/BG-Call1/021/2019)",
+   "start_date": "2020-10-26",
+   "end_date": "",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2021/03/EEA_grants.png",
+    "2021/01/slogan-eea-e1610023526669.png",
+    "2024/08/Ministerio_da_Economia_2015-2018.png",
+    "2024/08/direcao-geral-politica-do-mar.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/bluebiotech4pain/",
+   "source_date": "2026-10-10",
+   "thumbnail": "2021/01/Catedral_Afonos_Michal-scaled-e1777915840359.jpg"
+  },
+  "pt": {
+   "title": "BLUEBIOTECH4PAIN",
+   "slug": "bluebiotech4pain",
+   "excerpt": "Biotecnologia usando bactérias marinhas para o tratamento da dor crónica: otimização e escalonamento da produção biotecnológica de um analgésico de origem marinha.",
+   "content": "<p><a href=\"https://bluebiotech4pain.com/\">Website do BLUEBIOTECH4PAIN</a></p><p>O projeto Bluebiotech4Pain visa utilizar recursos marinhos no tratamento de doenças através da biotecnologia marinha: o desenvolvimento de um analgésico de origem marinha para o tratamento da dor crónica, através de um processo de produção biotecnológica industrial.</p><p>Estudos anteriores da Sea4Us demonstraram bioatividade analgésica de uma molécula extraída de bactérias marinhas de Sagres, Portugal. A prova de conceito revelou bons níveis de eficácia em modelos animais.</p><p>Este projeto consiste na otimização do método de produção biotecnológica desse composto (ou das suas variantes), mantendo ou mesmo melhorando a sua bioatividade, e levando ao estabelecimento de um método de produção em escala e ao desenho da estratégia de negócios. É essencial para levar o programa analgésico da Sea4Us ao mercado: gerar material para a realização dos ensaios pré-clínicos e estabelecer um acordo de licenciamento com uma grande empresa farmacêutica, que irá então concluir o desenvolvimento do medicamento.</p><h2>Atividades</h2><ul><li><strong>Atividade 1:</strong> otimização da produção biotecnológica, apoiada por síntese química; desenvolvimento de estirpes e do processo de fermentação;</li><li><strong>Atividade 2:</strong> testagem dos compostos produzidos através de ensaios de eficácia por eletrofisiologia e <em>in vivo</em>, bem como para outras bioatividades e toxicidade;</li><li><strong>Atividade 3:</strong> ampliação do processo de produção otimizado até à escala piloto;</li><li><strong>Atividade 4:</strong> submissão de patentes e desenho da estratégia de negócios subsequente.</li></ul><p>Neste projeto, a NOVA Medical School (Lisboa, Portugal) irá focar-se em microbiologia e otimização do crescimento, a SINTEF (Trondheim, Noruega) trabalhará no desenvolvimento de estirpes e no aumento de escala do processo de fermentação, a UiT The Arctic University of Norway (Tromsø, Noruega) utilizará a sua experiência em testes de bioatividade e toxicidade, e a Sea4Us (Sagres e Lisboa, Portugal) aplicará os seus conhecimentos de eletrofisiologia e ensaios <em>in vivo</em>, e também de propriedade intelectual e de negócios farmacêuticos.</p><h2>Operador do Programa</h2>",
+   "fields": {
+    "full_title": "BLUEBIOTECH4PAIN – Biotecnologia usando bactérias marinhas para o tratamento da dor crónica",
+    "status_note": "Concluído: as datas de fim publicadas (31/10/2022 na página PT; 30/04/2024 na página EN) são anteriores a 10/10/2026. O evento final do projeto foi anunciado para 30/04/2024 (notícia de 29/04/2024). Data de fim por confirmar. Montantes não publicados.",
+    "lead": "Não indicado na página (Sea4Us é parceira; confirmar promotor)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos (Sagres e Lisboa, Portugal)\nNOVA Medical School (Lisboa, Portugal)\nSINTEF (Trondheim, Noruega)\nUiT The Arctic University of Norway (Tromsø, Noruega)",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/bluebiotech4pain/"
+   }
+  },
+  "en": {
+   "title": "BLUEBIOTECH4PAIN",
+   "slug": "bluebiotech4pain",
+   "excerpt": "Biotechnology using marine bacteria for the treatment of chronic pain: optimising and scaling up the biotechnological production of a marine-derived analgesic.",
+   "content": "<p><a href=\"https://bluebiotech4pain.com/\">BLUEBIOTECH4PAIN website</a></p><p>The Bluebiotech4Pain project aims to unleash marine resources for the treatment of diseases through marine biotechnology: the development of a marine-derived analgesic for chronic pain treatment, through an industrial biotechnological production process.</p><p>Previous studies by Sea4Us have shown analgesic bioactivity from a molecule extracted from marine bacteria from Sagres, Portugal. The proof of concept revealed good levels of efficacy in animal models.</p><p>This project consists of the optimisation of the biotechnological production method of this compound (or of its variants), while maintaining or even improving its bioactivity, leading to the establishment of a scaled-up production method and the design of the business strategy. It is essential for taking Sea4Us’s analgesic programme to market: generating material to perform preclinical trials and engaging in a licensing agreement with a large pharmaceutical company, which will then conclude drug development.</p><h2>Activities</h2><ul><li><strong>Activity 1:</strong> biotechnological production optimisation, supported by chemical synthesis; strain and fermentation process development;</li><li><strong>Activity 2:</strong> testing produced compounds by electrophysiology and <em>in vivo</em> assays for efficacy, as well as for other bioactivities and toxicity;</li><li><strong>Activity 3:</strong> scaling up the optimised production process to a pilot scale;</li><li><strong>Activity 4:</strong> filing of patents and designing the subsequent business strategy.</li></ul><p>In this project, NOVA Medical School (Lisbon, Portugal) will focus on microbiology and growth optimisation, SINTEF (Trondheim, Norway) will work on strain and fermentation process development and scale-up, UiT The Arctic University of Norway (Tromsø, Norway) will use its expertise in bioactivity and toxicity testing, and Sea4Us (Sagres and Lisbon, Portugal) will apply its knowledge of electrophysiology and <em>in vivo</em> assays, and also of intellectual property and pharmaceutical business.</p><h2>Programme Operator</h2>",
+   "fields": {
+    "full_title": "BLUEBIOTECH4PAIN – Biotechnology using marine bacteria for the treatment of chronic pain",
+    "status_note": "Completed: the published end dates (31/10/2022 on the PT page; 30/04/2024 on the EN page) are before 10/10/2026. The project’s final event was announced for 30/04/2024 (news of 29/04/2024). End date to be confirmed. Amounts not published.",
+    "lead": "Not stated on the page (Sea4Us is a partner; confirm promoter)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos (Sagres and Lisbon, Portugal)\nNOVA Medical School (Lisbon, Portugal)\nSINTEF (Trondheim, Norway)\nUiT The Arctic University of Norway (Tromsø, Norway)",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/bluebiotech4pain/"
+   }
+  }
+ },
+ {
+  "id": "project:sea4cipn",
+  "order": 12,
+  "shared": {
+   "code": "2020-1056 INNOWWIDE",
+   "status": "completed",
+   "funding_programme": "INNOWWIDE",
+   "start_date": "2020-09-28",
+   "end_date": "2021-01-27",
+   "total_cost": "86625.00",
+   "funding_amount": "60000.00",
+   "funding_logos": [
+    "2020/10/innowide.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4cipn/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "SEA4CIPN",
+   "slug": "sea4cipn",
+   "excerpt": "Explorar a viabilidade de transferir o conhecimento sobre duas moléculas analgésicas para o mercado dos Estados Unidos da América.",
+   "content": "<p><strong>Principal objetivo:</strong> Explorar a viabilidade de transferir o conhecimento sobre duas moléculas analgésicas para o mercado dos Estados Unidos da América. Para tal, é necessária uma ampla análise da liberdade de operação (<em>freedom to operate</em>, FTO), bem como o desenvolvimento de estratégias adequadas de proteção e valorização de tecnologias. Outro requisito para o sucesso da transferência de conhecimento prevista é uma avaliação de mercado para determinar o impacto social e o potencial comercial.</p><h2>Objetivos, atividades e resultados esperados/obtidos</h2><p>A Sea4Us tem investigado as estruturas neuronais envolvidas na sinalização e propagação da dor. Os canais iónicos são proteínas da membrana celular que permitem a passagem de iões, como o sódio ou o potássio, moldando os potenciais de ação e outros sinais elétricos e controlando o fluxo de iões através da membrana celular.</p><p>Recentemente, a Sea4Us identificou potencial analgésico em duas moléculas já disponíveis no mercado para outras indicações, o que significa que foram aprovadas pela Food and Drug Administration e pela Agência Europeia de Medicamentos para utilização humana.</p><p>A Sea4Us descobriu uma nova aplicação para estas moléculas ao demonstrar <em>ex vivo</em> que podem bloquear dois canais iónicos – Nav1.8 e Nav1.9 – que são os canais de sódio mais expressos nos neurónios sensíveis à dor e, portanto, constituem os principais alvos terapêuticos no contexto do tratamento da dor crónica. Ao modular estes canais, os neurónios periféricos podem ser “desligados”, bloqueando efetivamente a transmissão dos sinais de dor ao cérebro e, consequentemente, evitando a perceção da dor.</p><p>A neuropatia periférica induzida por quimioterapia (CIPN) é uma condição progressiva, duradoura e frequentemente irreversível que atinge até 40% dos pacientes submetidos a quimioterapia. O tratamento da CIPN acarreta geralmente efeitos secundários negativos, especialmente quando se trata do uso de opioides. A administração das duas moléculas já mencionadas pode reduzir e, em alguns casos, eliminar completamente a CIPN em modelos animais (<em>in vivo</em>). Como atuam no sistema nervoso periférico, e não no cérebro, os efeitos secundários são poucos ou inexistentes, sendo mais bem tolerados pelos pacientes e proporcionando uma melhor qualidade de vida.</p><p>A Sea4Us visa, no âmbito deste projeto, explorar a viabilidade de transferência deste conhecimento para o mercado dos Estados Unidos da América. É necessária uma análise extensiva da liberdade de operação (FTO), bem como o desenvolvimento de estratégias adequadas de proteção e valorização de tecnologia. Outro requisito para o sucesso da transferência de conhecimento prevista é uma avaliação de mercado para determinar o impacto social e o potencial comercial. Os resultados desta avaliação exploratória permitirão à Sea4Us ajustar as suas estratégias de mercado e de investigação e, possivelmente, permitir a comercialização da nova aplicação terapêutica, trazendo uma solução disruptiva e definitiva para os pacientes que sofrem de CIPN.</p>",
+   "fields": {
+    "full_title": "SEA4CIPN – Explorar a viabilidade de transferir o conhecimento sobre duas moléculas analgésicas para o mercado dos Estados Unidos da América",
+    "status_note": "Concluído: data de fim publicada 27/01/2021.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Valor do projeto: 86 625 €\nApoio financeiro INNOWWIDE: 60 000 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4cipn/"
+   }
+  },
+  "en": {
+   "title": "SEA4CIPN",
+   "slug": "sea4cipn",
+   "excerpt": "Exploring the viability of transferring the knowledge on two analgesic molecules to the United States market.",
+   "content": "<p><strong>Main goal:</strong> Explore the viability of transferring the knowledge on two analgesic molecules to the United States of America market. For this purpose, an extensive analysis of the freedom to operate (FTO) is required, as well as the development of proper technology protection and valorisation strategies. Another requirement for the success of the envisioned knowledge transfer is a market assessment to determine both the social impact and the commercial potential.</p><h2>Goals, activities and results</h2><p>Sea4Us has been researching the neural structures involved in the signalling and propagation of pain. Ion channels are cell membrane proteins that allow ions to pass through them, such as sodium or potassium, shaping action potentials and other electrical signals by gating the flow of ions across the cell membrane.</p><p>Recently, Sea4Us identified analgesic potential in two molecules already available on the market for other indications, meaning they are approved by both the Food and Drug Administration and the European Medicines Agency for human use.</p><p>Sea4Us discovered a new application for these molecules by demonstrating <em>ex vivo</em> that they can block two key ion channels – Nav1.8 and Nav1.9 – which are the most expressed sodium channels in pain-sensitive neurons and, therefore, constitute prime therapeutic targets in the context of chronic pain treatment. By modulating these channels, peripheral neurons can be “switched off”, effectively blocking the transmission of pain signals to the brain and consequently preventing pain perception.</p><p>Chemotherapy-induced peripheral neuropathy (CIPN) is a progressive, enduring, and often irreversible condition that afflicts up to 40% of patients undergoing chemotherapy. Treatment for CIPN often carries negative side effects, especially when it comes to opioid use. The administration of the two molecules mentioned can reduce and, in some cases, eliminate CIPN completely in animal models (<em>in vivo</em>). Because they act in the peripheral nervous system, instead of in the brain, the side effects are few or non-existent, thus being better tolerated by patients and providing a better quality of life.</p><p>Sea4Us aims, within this project, to explore the viability of transferring this knowledge to the United States of America market. An extensive analysis of the freedom to operate (FTO) is required, as well as the development of proper technology protection and valorisation strategies. Another requirement for the success of the envisioned knowledge transfer is a market assessment to determine both the social impact and the commercial potential. The results from this exploratory assessment will enable Sea4Us to adjust its go-to-market and research strategies and possibly enable the commercialisation of the novel therapeutic application, bringing a disruptive and definitive solution to patients suffering from CIPN.</p>",
+   "fields": {
+    "full_title": "SEA4CIPN – Exploring the viability of transferring the knowledge on two analgesic molecules to the United States of America market",
+    "status_note": "Completed: published end date 27/01/2021.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Project value: €86,625\nApproved funding (INNOWWIDE): €60,000",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/sea4cipn/"
+   }
+  }
+ },
+ {
+  "id": "project:algae4ibd",
+  "order": 13,
+  "shared": {
+   "code": "H2020-FNR-2020 – Grant Agreement N.º 101000501",
+   "status": "completed",
+   "funding_programme": "Horizon 2020 · Food and Natural Resources (H2020-FNR-2020)",
+   "start_date": "2020-07-01",
+   "end_date": "2022-05-31",
+   "total_cost": "398750.00",
+   "funding_amount": "",
+   "funding_logos": [
+    "2023/05/Captura-de-ecra-2023-05-17-152544.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": true,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/algae4ibd/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/Algas-Off-shore-Sagres-I-n9otn69iaamt7z5eoyo2v88nl4tel0hw9e7vnqm5lc.jpg"
+  },
+  "pt": {
+   "title": "Algae4IBD",
+   "slug": "algae4ibd",
+   "excerpt": "Saúde a partir de recursos aquáticos: desenvolver alimentos funcionais e medicamentos à base de algas contra a dor, a inflamação e a doença inflamatória intestinal (IBD).",
+   "content": "<p>Website do projeto: <a href=\"https://algae4ibd.eu/\">algae4ibd.eu</a></p><h2>Objetivos, atividades e resultados</h2><p>Dor, inflamação e um microbioma intestinal desequilibrado são características da doença inflamatória intestinal (do inglês <em>Inflammatory Bowel Disease</em>, IBD). O poder combinado das algas pode ajudar a melhorar o bem-estar dos pacientes com IBD.</p><p>A IBD é uma doença complexa cuja incidência está constantemente a aumentar. Os pacientes necessitam de terapias personalizadas que muitas vezes são caras. Nem todos respondem aos tratamentos disponíveis, deixando alguns com apenas uma opção: a remoção cirúrgica de partes do intestino. Por isso, existe uma grande necessidade de novos medicamentos.</p><p>O nosso foco é fornecer soluções disponíveis por via oral e económicas para pacientes com IBD – crianças e adultos – usando compostos de algas.</p><h3>Da natureza às lojas e farmácias em menos de 4 anos</h3><ul><li><strong>Cultivo de algas:</strong> cultivamos as nossas algas em fotobiorreatores. Nestas máquinas, controlamos o seu crescimento ajustando a luz, a concentração de CO2 e a temperatura – condições importantes para o desenvolvimento das algas. Ao criar o ambiente artificial ideal, produzimos quantidades máximas das nossas algas, ao mesmo tempo que respeitamos a natureza.</li><li><strong>Rutura das células das algas:</strong> os compostos desejados estão dentro das células das algas. Para os obter, temos de romper as células, o que pode ser feito, por exemplo, com ultrassons. Estas ondas sonoras de 20 kHz (e superiores) fazem com que as células das algas vibrem tão fortemente que se rompem, libertando os diferentes compostos internos.</li><li><strong>Extração de compostos:</strong> depois de libertar os compostos de dentro das células das algas, temos de os separar. Afinal, cada composto pode ter efeitos diferentes, por isso queremos testá-los individualmente. Para isso, usamos solventes: líquidos que retiram os compostos desejados da mistura de moléculas libertadas.</li><li><strong>Teste de compostos:</strong> para estudar os efeitos dos compostos separados, adicionamo-los, por exemplo, a células humanas inflamadas em laboratório e destacamos aqueles que aliviam a inflamação. Como a IBD está ligada às bactérias intestinais, testamos os compostos também em bactérias “boas” e “más”, para encontrar aqueles que atuam como prebióticos ou antibióticos.</li><li><strong>Ensaios pré-clínicos:</strong> testamos os compostos mais promissores em células de pacientes com IBD. O tecido obtido durante colonoscopias é cultivado em laboratório e os compostos são-lhe adicionados. Desta forma, podemos determinar se os compostos revertem os sintomas de IBD dos pacientes. Isto também ajudará a compreender as respostas específicas de cada paciente aos diferentes compostos, o que é importante para tornar o tratamento da IBD mais eficaz.</li><li><strong>Caracterização de compostos:</strong> para produzir os compostos, precisamos de determinar a sua estrutura 3D. Quantos átomos de carbono ou de oxigénio estão presentes? Como estão interligados? Uma das técnicas que usamos para isso é a ressonância magnética nuclear, que nos permite registar e analisar as vibrações dos átomos que compõem o composto e obter uma imagem clara da sua estrutura.</li><li><strong>Produção de compostos:</strong> muitas vezes as algas não conseguem produzir os compostos na quantidade necessária para o desenvolvimento do produto. Nestes casos, “damos uma folga” às nossas algas e produzimos nós mesmos os compostos. Como conhecemos a sua estrutura 3D, sabemos de que blocos de construção precisamos. Através de uma sequência de reações químicas, deixamos os blocos de construção interagir entre si e construímos os nossos compostos passo a passo.</li></ul><h3>Alimentos funcionais e medicamentos à base de algas até meados de 2025, da natureza ao prato e à cabeceira do doente</h3><ul><li><strong>Alimentos funcionais:</strong> apresentam benefícios que vão além de fornecer nutrientes e energia. Através de um ingrediente específico, podem, por exemplo, promover a nossa saúde. Podem conter naturalmente esse ingrediente ou este pode ser adicionado ao alimento. Um exemplo seria um iogurte enriquecido com probióticos.</li><li><strong>Suplementos alimentares:</strong> fornecem nutrientes, vitaminas ou compostos promotores de saúde em maior concentração do que os alimentos normais ou funcionais. Destinam-se a complementar a dieta normal, como as cápsulas de vitaminas.</li><li><strong>Nutracêuticos:</strong> são fontes concentradas de nutrientes, vitaminas ou compostos benéficos para a saúde. Têm um efeito farmacêutico comprovado, mas são classificados como alimentos. Por isso, são testados e produzidos com mais rigor do que os suplementos alimentares.</li><li><strong>Produtos farmacêuticos:</strong> os produtos farmacêuticos ou fármacos são usados para tratar doenças e os seus sintomas. Contêm compostos com benefício comprovado para a saúde. São testados e fabricados de acordo com os mais elevados padrões de qualidade médica.</li></ul><h3>Impactos</h3><ul><li><strong>Melhoria do bem-estar do paciente:</strong> os nossos alimentos funcionais e medicamentos à base de algas têm o potencial de trazer alívio aos pacientes com IBD, melhorando o seu bem-estar e qualidade de vida.</li><li><strong>Redução de hospitalizações:</strong> os alimentos funcionais e medicamentos desenvolvidos no Algae4IBD podem prevenir o aparecimento da IBD ou recaídas, o que irá reduzir o número de pessoas que precisam de ser hospitalizadas devido à IBD.</li><li><strong>Redução de custos de saúde:</strong> as soluções Algae4IBD são desenvolvidas e fabricadas de forma económica, o que irá reduzir o encargo financeiro sobre os sistemas de saúde.</li><li><strong>Receita económica:</strong> a nossa abordagem holística contorna muitos obstáculos da descoberta tradicional de medicamentos, o que aumenta a taxa de sucesso no desenvolvimento de um produto e na sua colocação no mercado.</li></ul>",
+   "fields": {
+    "full_title": "Algae4IBD – Saúde a partir de Recursos Aquáticos",
+    "status_note": "Concluído: data de fim publicada 31/05/2022. Atenção: a notícia de 01/07/2021 anuncia o arranque do projeto “agora” e uma duração de 4 anos, o que contradiz as datas da página (01/07/2020 – 31/05/2022). Datas por confirmar com a Sea4Us.",
+    "lead": "Não indicado na página (consórcio Horizonte 2020; Sea4Us é entidade beneficiária)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA (entidade beneficiária; área de intervenção: Algarve)",
+    "funding_breakdown": "Custo total elegível: 398 750,00 €\nApoio financeiro da União Europeia (tal como publicado): 7 499 520,01 € – valor superior ao custo elegível; provavelmente refere-se ao consórcio. Confirmar.",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/algae4ibd/"
+   }
+  },
+  "en": {
+   "title": "Algae4IBD",
+   "slug": "algae4ibd",
+   "excerpt": "Health from aquatic resources: developing algae-based functional food and medication against pain, inflammation and inflammatory bowel disease (IBD).",
+   "content": "<p>Project website: <a href=\"https://algae4ibd.eu/\">algae4ibd.eu</a></p><h2>Goals, activities and results</h2><p>Pain, inflammation, and an imbalanced gut microbiome are all characteristics of Inflammatory Bowel Disease (IBD). The combined power of algae can help improve the well-being of IBD patients.</p><p>IBD is a complex disease whose incidence is steadily increasing. Patients require tailored therapies which are often expensive. Yet, not everyone responds to the available treatments, leaving some with only one option: surgical removal of parts of their bowel. Therefore, a great need for new medication exists.</p><p>Our focus is on providing orally available and cost-effective solutions for IBD patients – children and adults – using algal compounds.</p><h3>From nature to stores and pharmacies in less than 4 years</h3><ul><li><strong>Growing algae:</strong> we grow our algae in so-called photobioreactors. In these machines, we control their growth by adjusting light, CO2 concentration, and temperature – important conditions for algae to thrive. By creating the ideal artificial environment, we produce maximum amounts of our algae, while going easy on nature.</li><li><strong>Breaking algae:</strong> the desired compounds are inside the algae cells. How do we get them? We have to break the algae cells, which can be done with ultrasound, for instance. These sound waves of 20 kHz and higher cause the algae cells to vibrate so heavily that they break, releasing all the different inner compounds.</li><li><strong>Extracting compounds:</strong> once we have released the compounds from inside the algae cells, we separate them. After all, each compound can have different effects, so we want to test them individually. To do this, we use solvents. These are liquids that will pull the desired compounds out of the mix of released molecules.</li><li><strong>Testing compounds:</strong> to study the effects of the separated compounds we add them, for instance, to inflamed human lab cells and single out those that relieve the inflammation. As IBD is linked to gut bacteria, we also test the compounds on both good and bad bacteria to find those that act as prebiotics or antibiotics.</li><li><strong>Pre-clinical trial:</strong> we test the most promising compounds on cells from IBD patients. Tissue obtained during a colonoscopy is grown in the lab and the compounds added to it. This way, we can determine if the compounds revert patients’ IBD symptoms. It will also help us understand the patient-specific responses to the different compounds. This is important to make the treatment of IBD more effective.</li><li><strong>Compound characterisation:</strong> to produce the compounds, we need to determine their 3D structure. How many carbon or oxygen atoms are present? How are they connected? One of the techniques we use to do so is nuclear magnetic resonance. We place the compound between magnets. With the magnets we set the compound’s atoms in vibration. We record and analyse the vibrations and get a clear picture of what our compound looks like.</li><li><strong>Compound production:</strong> often algae can’t produce the compounds in the quantity required for product development. In these cases, we give our algae a break and make the compounds ourselves. Since we now know their 3D structure, we know which building blocks we need for this. In a sequence of chemical reactions, we let the building blocks interact with each other and build our compounds step by step.</li></ul><h3>Algae-powered functional food and medication delivered by mid-2025 from nature to plate and bedside</h3><ul><li><strong>Functional foods:</strong> functional foods have benefits that go beyond providing nutrients and energy. Through a specific ingredient, they can, for instance, promote our health. They may naturally contain this ingredient, or it may be added to the food. An example would be a yoghurt fortified with probiotics.</li><li><strong>Food supplements:</strong> food supplements provide nutrients, vitamins, or health-promoting compounds in higher concentration than normal food or functional food does. They are intended to supplement the normal diet, like vitamin capsules.</li><li><strong>Nutraceuticals:</strong> nutraceuticals are concentrated sources of nutrients, vitamins, or health-beneficial compounds. They have a proven pharmaceutical effect but are classified as food. They are therefore tested and produced more rigorously than food supplements.</li><li><strong>Pharmaceuticals:</strong> pharmaceuticals or drugs are used to treat diseases and their symptoms. They contain compounds that have a proven benefit on health. They are tested and manufactured according to the highest medical quality standards.</li></ul><h3>Impacts</h3><ul><li><strong>Increased patient well-being:</strong> our algae-powered functional food and medications have the potential to bring relief for IBD patients. This will improve their well-being and quality of life.</li><li><strong>Reduced hospitalisation:</strong> the functional food and medicines developed in Algae4IBD can prevent the onset of IBD or relapses. This will reduce the number of people who have to be hospitalised due to IBD.</li><li><strong>Reduced healthcare costs:</strong> Algae4IBD solutions are developed and manufactured in a cost-effective way. This will lower the financial burden placed on our healthcare systems.</li><li><strong>Economic revenue:</strong> our holistic approach circumvents many obstacles of traditional drug discovery. This increases the success rate in developing a product and bringing it to market.</li></ul>",
+   "fields": {
+    "full_title": "Algae4IBD – Health from Aquatic Resources",
+    "status_note": "Completed: published end date 31/05/2022. Note: the news item of 01/07/2021 announces the project starting “now” with a 4-year duration, which contradicts the page dates (01/07/2020 – 31/05/2022). Dates to be confirmed with Sea4Us.",
+    "lead": "Not stated on the page (Horizon 2020 consortium; Sea4Us is a beneficiary)",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, SA (beneficiary; intervention area: Algarve)",
+    "funding_breakdown": "Total eligible cost: €398,750.00\nEU financial support (as published): €7,499,520.01 – higher than the eligible cost; probably the consortium total. To be confirmed.",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/algae4ibd/"
+   }
+  }
+ },
+ {
+  "id": "project:mar4pain2",
+  "order": 14,
+  "shared": {
+   "code": "LISBOA-01-0247-FEDER-045331",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · Lisboa 2020 · FEDER",
+   "start_date": "2019-09-01",
+   "end_date": "",
+   "total_cost": "804478.81",
+   "funding_amount": "402239.41",
+   "funding_logos": [
+    "2020/05/Lisboa2020_RGB_2-e1597254548962.jpg"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4pain2/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/2-ottc21x9ip6pn1ezuthnhyknx33xyn0jzamaffoes0.jpg"
+  },
+  "pt": {
+   "title": "Mar4Pain2",
+   "slug": "mar4pain2",
+   "excerpt": "Novo analgésico para tratamento da dor crónica com origem no mar português: validação do alvo terapêutico e otimização de compostos.",
+   "content": "<p>O projeto Mar4Pain2 surge na sequência do projeto Mar4Pain, no qual foi estabelecido um novo modo de ação, que envolve modulação de canais iónicos, reduzindo a hiperexcitabilidade dos neurónios da dor e levando à mitigação da dor crónica. O presente projeto está orientado para a otimização deste modo de ação, através da validação e otimização do alvo terapêutico (incrementando o valor e as extensões do modo de ação), bem como para a otimização da produção química e biotecnológica dos compostos.</p><h2>Atividades</h2><ul><li>Validação e otimização do alvo terapêutico: mais valor e extensões do modo de ação;</li><li>Seleção e eleição dos compostos otimizados e dos seus modos de produção para prossecução para o mercado;</li><li>Gestão científica, disseminação e patentes; eleição dos produtos “premium”.</li></ul><h2>Objetivos</h2><ul><li>Conhecer de forma detalhada as particularidades fisiológicas e fisiopatológicas da hiperexcitabilidade neuronal, em vários tipos de dor;</li><li>Estabelecer novos modelos animais de dor, que ainda não estão disponíveis no laboratório;</li><li>Proceder à otimização da produção química e biotecnológica dos compostos;</li><li>Determinar os análogos-derivados “premium” e a respetiva indicação médica.</li></ul>",
+   "fields": {
+    "full_title": "Mar4Pain2 – Novo analgésico para tratamento da dor crónica com origem no mar português: validação do alvo terapêutico e otimização de compostos",
+    "status_note": "Concluído: as datas de fim publicadas (31/08/2021 na página PT; 31/12/2022 na página EN) são anteriores a 10/10/2026. Data de fim por confirmar. Data de aprovação: 04/02/2020. Listado em “Projetos Ativos” no índice antigo.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 804 478,81 €\nApoio financeiro da União Europeia (FEDER): 402 239,41 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4pain2/"
+   }
+  },
+  "en": {
+   "title": "Mar4Pain2",
+   "slug": "mar4pain2",
+   "excerpt": "New analgesic for the treatment of chronic pain from the Portuguese sea: target validation and compound optimisation.",
+   "content": "<p>The Mar4Pain2 project follows on from the Mar4Pain project, in which a new mode of action was established, involving ion channel modulation, reducing neuronal hyperexcitability and leading to the mitigation of chronic pain. The present project is oriented to the optimisation of the therapeutic target (increasing the value and extensions of the mode of action), as well as to the optimisation of the chemical and biotechnological production of the compounds.</p><h2>Activities</h2><ul><li>Validation and optimisation of the therapeutic target: more value and extensions of the mode of action;</li><li>Selection of the optimised compounds and their mode of production to pursue for market;</li><li>Scientific management, dissemination and patents; selection of the “premium” products.</li></ul><h2>Goals</h2><ul><li>Detailed knowledge of the physiological and pathophysiological particularities of neuronal hyperexcitability, in several pain models;</li><li>Establishment of new animal pain models, not yet available in the laboratory;</li><li>Optimisation of the chemical and biotechnological production of the compounds;</li><li>Determination of the “premium” analogues-derivatives and their respective medical indication.</li></ul>",
+   "fields": {
+    "full_title": "Mar4Pain2 – New analgesic for treatment of chronic pain with Portuguese sea origin: target validation and compound optimisation",
+    "status_note": "Completed: the published end dates (31/08/2021 on the PT page; 31/12/2022 on the EN page) are before 10/10/2026. End date to be confirmed. Approval date: 04/02/2020. Listed under “Active Projects” on the old index.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Total eligible cost: €804,478.81\nEU financial support (ERDF): €402,239.41",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/mar4pain2/"
+   }
+  }
+ },
+ {
+  "id": "project:blue4cancerpain",
+  "order": 15,
+  "shared": {
+   "code": "FA_05_2017_037",
+   "status": "completed",
+   "funding_programme": "Fundo Azul",
+   "start_date": "2019-09-01",
+   "end_date": "",
+   "total_cost": "232438",
+   "funding_amount": "197572",
+   "funding_logos": [],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/blue4cancerpain/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/Biolum2_Sagres-copy-n9otn0mh5af3abdllw8bg9nw0tl7atvi8mays2uimo.jpg"
+  },
+  "pt": {
+   "title": "Blue4CancerPain",
+   "slug": "blue4cancerpain",
+   "excerpt": "Desenvolvimento de um novo produto de origem biotecnológica baseado em recursos naturais marinhos para tratamento da dor crónica induzida por quimioterapia.",
+   "content": "<p>A proposta da Sea4Us acomoda o investimento necessário para desenvolver um produto que resolva um problema clínico global através de uma solução do mar português: um potencial composto analgésico (S4U) de um invertebrado marinho. Os objetivos do projeto são:</p><ol><li>obter material biológico suficiente para os procedimentos de purificação;</li><li>investigar mais aprofundadamente o efeito analgésico das moléculas;</li><li>desenvolver e estudar a característica central de tais compostos para prevenir a CIPN;</li><li>explorar o potencial do novo composto como agente anticancerígeno e identificar a sua ecotoxicologia <em>in vitro</em>;</li><li>garantir a propriedade intelectual desta nova molécula e/ou a patente de reposicionamento de S4UR1 e S4UR2;</li><li>realizar atividades de demonstração dos resultados.</li></ol><p>A Sea4Us tem explorado, nos últimos 5 anos, a sua biblioteca de compostos naturais marinhos, a partir da qual foi descoberta uma nova molécula de grande valor analgésico com um modo de ação inovador (S4U). Esta molécula pode atuar sobre os canais iónicos responsáveis pela modulação da dor. Além disso, a S4U é muito semelhante a duas moléculas aprovadas pela FDA e pela EMA. As principais ações do projeto são, na sua maioria, indistinguíveis dos seus objetivos: estudar os efeitos analgésicos destes compostos na dor crónica, especificamente na CIPN, bem como o potencial anticancerígeno da S4U; adquirir a propriedade intelectual da S4U e, possivelmente, a nova patente de aplicação para os compostos S4UR1 e S4UR2.</p>",
+   "fields": {
+    "full_title": "Blue4CancerPain – Desenvolvimento de um novo produto de origem biotecnológica baseado em recursos naturais marinhos para tratamento da dor crónica induzida por quimioterapia",
+    "status_note": "Concluído: as datas de fim publicadas (31/08/2021 na página PT; 31/08/2022 na página EN) são anteriores a 10/10/2026. Data de fim por confirmar. Listado em “Projetos Ativos” no índice antigo.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 232 438 €\nApoio financeiro do Fundo Azul: 197 572 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/blue4cancerpain/"
+   }
+  },
+  "en": {
+   "title": "Blue4CancerPain",
+   "slug": "blue4cancerpain",
+   "excerpt": "Development of a new product of biotechnological origin based on marine natural resources to treat chronic pain and pain induced by cancer chemotherapy.",
+   "content": "<p>Sea4Us’ proposal accommodates the investment needed to develop a product that solves a global clinical problem through a solution from the Portuguese sea: a potential analgesic compound (S4U) from a marine invertebrate. The project objectives are:</p><ol><li>to obtain sufficient biological material for the purification procedures;</li><li>to investigate the analgesic effect of the molecules in more depth;</li><li>to develop and study the central characteristic of such compounds to prevent CIPN;</li><li>to explore the new compound’s potential as an anticancer agent and identify its <em>in vitro</em> ecotoxicology;</li><li>to guarantee the intellectual property of this new molecule and/or the patent for repositioning S4UR1 and S4UR2;</li><li>to carry out results demonstration activities.</li></ol><p>In the last 5 years, Sea4Us has been exploring its library of natural marine compounds, from which a new molecule of great analgesic value with an innovative mode of action (S4U) was discovered. This molecule can act on the ion channels responsible for pain modulation. In addition, S4U is very similar to two molecules approved by the FDA and EMA. The main actions of the project are, for the most part, indistinguishable from its objectives: to study the analgesic effects of these compounds in chronic pain, specifically in CIPN, as well as the anticancer potential of S4U; to acquire the intellectual property of S4U and possibly the new application patent for compounds S4UR1 and S4UR2.</p>",
+   "fields": {
+    "full_title": "Blue4CancerPain – Development of a new product of biotechnological origin based on marine natural resources to treat chronic pain and pain induced by cancer chemotherapy",
+    "status_note": "Completed: the published end dates (31/08/2021 on the PT page; 31/08/2022 on the EN page) are before 10/10/2026. End date to be confirmed. Listed under “Active Projects” on the old index.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Eligible value: €232,438\nApproved Fundo Azul support: €197,572",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/blue4cancerpain/"
+   }
+  }
+ },
+ {
+  "id": "project:blue4pain",
+  "order": 16,
+  "shared": {
+   "code": "FA_03_2017_008",
+   "status": "completed",
+   "funding_programme": "Fundo Azul",
+   "start_date": "2019-04-01",
+   "end_date": "",
+   "total_cost": "1242383",
+   "funding_amount": "496953",
+   "funding_logos": [],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/blue4pain/",
+   "source_date": "2026-10-10",
+   "thumbnail": "elementor/thumbs/Biolum1_Sagres-copy-n9otn0mh5af3abdllw8bg9nw0tl7atvi8mays2uimo.jpg"
+  },
+  "pt": {
+   "title": "Blue4Pain",
+   "slug": "blue4pain",
+   "excerpt": "Novo analgésico para tratamento da dor crónica com origem no mar português: levar um composto analgésico de um invertebrado marinho até aos testes requeridos para o pedido de autorização de ensaio clínico.",
+   "content": "<p>A proposta da Sea4Us acomoda o investimento necessário para desenvolver um produto que visa resolver um problema clínico global (a dor crónica, uma doença sem tratamento) através de uma solução com origem no mar português: um composto analgésico proveniente de um invertebrado marinho cujo desenvolvimento passou a fase de prova de conceito.</p><p>O racional confunde-se com os objetivos finais: 1) levar o analgésico aos testes requeridos no <em>Clinical Trial Application</em>, i.e., propor-se a ensaios clínicos (com humanos) e assim 2) “ensaiar” o mercado para o licenciamento a uma grande empresa farmacêutica (possível estratégia de saída).</p><p>A estratégia da Sea4Us é, ao acompanhar o desenvolvimento do produto até aos testes em humanos, salvaguardar a natureza e origem do composto analgésico: a biodiversidade do mar português. Este ponto é central, pois o cariz inovador da molécula reside precisamente no engenho da evolução ecoquímica dos organismos vivos marinhos.</p><p>O projeto está estruturado em 9 atividades, nomeadamente:</p><ul><li>otimização do processo de síntese (<em>scale-up</em>), de modo a salvaguardar a sustentabilidade do recurso marinho;</li><li>execução dos testes não clínicos, divididos em 5 atividades – farmacologia, farmacodinâmica secundária, farmacocinética, farmacologia de segurança e toxicologia geral;</li><li>elaboração do <em>Clinical Trial Application</em>;</li><li>promoção e divulgação (com especial foco no valor biotecnológico do mar);</li><li>gestão do projeto.</li></ul><p>A equipa da Sea4Us conta com fortes valências nos campos de conhecimento relevantes e, além disso, contará com a contribuição de investigadores de entidades especializadas em I&amp;D.</p>",
+   "fields": {
+    "full_title": "Blue4Pain – Novo analgésico para tratamento da dor crónica com origem no mar português",
+    "status_note": "Concluído: as datas de fim publicadas (31/03/2021 na página PT; 31/01/2024 na página EN) são anteriores a 10/10/2026. Data de fim por confirmar. Listado em “Projetos Ativos” no índice antigo.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 1 242 383 €\nApoio financeiro do Fundo Azul: 496 953 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/blue4pain/"
+   }
+  },
+  "en": {
+   "title": "Blue4Pain",
+   "slug": "blue4pain",
+   "excerpt": "New analgesic to treat chronic pain from the Portuguese sea: taking an analgesic compound from a marine invertebrate to the tests required for a Clinical Trial Application.",
+   "content": "<p>Sea4Us’ proposal accommodates the investment needed to develop a product that aims to solve a global clinical problem (chronic pain, an untreated disease) through a solution originating from the Portuguese sea: an analgesic compound from a marine invertebrate whose development has passed the proof-of-concept phase.</p><p>The rationale merges with the ultimate goals: 1) to take the analgesic to the tests required in the Clinical Trial Application, i.e. to propose clinical trials (with humans), and thus 2) to “test” the licensing market with a large pharmaceutical company (possible exit strategy).</p><p>Sea4Us’ strategy is, while monitoring product development through human testing, to safeguard the nature and origin of the analgesic compound: the biodiversity of the Portuguese sea. This point is central because the innovative nature of the molecule lies precisely in the ingenuity of the ecochemical evolution of living marine organisms.</p><p>The project is structured in 9 activities, namely:</p><ul><li>optimisation of the scale-up process in order to safeguard the sustainability of the marine resource;</li><li>non-clinical tests, divided into 5 activities – pharmacology, secondary pharmacodynamics, pharmacokinetics, safety pharmacology and general toxicology;</li><li>preparation of the Clinical Trial Application;</li><li>promotion and dissemination (with special focus on the biotechnological value of the sea);</li><li>project management.</li></ul><p>The Sea4Us team has strong expertise in the relevant fields of knowledge and will also be supported by researchers from R&amp;D entities.</p>",
+   "fields": {
+    "full_title": "Blue4Pain – New analgesic to treat chronic pain from the Portuguese sea",
+    "status_note": "Completed: the published end dates (31/03/2021 on the PT page; 31/01/2024 on the EN page) are before 10/10/2026. End date to be confirmed. Listed under “Active Projects” on the old index.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Eligible value: €1,242,383\nApproved Fundo Azul support: €496,953",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/blue4pain/"
+   }
+  }
+ },
+ {
+  "id": "project:sea4pain",
+  "order": 17,
+  "shared": {
+   "code": "815852",
+   "status": "completed",
+   "funding_programme": "Horizon 2020 · SME Instrument Phase 1 (H2020-EIC-SMEInst-2018-2020, SME-1)",
+   "start_date": "2018-05-01",
+   "end_date": "2018-09-30",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2018/04/LogosSea4Pain.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4pain/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Sea4Pain",
+   "slug": "sea4pain",
+   "excerpt": "Desenvolvimento de um analgésico inovador para o tratamento da dor crónica a partir de compostos derivados do mar (Instrumento PME, Fase 1).",
+   "content": "<p>O projeto Sea4Pain expandirá e definirá a estratégia de desenvolvimento da “Drug Discovery and Development Platform” da Sea4Us – uma plataforma que aplica novas abordagens de biotecnologia para explorar compostos derivados do mar para o desenvolvimento de novos produtos farmacêuticos relevantes para a biomedicina.</p><p>Os primeiros resultados laboratoriais demonstraram claramente os benefícios dos compostos marinhos numa série de patologias, como a dor crónica, e o enorme potencial dos seus produtos derivados no mercado da saúde. Em particular, os nossos avanços inovadores levarão ao desenvolvimento de um analgésico exclusivo de alta eficácia (bloqueador de canal iónico), com toxicidade reduzida e efeitos secundários limitados (Sea4Pain). Esta abordagem extremamente inovadora mostra um modo de ação diferenciado (atuando diretamente no “interruptor da dor”), que dará origem a uma nova classe de fármacos sem efeitos adversos esperados no cérebro (atualmente em processo de patente). O composto disruptivo bloqueará canais iónicos específicos em neurónios sensíveis à dor (Kv), para os quais não há modulador conhecido em uso clínico, e aliviará o sofrimento de um quinto da população mundial que sofre constantemente de dor crónica.</p><p>Assim, o Sea4Pain oferecerá tratamentos alternativos para pacientes que sofrem de dor crónica moderada a grave. Os fármacos atualmente no mercado (derivados de opioides e outros) aliviam a dor, mas acarretam efeitos nocivos importantes (habituação, dependência, perda de motivação) e grande perda de qualidade de vida. Estima-se que o mercado global de medicamentos e dispositivos de gestão da dor valia 38 mil milhões de dólares em 2015 e alcance 51 mil milhões de dólares em 2022, com uma taxa de crescimento anual composta (CAGR) de 4%.</p><p>Para mais informações, consulte <a href=\"https://sme.easme-web.eu/?b=949674039\">o site oficial do SME Instrument</a>.</p>",
+   "fields": {
+    "full_title": "Sea4Pain – Desenvolvimento de um analgésico inovador para o tratamento da dor crónica a partir de compostos derivados do mar",
+    "status_note": "Concluído: data de fim publicada 30/09/2018. Data de aprovação: 23/03/2018. Tópico: EIC-SMEInst-2018-2020; tipo de ação: SME-1.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/sea4pain/"
+   }
+  },
+  "en": {
+   "title": "Sea4Pain",
+   "slug": "sea4pain",
+   "excerpt": "Development of a novel analgesic for chronic pain from marine-derived compounds (SME Instrument, Phase 1).",
+   "content": "<p>The Sea4Pain project will expand and define the development strategy for Sea4Us’s “Drug Discovery and Development Platform” – a platform that applies novel biotechnological approaches to exploit marine-derived compounds for the development of novel pharmaceuticals highly relevant for biomedicine.</p><p>The first lab-based research results have clearly demonstrated the benefits of marine compounds in a series of pathologies, like chronic pain, and the huge potential of their derived products in the health market. In particular, our innovative breakthroughs will lead to the development of a unique, high-efficacy analgesic (ion channel blocker), with reduced toxicity and limited side effects (Sea4Pain). This extremely innovative approach shows a differentiated mode of action (acting directly on the “pain switch”), that will give rise to a new class of pharmaceutical drugs with no expected adverse effects on the brain (currently being patented). The disruptive compound will block specific ion channels in pain-sensing neurons (Kv), for which there is no known modulator in clinical use, and ease the suffering of one fifth of the world’s population who constantly suffer from chronic pain.</p><p>Sea4Pain will offer alternative treatments for patients suffering from moderate to severe chronic pain. Current drugs on the market (opioid derivatives and others) do alleviate pain but co-inflict important noxious effects (habituation, addiction, loss of drive) and great loss in quality of life. The global pain management drugs and devices market was estimated to be worth $38 billion in 2015 and to reach $51 billion in 2022 at a CAGR of 4%.</p><p>For more information, see <a href=\"https://sme.easme-web.eu/?b=949674039\">the official SME Instrument website</a>.</p>",
+   "fields": {
+    "full_title": "Sea4Pain – Development of a novel analgesic for chronic pain from marine-derived compounds",
+    "status_note": "Completed: published end date 30/09/2018. Approval date: 23/03/2018. Topic: EIC-SMEInst-2018-2020; type of action: SME-1.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/sea4pain/"
+   }
+  }
+ },
+ {
+  "id": "project:si2e",
+  "order": 18,
+  "shared": {
+   "code": "ALG-06-5141-FEDER-000061; ALG-06-4740-FSE-000046",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 · FEDER / FSE · SI2E – DLBC Pesca do Barlavento do Algarve",
+   "start_date": "2018-04-01",
+   "end_date": "2019-09-30",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2018/08/logos_si2e-1.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/si2e/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "SAGRES4US (SI2E)",
+   "slug": "si2e",
+   "excerpt": "Valorização e expansão da atividade biotecnológica da Sea4Us em Sagres: laboratório, equipamento e contratação de novos recursos humanos.",
+   "content": "<p>O projeto consiste na expansão da capacidade de infraestruturas e logística da Sea4Us no seu polo de Sagres (laboratório e equipamento) e na contratação de novos recursos humanos, valorizando e centralizando assim as atividades tecnológicas e científicas em Sagres.</p>",
+   "fields": {
+    "full_title": "SAGRES4US – Valorização e expansão da atividade biotecnológica da Sea4Us em Sagres",
+    "status_note": "Concluído: data de fim publicada 30/09/2019. Data de aprovação: 23/05/2018. Designação: AAC no âmbito do SI2E – DLBC Pesca do Barlavento do Algarve. Objetivo temático: Promover a integração social e combater a pobreza e qualquer discriminação; Prioridade de investimento: Estratégias de desenvolvimento local de base comunitária. Montantes não publicados.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/si2e/"
+   }
+  },
+  "en": {
+   "title": "SAGRES4US (SI2E)",
+   "slug": "si2e",
+   "excerpt": "Valorisation and expansion of Sea4Us’ biotechnology activity in Sagres: laboratory, equipment and new staff.",
+   "content": "<p>The project consists of the expansion of Sea4Us’ infrastructure and logistics capacity at its Sagres centre (laboratory and equipment) and the hiring of new human resources, thus valorising and centralising its technological and scientific activities in Sagres.</p>",
+   "fields": {
+    "full_title": "SAGRES4US – Valorisation and expansion of Sea4Us’ biotechnology activity in Sagres",
+    "status_note": "Completed: published end date 30/09/2019. Approval date: 23/05/2018. Designation: AAC under SI2E – DLBC Pesca do Barlavento do Algarve. Thematic objective: Promoting social inclusion and combating poverty and discrimination; Investment priority: Community-led local development strategies. Amounts not published.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/si2e/"
+   }
+  }
+ },
+ {
+  "id": "project:internacionalizacao",
+  "order": 19,
+  "shared": {
+   "code": "ALG-02-0752-FEDER-036043",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 · FEDER · Vale Oportunidades de Internacionalização",
+   "start_date": "2018-02-14",
+   "end_date": "2019-02-13",
+   "total_cost": "10000.00",
+   "funding_amount": "7500.00",
+   "funding_logos": [],
+   "display_check": true,
+   "documents": [
+    "doc:ficha-projeto-alg-02-0752-feder-036043"
+   ],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/internacionalizacao/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Internacionalização (PREPARATION4MARKET)",
+   "slug": "internacionalizacao",
+   "excerpt": "Comercialização da patente de um novo analgésico de origem marinha: identificação de oportunidades de licenciamento junto de empresas farmacêuticas multinacionais.",
+   "content": "<p>O presente projeto trata, mais especificamente, da comercialização internacional das patentes de compostos de origem marinha que apresentam bioatividade em modelos representativos de dor crónica e que são potenciais analgésicos.</p><p>Para a execução deste objetivo, realizaram-se ou estão previstas várias atividades de investigação, desenvolvimento e comercialização sequenciais, algumas das quais têm de ser concretizadas por meio da aquisição de serviços especializados a entidades externas, por não poderem ser efetuadas no seio da empresa. Após a identificação de moléculas marinhas bioativas e a síntese química dos compostos (fases já realizadas com sucesso), a realização de testes pré-clínicos em modelos celulares e animais com estas moléculas (alguns já realizados, de forma a determinar o potencial terapêutico das mesmas e obter aprovação para a realização de ensaios clínicos em humanos) e o registo de patentes (em execução), é necessário proceder à comercialização destas patentes (licenciamento) a empresas farmacêuticas multinacionais, que possam continuar o desenvolvimento dos novos fármacos e levá-los até ao mercado.</p><p>Para esta comercialização ser realizada e proporcionar um bom retorno financeiro, é necessário:</p><ol><li>explorar o mercado internacional, identificando oportunidades de internacionalização através da identificação e caracterização de empresas farmacêuticas multinacionais que procurem adquirir as nossas patentes (potenciais clientes/compradores);</li><li>explorar o mercado internacional, identificando e caracterizando a concorrência da Sea4Us;</li><li>identificar necessidades de ajustamento das estratégias de comunicação digital, alterando o nosso site e redes sociais de forma a incrementar a visibilidade da Sea4Us e a divulgar as informações essenciais para atrair potenciais investidores/compradores das patentes (preparação do portefólio adequado à promoção internacional da Sea4Us e colocação no mercado B2B da carteira de produtos da empresa).</li></ol>",
+   "fields": {
+    "full_title": "Comercialização da patente de um novo analgésico revolucionário de origem marinha",
+    "status_note": "Concluído: data de fim publicada 13/02/2019 (página) / 14/02/2019 (ficha de projeto). Data de aprovação: 05/01/2018. Designação: Vale Oportunidades de Internacionalização; OT 3 – Reforçar a competitividade das PME; PI 3.2; TI 52 – Internacionalização das PME. No índice antigo este projeto aparece como “PREPARATION4MARKET”; inclui a antiga página do código ALG-02-0752-FEDER-036043 (ficha de projeto).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 10 000,00 €\nApoio financeiro da União Europeia: 7 500,00 € (fonte: ficha de projeto)",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/internacionalizacao/"
+   }
+  },
+  "en": {
+   "title": "Internationalisation (PREPARATION4MARKET)",
+   "slug": "internacionalizacao",
+   "excerpt": "Commercialisation of the patent of a new marine-derived analgesic: identifying licensing opportunities with multinational pharmaceutical companies.",
+   "content": "<p>This project involves hiring specialised consultancy services to identify opportunities for Sea4Us patents to be sold to multinational pharmaceutical companies, providing new international business opportunities.</p>",
+   "fields": {
+    "full_title": "Commercialisation of the patent of a new revolutionary analgesic of marine origin",
+    "status_note": "Completed: published end date 13/02/2019 (page) / 14/02/2019 (project sheet). Approval date: 05/01/2018. Designation: Vale Oportunidades de Internacionalização; TO 3 – Reinforcing the competitiveness of SMEs; IP 3.2; TI 52 – Internationalisation of SMEs. On the old index this project appears as “PREPARATION4MARKET”; it absorbs the old ALG-02-0752-FEDER-036043 page (project sheet).",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Total eligible cost: €10,000.00\nEU financial support: €7,500.00 (source: project sheet)",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/internacionalizacao/"
+   }
+  }
+ },
+ {
+  "id": "project:algared",
+  "order": 20,
+  "shared": {
+   "code": "0055_ALGARED_PLUS_5_E",
+   "status": "completed",
+   "funding_programme": "INTERREG V-A España-Portugal (POCTEP) 2014-2020 · FEDER",
+   "start_date": "2017-04-01",
+   "end_date": "2019-12-31",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2017/05/Screen-Shot-2017-05-17-at-10.01.01.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/algared/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "ALGARED+",
+   "slug": "algared",
+   "excerpt": "Rede transfronteiriça para o desenvolvimento de produtos inovadores com microalgas, no âmbito do INTERREG V-A Espanha-Portugal (POCTEP).",
+   "content": "<p><em>RED transfronteriza para el desarrollo de productos innovadores con microALGAs</em></p><p>O ALGARED+ é uma rede de excelência, constituída no âmbito do Programa Operacional EP-INTERREG V-A Espanha-Portugal (POCTEP) e formada por universidades, centros de investigação e empresas públicas e privadas do setor da aquacultura, biomedicina e produção de microalgas, localizadas em ambos os lados da fronteira. O objetivo desta rede é a implementação de uma estratégia na fronteira hispano-portuguesa para promover a investigação e o desenvolvimento tecnológico na área da biotecnologia de microalgas e a sua utilização na saúde, cosmética e aquacultura.</p><p>Este projeto será desenvolvido na zona transfronteiriça Algarve/Andaluzia Ocidental, uma zona intensamente influenciada pelo Oceano Atlântico, que alberga ecossistemas de grande riqueza e biodiversidade e que pode constituir um quadro de importantes atividades económicas de notável carácter estratégico, tais como a aquacultura e a ficocultura. Estas atividades têm um elevado potencial de inovação e podem ser uma fonte de riqueza ainda inexplorada, como substâncias de interesse farmacológico e cosmético. O projeto está dividido em 6 atividades, visando a bioprospeção, isolamento e valorização de novas estirpes de microalgas, para além de contemplar medidas de coordenação entre os participantes e de comunicação ao tecido empresarial e à sociedade em geral.</p><p>Para mais informação, consulte o <a href=\"http://www.algared.com/\">website do ALGARED+</a>.</p>",
+   "fields": {
+    "full_title": "ALGARED+ – Rede transfronteiriça para o desenvolvimento de produtos inovadores com microalgas",
+    "status_note": "Concluído: data de fim publicada 31/12/2019. Área de cooperação: 5 – Alentejo–Algarve–Andaluzia; Eixo 1; Objetivo 1; Prioridade de investimento 1A; Objetivo específico OE1A; Categorias de intervenção 060 e 061. Existe também uma versão em espanhol da página (algared-es), integrada nesta ficha. Montantes não publicados.",
+    "lead": "Não indicado na página",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nUniversidad de Huelva\nUniversidade do Algarve\nCTAQUA – Centro Tecnológico de la Acuicultura\nICMAN\nNecton\nUniversidad de Córdoba\nIPMA\nIFAPA – Junta de Andalucía",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/algared/"
+   }
+  },
+  "en": {
+   "title": "ALGARED+",
+   "slug": "algared",
+   "excerpt": "Cross-border network for the development of innovative products with microalgae, under INTERREG V-A Spain-Portugal (POCTEP).",
+   "content": "<p><em>RED transfronteriza para el desarrollo de productos innovadores con microALGAs</em></p><p>ALGARED+ is a network of excellence, set up under the Operational Programme EP-INTERREG V-A Spain-Portugal (POCTEP) and formed by universities, research centres, and public and private companies in the aquaculture, biomedicine and microalgae production sectors, located on both sides of the border. The objective of this network is the implementation of a strategy on the Spanish-Portuguese border that promotes research and technological development in the area of microalgae biotechnology and its use in health, cosmetics and aquaculture.</p><p>This project will be carried out in the Algarve/Western Andalusia cross-border area, an area heavily influenced by the Atlantic Ocean, home to ecosystems of great richness and biodiversity that can form a framework of important economic activities of great strategic character, such as aquaculture and phycoculture. These activities have a high potential for innovation, and can be a still unexplored source of wealth as substances of pharmacological and cosmetic interest. The project is articulated in 6 activities, aimed at bioprospecting, isolation and valorisation of new microalgal strains, in addition to contemplating measures of coordination among the participants and communication to the business community and society in general.</p><p>For more information, see the <a href=\"http://www.algared.com/\">ALGARED+ website</a>.</p>",
+   "fields": {
+    "full_title": "ALGARED+ – Cross-border network for the development of innovative products with microalgae",
+    "status_note": "Completed: published end date 31/12/2019. Cooperation area: 5 – Alentejo–Algarve–Andalusia; Axis 1; Goal 1; Investment priority 1A; Specific goal OE1A; Intervention categories 060 and 061. A Spanish version of the page (algared-es) also exists and is merged into this sheet. Amounts not published.",
+    "lead": "Not stated on the page",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos\nUniversidad de Huelva\nUniversidade do Algarve\nCTAQUA – Centro Tecnológico de la Acuicultura\nICMAN\nNecton\nUniversidad de Córdoba\nIPMA\nIFAPA – Junta de Andalucía",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/algared/"
+   }
+  }
+ },
+ {
+  "id": "project:mar4pain",
+  "order": 21,
+  "shared": {
+   "code": "ALG-01-0247-FEDER-011079",
+   "status": "completed",
+   "funding_programme": "Portugal 2020 · CRESC Algarve 2020 / Lisboa 2020 · FEDER · Projetos Individuais I&DT",
+   "start_date": "2016-04-01",
+   "end_date": "2018-07-01",
+   "total_cost": "506850.02",
+   "funding_amount": "353071.75",
+   "funding_logos": [
+    "2017/03/mar4pain.png"
+   ],
+   "display_check": true,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4pain/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Mar4Pain",
+   "slug": "mar4pain",
+   "excerpt": "Novo analgésico para tratamento da dor crónica com origem no mar português: identificação, testes não clínicos e proteção por patente de moléculas marinhas moduladoras de canais iónicos.",
+   "content": "<p>O principal objetivo do projeto Mar4Pain é o desenvolvimento de novos fármacos através da investigação e utilização de novos compostos marinhos para fins biotecnológicos. Tem especial ênfase na dor crónica moderada a severa, abordando a modulação da atividade de canais iónicos em neurónios de gânglios da raiz dorsal de pequeno diâmetro. Isto reduzirá a perceção da dor, atuando sobre os neurónios condutores da dor, longe do cérebro, o que diminuirá consideravelmente os efeitos secundários das terapêuticas habituais (por exemplo, opioides). Os moduladores da atividade dos canais iónicos consistem em novas moléculas de animais sésseis marinhos da região costeira portuguesa, que foram descobertas através de investigação anterior da Sea4Us.</p><p>A expansão da nossa biblioteca de extratos/compostos marinhos, a identificação de moléculas bioativas, os testes de eficácia e de toxicidade não clínicos e o registo de propriedade industrial são todos objetivos específicos do projeto Mar4Pain, que tem uma duração de 2 anos. Para além da alocação de uma equipa da Sea4Us com fortes competências na área do projeto, este conta também com a contribuição de investigadores de outras entidades especializadas em I&amp;D.</p><h2>Atividades</h2><ul><li>Produção de extratos marinhos / matéria-prima;</li><li>Ensaios de triagem e bioatividade analgésica em modelos representativos de dor crónica;</li><li>Estudo químico bioguiado dos extratos marinhos produzidos para identificação dos princípios ativos;</li><li>Estudos pré-clínicos de prova de conceito em modelos animais de dor crónica;</li><li>Escrita e submissão da patente relativa à estrutura química e à bioatividade do composto líder;</li><li>Promoção e divulgação de resultados;</li><li>Gestão do projeto.</li></ul><h2>Objetivos</h2><ul><li>Expansão da biblioteca de compostos;</li><li>Determinação da estrutura química do composto mais adequado para o tratamento da dor crónica;</li><li>Determinação da viabilidade do composto como molécula terapêutica com características químicas de fármaco;</li><li>Confirmação da bioatividade e níveis de toxicidade da molécula isolada;</li><li>Obtenção da fórmula química da molécula com bioatividade analgésica;</li><li>Determinação do melhor método de administração do fármaco;</li><li>Determinação dos modelos PK/PD;</li><li>Provas de conceito de toxicidade e eficácia;</li><li>Estudo de liberdade de operação (<em>Freedom to Operate</em>, FTO);</li><li>Submissão das patentes nacional e internacional da molécula de origem marinha com atividade analgésica;</li><li>Divulgação ampla de resultados através de comunicações em conferências, seminários, workshops e publicações em revistas internacionais, e desenvolvimento de um microsite;</li><li>Melhoria da gestão da investigação, desenvolvimento e inovação da empresa, através da implementação da norma IDI – NP 4457.</li></ul><p>O progresso do projeto Mar4Pain está indicado na figura abaixo, com indicação de algumas atividades e objetivos.</p>",
+   "fields": {
+    "full_title": "Mar4Pain – Novo analgésico para tratamento da dor crónica com origem no mar português",
+    "status_note": "Concluído: data de fim publicada 01/07/2018. Data de aprovação: 25/05/2016. Objetivo principal: Reforçar a investigação, o desenvolvimento tecnológico e a inovação. Área de intervenção: Algarve e Lisboa.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Custo total elegível: 506 850,02 €\nApoio financeiro da União Europeia (FEDER): 353 071,75 €",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/mar4pain/"
+   }
+  },
+  "en": {
+   "title": "Mar4Pain",
+   "slug": "mar4pain",
+   "excerpt": "New analgesic for the treatment of chronic pain from the Portuguese sea: identification, non-clinical testing and patent protection of marine ion-channel-modulating molecules.",
+   "content": "<p>The main aim of the Mar4Pain project is the development of new pharmaceutical drugs through the investigation and use of new marine compounds for biotechnological purposes. It has particular emphasis on moderate to severe chronic pain, addressing the modulation of ion channel activity in small-diameter dorsal root ganglion neurons. This will reduce the perception of pain by acting on pain-conducting neurons away from the brain, which considerably reduces the side effects of usual therapies (e.g. opioids). The ion channel modulators consist of new molecules from marine sessile animals from the Portuguese coastal region, which have been discovered through Sea4Us’s prior investigation.</p><p>The expansion of our marine extracts/compounds library, bioactive molecule identification, non-clinical efficacy and toxicity tests, and industrial property registration are all specific goals of the 2-year Mar4Pain project. Besides the allocation of a team within Sea4Us with strong competences in the field of the project, it also has the contribution of researchers from other R&amp;D-specialised entities.</p><h2>Activities</h2><ul><li>Marine extracts production;</li><li>Determination of analgesic bioactivity in chronic pain models;</li><li>Bio-guided chemical study for the identification of bioactive molecules;</li><li>Proof-of-concept pre-clinical studies;</li><li>Submission of national and international patents of the molecules of marine origin with analgesic activity;</li><li>Dissemination;</li><li>Project management.</li></ul><h2>Goals</h2><ul><li>Expansion of compound library;</li><li>Determination of the chemical structure of the compounds most suitable for chronic pain treatment;</li><li>Determination of the viability of the compounds as therapeutic molecules with chemical drug characteristics;</li><li>Evaluation of efficacy and toxicity of the isolated molecules;</li><li>Determination of the drug administration method;</li><li>Determination of PK/PD models;</li><li>Patent protection;</li><li>Dissemination of results through communications at conferences, seminars, workshops and publications in international journals, and the development of a microsite;</li><li>Improvement of the company’s research, development and innovation management.</li></ul><p>Progress of the Mar4Pain project is shown in the figure below, which depicts some activities and goals.</p>",
+   "fields": {
+    "full_title": "Mar4Pain – New analgesic for treatment of chronic pain with Portuguese sea origin",
+    "status_note": "Completed: published end date 01/07/2018. Approval date: 25/05/2016. Main goal: Reinforce research, technological development and innovation. Intervention area: Algarve and Lisbon.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "Total eligible cost: €506,850.02\nEU financial support (ERDF): €353,071.75",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/mar4pain/"
+   }
+  }
+ },
+ {
+  "id": "project:ocean-medicines",
+  "order": 22,
+  "shared": {
+   "code": "690944",
+   "status": "completed",
+   "funding_programme": "Horizon 2020 · Marie Skłodowska-Curie Actions – Research and Innovation Staff Exchange (RISE), H2020-MSCA-RISE-2015",
+   "start_date": "12/2015",
+   "end_date": "12/2019",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2017/03/LogosOceanMedicine.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/ocean-medicines/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Ocean Medicines",
+   "slug": "ocean-medicines",
+   "excerpt": "Rede europeia de intercâmbio de investigadores (MSCA-RISE) para desenvolver compostos de microrganismos marinhos com efeitos anticancerígenos ou anti-infeciosos.",
+   "content": "<p>O Ocean Medicines é uma rede de centros académicos, centros de investigação e PME em toda a Europa, com experiência comprovada em ensino superior e formação, e dotada de conhecimentos e infraestruturas científicas e técnicas de ponta.</p><p>O objetivo é estabelecer uma rede de colaboração e intercâmbio de conhecimentos entre parceiros industriais e académicos para desenvolver compostos líder, já identificados pelo consórcio, a partir de microrganismos marinhos com efeitos anticancerígenos ou anti-infeciosos. Para atingir esse objetivo, será criado um programa de mobilidade para preparar uma nova geração de cientistas de <em>marine biodiscovery</em>, que serão formados no isolamento de compostos de bactérias/microalgas bioativas, em como levá-los até à escala semi-industrial para posterior desenvolvimento, e em testes de toxicidade ao nível pré-clínico. O programa Ocean Medicines também contempla atividades de comercialização, inovação e empreendedorismo, incluindo como iniciar um novo negócio e como favorecer uma carreira industrial para os investigadores destacados. A criação desta rede internacional de investigação, com os seus efeitos sinérgicos, contribuirá significativamente para fazer avançar todos os institutos/PME envolvidos para o nível superior no domínio da descoberta de medicamentos marinhos.</p><h2>Parceiros</h2><p><a href=\"http://www.szn.it/index.php/it/\">SZN</a>, <a href=\"http://www.ibp.cnr.it/\">IBP-CNR</a>, Sea4Us, <a href=\"http://www.ecoast.be/\">eCoast</a>, <a href=\"http://www.epi-c.com/\">Epi-C</a>, <a href=\"https://uit.no/startsida\">UiT</a>, <a href=\"http://www.abdn.ac.uk/\">UNIABDN</a>, <a href=\"http://www.medinadiscovery.com/es/\">MEDINA</a>, <a href=\"https://www.uwc.ac.za/Pages/default.aspx\">UWC</a></p><h2>Equipa da Sea4Us envolvida</h2><ul><li>Pedro Lima – Investigador Principal</li><li>Sílvia Lino – Investigadora experiente, gestora de projeto</li></ul><p><a href=\"http://www.oceanmedicines.eu/\">Website oficial</a> · <a href=\"https://www.facebook.com/Ocean-Medicines-1004337086318691/\">Página de Facebook</a></p>",
+   "fields": {
+    "full_title": "Ocean Medicines – Projeto 690944, Marie Skłodowska-Curie Actions, Research and Innovation Staff Exchange (RISE)",
+    "status_note": "Concluído: duração publicada dezembro de 2015 – dezembro de 2019. A Sea4Us entrou no projeto em março de 2016. Área de investigação: Biotecnologia Marinha. Papel da Sea4Us: parceiro. Montantes não publicados.",
+    "lead": "Coordenação do projeto: Donatella De Pascale (instituição coordenadora não indicada na página)",
+    "entities": "SZN – Stazione Zoologica Anton Dohrn\nIBP-CNR\nSea4Us – Biotecnologia e Recursos Marinhos\neCoast\nEpi-C\nUiT The Arctic University of Norway\nUniversity of Aberdeen (UNIABDN)\nFundación MEDINA\nUniversity of the Western Cape (UWC)",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/ocean-medicines/"
+   }
+  },
+  "en": {
+   "title": "Ocean Medicines",
+   "slug": "ocean-medicines",
+   "excerpt": "European researcher-exchange network (MSCA-RISE) to develop compounds from marine microorganisms with anticancer or anti-infective effects.",
+   "content": "<p>Ocean Medicines is a network of academic institutions, research centres and SMEs across Europe, with proven experience in higher education and training, and endowed with state-of-the-art scientific and technical expertise and infrastructures.</p><p>The aim is to establish a network of collaboration and knowledge exchange between industrial and academic partners to further develop lead compounds from marine microorganisms having anticancer or anti-infective effects that have already been identified by the consortium. To achieve this goal a mobility programme will be set up to prepare a new generation of marine biodiscovery scientists who will be trained in how to isolate compounds from bioactive bacteria/microalgae and take these through to semi-industrial scale-up for further development and toxicity testing at the pre-clinical level. The Ocean Medicines programme also considers commercialisation, innovation and entrepreneurship activities, including how to start a new business and how to favour an industrial career for seconded researchers. The establishment of this international research network, with its synergistic effects, will significantly contribute to advancing all of the involved institutes/SMEs to the top level in the field of marine drug discovery.</p><h2>Partners</h2><p><a href=\"http://www.szn.it/index.php/it/\">SZN</a>, <a href=\"http://www.ibp.cnr.it/\">IBP-CNR</a>, Sea4Us, <a href=\"http://www.ecoast.be/\">eCoast</a>, <a href=\"http://www.epi-c.com/\">Epi-C</a>, <a href=\"https://uit.no/startsida\">UiT</a>, <a href=\"http://www.abdn.ac.uk/\">UNIABDN</a>, <a href=\"http://www.medinadiscovery.com/es/\">MEDINA</a>, <a href=\"https://www.uwc.ac.za/Pages/default.aspx\">UWC</a></p><h2>Sea4Us personnel involved</h2><ul><li>Pedro Lima – Principal Investigator</li><li>Sílvia Lino – Experienced Researcher, Project Manager</li></ul><p><a href=\"http://www.oceanmedicines.eu/\">Official website</a> · <a href=\"https://www.facebook.com/Ocean-Medicines-1004337086318691/\">Facebook page</a></p>",
+   "fields": {
+    "full_title": "Ocean Medicines – Project 690944, Marie Skłodowska-Curie Actions, Research and Innovation Staff Exchange (RISE)",
+    "status_note": "Completed: published project lifetime December 2015 – December 2019. Sea4Us joined in March 2016. Research area: Marine Biotechnology. Sea4Us’ role: partner. Amounts not published.",
+    "lead": "Project coordinator: Donatella De Pascale (coordinating institution not stated on the page)",
+    "entities": "SZN – Stazione Zoologica Anton Dohrn\nIBP-CNR\nSea4Us – Biotecnologia e Recursos Marinhos\neCoast\nEpi-C\nUiT The Arctic University of Norway\nUniversity of Aberdeen (UNIABDN)\nFundación MEDINA\nUniversity of the Western Cape (UWC)",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/ocean-medicines/"
+   }
+  }
+ },
+ {
+  "id": "project:aquaculture",
+  "order": 23,
+  "shared": {
+   "code": "31-04-01-FEP-308",
+   "status": "unknown",
+   "funding_programme": "PROMAR – Programa Operacional Pesca 2007-2013 · Eixo 4 – Desenvolvimento Sustentável das Zonas de Pesca · FEP · Grupo de Ação Costeira do Barlavento do Algarve",
+   "start_date": "03/2015",
+   "end_date": "",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2017/03/aquacultura.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/aquaculture/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Aquacultura (SEACULTURE)",
+   "slug": "aquaculture",
+   "excerpt": "Aquacultura de animais marinhos para a extração de compostos com atividade terapêutica, assegurando a manutenção das suas características bioativas.",
+   "content": "<p>A Sea4Us está a desenvolver produtos de origem marinha de elevado interesse para a biomedicina, a partir de espécies marinhas específicas da costa portuguesa. Para o desenvolvimento da produção desses medicamentos, existe uma necessidade premente de quantidades significativas destas espécies, o que não é compatível com uma gestão sustentável do recurso na natureza.</p><p>Uma das estratégias para a produção destes compostos terapêuticos de forma sustentável é a aquacultura das espécies marinhas de interesse. Este projeto visa cultivar essas espécies, assegurando simultaneamente que as suas características bioativas sejam mantidas.</p><ul><li><strong>Tipo de ação:</strong> Diversificação e reestruturação das atividades económicas e sociais.</li><li><strong>Tipologia:</strong> Promoção e melhoria das competências profissionais, adaptabilidade dos trabalhadores e acesso ao emprego, em especial em benefício das mulheres.</li><li><strong>Natureza do investimento:</strong> Adaptação estrutural, aquisição de equipamentos/reagentes e recursos humanos.</li></ul>",
+   "fields": {
+    "full_title": "Aquacultura de animais marinhos para a extração de compostos com atividade terapêutica",
+    "status_note": "Estado não publicado na fonte; confirmar com a Sea4Us. Apenas a data de início (março de 2015) é publicada; não há data de fim. Listado em “Projetos Concluídos” no índice antigo como SEACULTURE. Página de carácter temático (Aquacultura), mantida como ficha de projeto financiado (PROMAR 31-04-01-FEP-308). A aprovação foi anunciada na notícia de 21/01/2015.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/aquaculture/"
+   }
+  },
+  "en": {
+   "title": "Aquaculture (SEACULTURE)",
+   "slug": "aquaculture",
+   "excerpt": "Aquaculture of marine animals for the extraction of compounds with therapeutic activity, while ensuring that their bioactive characteristics are maintained.",
+   "content": "<p>Sea4Us is developing products of marine origin of high interest for biomedicine, from specific marine species of the Portuguese coast. For the development of the production of these drugs, there is a pressing need for significant quantities of these species, which is not compatible with sustainable management of the resource in nature.</p><p>One of the strategies for the sustainable production of these therapeutic compounds is the aquaculture of the marine species of interest. This project aims to cultivate these species while ensuring that their bioactive characteristics are maintained.</p><ul><li><strong>Type of action:</strong> Diversification and restructuring of economic and social activities.</li><li><strong>Typology:</strong> Promotion and improvement of professional skills, adaptability of workers and access to employment, in particular for the benefit of women.</li><li><strong>Nature of investment:</strong> Structural adaptation, acquisition of equipment/reagents and human resources.</li></ul>",
+   "fields": {
+    "full_title": "Aquaculture of marine animals for the extraction of compounds with therapeutic activity",
+    "status_note": "Status not published in the source; confirm with Sea4Us. Only the start date (March 2015) is published; no end date. Listed under “Completed Projects” on the old index as SEACULTURE. Thematic page (Aquaculture) kept as a funded project sheet (PROMAR 31-04-01-FEP-308). Approval was announced in the news item of 21/01/2015.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/aquaculture/"
+   }
+  }
+ },
+ {
+  "id": "project:chemistry",
+  "order": 24,
+  "shared": {
+   "code": "ALG-01-0101-FEDER-039985",
+   "status": "completed",
+   "funding_programme": "QREN · Programa Operacional Regional do Algarve (PO Algarve 21) · FEDER · SI Qualificação de PME – Vale Inovação",
+   "start_date": "2014-06-17",
+   "end_date": "2015-06-30",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2017/03/biochemistry.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/chemistry/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Química (SEACHEM)",
+   "slug": "chemistry",
+   "excerpt": "Estudo químico bioguiado de extratos naturais de origem marinha, com o apoio de um Vale Inovação QREN.",
+   "content": "<p>Os resultados laboratoriais da Sea4Us mostram bioatividade de compostos naturais de origem marinha (extratos em bruto provenientes de invertebrados marinhos da região do Sudoeste Português) em modelos celulares representativos de duas doenças que afetam a sociedade atual: a dor crónica e o eczema.</p><p>Assim, pretende-se explorar estes compostos naturais e desenvolver aplicações terapêuticas. Para tal, a Sea4Us irá, com o Vale Inovação, focar-se na purificação dos extratos marinhos e na elucidação da estrutura química das moléculas com bioatividade nos nossos modelos celulares. Após conclusão desta fase inicial, a Sea4Us irá realizar os testes pré-clínicos requeridos pelas entidades legais para se avançar no desenvolvimento das moléculas químicas identificadas para ensaios clínicos.</p>",
+   "fields": {
+    "full_title": "SEACHEM – Estudo químico bioguiado de extratos naturais de origem marinha",
+    "status_note": "Concluído: data de fim publicada 30/06/2015. Data de aprovação: 24/10/2013. Página de carácter temático (Química), mantida como ficha de projeto financiado (QREN – Vale Inovação). Programa estratégico: Empreendedorismo e Inovação (+E+I); Modalidade: Projeto Simplificado – Vale Inovação (+I); Domínio: I&DT e Transferência de Tecnologia. Montantes não publicados.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/chemistry/"
+   }
+  },
+  "en": {
+   "title": "Chemistry (SEACHEM)",
+   "slug": "chemistry",
+   "excerpt": "Bio-guided chemical study of natural extracts of marine origin, supported by a QREN Innovation Voucher.",
+   "content": "<p>Sea4Us laboratory results show bioactivity of natural compounds of marine origin (raw extracts from marine invertebrates from the south-west region of Portugal) in cell models representing two diseases that affect society today: chronic pain and dermatitis.</p><p>Thus, the intention is to explore these natural compounds and develop therapeutic applications. To this end, Sea4Us will use the Innovation Voucher to focus on the purification of marine extracts and the elucidation of the chemical structure of molecules with bioactivity in our cell models. Upon completion of this initial phase, Sea4Us will carry out the pre-clinical tests required by the regulatory authorities to advance the development of the identified chemical molecules towards clinical trials.</p>",
+   "fields": {
+    "full_title": "SEACHEM – Bio-guided chemical study of natural extracts of marine origin",
+    "status_note": "Completed: published end date 30/06/2015. Approval date: 24/10/2013. Thematic page (Chemistry) kept as a funded project sheet (QREN – Innovation Voucher). Strategic programme: Entrepreneurship and Innovation (+E+I); Type: Simplified Project – Innovation Voucher (+I); Domain: R&DT and Technology Transfer. Amounts not published.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/chemistry/"
+   }
+  }
+ },
+ {
+  "id": "project:patents",
+  "order": 25,
+  "shared": {
+   "code": "ALG-01-0101-FEDER-042187",
+   "status": "completed",
+   "funding_programme": "QREN · Programa Operacional Regional do Algarve (PO Algarve 21) · FEDER · SI Qualificação de PME – Vale Empreendedorismo",
+   "start_date": "2014-06-17",
+   "end_date": "2015-06-30",
+   "total_cost": "",
+   "funding_amount": "",
+   "funding_logos": [
+    "2017/03/biochemistry.png"
+   ],
+   "display_check": false,
+   "documents": [],
+   "programs": [],
+   "highlight": false,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/pt/sobre-nos/projects/patents/",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Patentes (SEAPATENTS)",
+   "slug": "patents",
+   "excerpt": "Patente nacional e internacional de moléculas de origem marinha com potencial terapêutico, com o apoio de um Vale Empreendedorismo QREN.",
+   "content": "<p>O objetivo final do projeto da área de Propriedade Industrial, no qual se enquadra este Vale Empreendedorismo, é o desenvolvimento de compostos naturais com origem no mar de Sagres/Vila do Bispo como potenciais moléculas terapêuticas e a sua posterior comercialização. Para a execução deste objetivo, estão previstas várias atividades de investigação e desenvolvimento sequenciais, que preveem a submissão de pedidos de patente a nível nacional e internacional sobre as moléculas de origem marinha com potencial terapêutico, bem como o seu processo de extração, purificação e síntese.</p><p>A primeira atividade deste projeto prende-se com a recolha de invertebrados marinhos para depois, com os respetivos extratos marinhos (em bruto), serem realizados ensaios de bioatividade em culturas celulares. Os nossos resultados laboratoriais preliminares mostram bioatividade destes compostos naturais de origem marinha em modelos celulares representativos de duas doenças de etiologia diferente: a dor crónica e o eczema.</p><p>A segunda atividade prende-se com a purificação dos extratos marinhos e a elucidação da estrutura química das moléculas identificadas que possuam bioatividade nos nossos modelos celulares. Após a identificação das estruturas químicas das moléculas de interesse, tornar-se-á então indispensável patentear todo o processo químico de extração, purificação e síntese das moléculas, bem como as suas estruturas químicas e as suas aplicações. Tudo isto constitui a invenção da Sea4Us a proteger.</p>",
+   "fields": {
+    "full_title": "SEAPATENTS – Patente Nacional e Internacional de Moléculas de Origem Marinha com Potencial Terapêutico",
+    "status_note": "Concluído: data de fim publicada 30/06/2015. Data de aprovação: 26/12/2013. Página de carácter temático (Patentes), mantida como ficha de projeto financiado (QREN – Vale Empreendedorismo). Refere a intenção de submeter pedidos de patente; não indica patentes concedidas. Montantes não publicados.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/pt/sobre-nos/projects/patents/"
+   }
+  },
+  "en": {
+   "title": "Patents (SEAPATENTS)",
+   "slug": "patents",
+   "excerpt": "National and international patent of marine molecules with therapeutic potential, supported by a QREN Entrepreneurship Voucher.",
+   "content": "<p>The final objective of the project in the Industrial Property area, to which this Entrepreneurship Voucher belongs, is the development of natural compounds originating in the sea of Sagres/Vila do Bispo as potential therapeutic molecules and their subsequent commercialisation. To achieve this objective, several sequential research and development activities are foreseen, including the submission of patent applications at national and international level on molecules of marine origin with therapeutic potential, as well as on their extraction, purification and synthesis process.</p><p>The first activity of this project is the collection of marine invertebrates and then, with the respective (raw) marine extracts, the performance of bioactivity tests in cell cultures. Our preliminary laboratory results show bioactivity of these natural compounds of marine origin in cell models representative of two diseases of different aetiology: chronic pain and dermatitis.</p><p>The second activity is the purification of marine extracts and the elucidation of the chemical structure of the identified molecules that have bioactivity in our cell models. After identifying the chemical structures of the molecules of interest, it will then become essential to patent the entire chemical process of extraction, purification and synthesis of the molecules, as well as their chemical structures and their applications. All of this constitutes the Sea4Us invention to be protected.</p>",
+   "fields": {
+    "full_title": "SEAPATENTS – National and International Patent of Marine Molecules with Therapeutic Potential",
+    "status_note": "Completed: published end date 30/06/2015. Approval date: 26/12/2013. Thematic page (Patents) kept as a funded project sheet (QREN – Entrepreneurship Voucher). It describes the intention to file patent applications; it does not state any granted patents. Amounts not published.",
+    "lead": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "entities": "Sea4Us – Biotecnologia e Recursos Marinhos, Lda.",
+    "funding_breakdown": "",
+    "legacy_url": "https://sea4us.pt/en/sobre-nos/projects/patents/"
+   }
+  }
+ }
+]

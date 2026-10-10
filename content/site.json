@@ -1,0 +1,268 @@
+{
+ "settings": {
+  "email": "info@sea4us.pt",
+  "phone": "+351 21 880 3078",
+  "phone_e164": "+351218803078",
+  "hours_pt": "Segunda a sexta-feira, 09:00–18:00",
+  "hours_en": "Monday to Friday, 09:00–18:00",
+  "contacts_review": "1",
+  "loc1_name_pt": "Sede e Laboratório Marinho",
+  "loc1_name_en": "Headquarters and Marine Lab",
+  "loc1_role_pt": "Recolha de amostras marinhas e descoberta",
+  "loc1_role_en": "Marine sample collection and discovery",
+  "loc1_address": "Porto da Baleeira, Armazém 8\n8650-368 Sagres\nPortugal",
+  "loc1_map": "https://www.openstreetmap.org/search?query=Porto%20da%20Baleeira%20Sagres",
+  "loc2_name_pt": "Laboratório de Fisiologia",
+  "loc2_name_en": "Physiology Lab",
+  "loc2_role_pt": "Desenvolvimento pré-clínico",
+  "loc2_role_en": "Preclinical development",
+  "loc2_address": "Campo Mártires da Pátria, 130\n1169-056 Lisboa\nPortugal",
+  "loc2_map": "https://www.openstreetmap.org/search?query=Campo%20M%C3%A1rtires%20da%20P%C3%A1tria%20130%20Lisboa",
+  "partnering_email_pt": "partnering@sea4us.pt",
+  "partnering_email_com": "partnering@sea4us.com",
+  "partnering_confirmed": "",
+  "form_recipient": "",
+  "form_recipient_ok": "",
+  "linkedin": "https://www.linkedin.com/company/sea4us",
+  "facebook": "https://www.facebook.com/Sea4Us.pt/",
+  "instagram": "https://www.instagram.com/sea4us_biotech/",
+  "youtube": "https://www.youtube.com/channel/UCLexW07OH_LsK5Y6uMM6zeQ",
+  "funding_strip": "{{media-id:2020/08/fundos-publicos.png}},{{media-id:2023/05/prr.png}},{{media-id:2024/06/EU.png}}",
+  "credits_pt": "Fotografias: João Rodrigues | CHIMERAVISUALS (imagens assinaladas) e © 2010–2026 Pedro A. Lima, conforme o site anterior. Créditos por imagem a confirmar.",
+  "credits_en": "Photography: João Rodrigues | CHIMERAVISUALS (credited images) and © 2010–2026 Pedro A. Lima, as on the previous website. Per-image credits to be confirmed.",
+  "allow_indexing": "",
+  "redirects_enabled": "",
+  "root_behavior": "redirect_302",
+  "root_lang": "en"
+ },
+ "menus": {
+  "primary_pt": [
+   {
+    "label": "Sobre",
+    "page": "about",
+    "children": [
+     {
+      "label": "Sobre a Sea4Us",
+      "page": "about"
+     },
+     {
+      "label": "Equipa",
+      "page": "team"
+     },
+     {
+      "label": "Parceiros",
+      "page": "partners"
+     },
+     {
+      "label": "Apoiantes de crowdfunding",
+      "page": "supporters"
+     }
+    ]
+   },
+   {
+    "label": "Ciência",
+    "page": "science",
+    "children": [
+     {
+      "label": "Ciência e tecnologia",
+      "page": "science"
+     },
+     {
+      "label": "Programas",
+      "page": "programs"
+     },
+     {
+      "label": "S072",
+      "url": "{{item:program:s072}}"
+     },
+     {
+      "label": "Transparência na investigação",
+      "page": "transparency"
+     }
+    ]
+   },
+   {
+    "label": "Projetos",
+    "page": "projects"
+   },
+   {
+    "label": "Notícias",
+    "page": "news"
+   },
+   {
+    "label": "Contactos",
+    "page": "contact"
+   }
+  ],
+  "footer_pt": [
+   {
+    "label": "Sobre",
+    "page": "about"
+   },
+   {
+    "label": "Equipa",
+    "page": "team"
+   },
+   {
+    "label": "Ciência e tecnologia",
+    "page": "science"
+   },
+   {
+    "label": "Programas",
+    "page": "programs"
+   },
+   {
+    "label": "Projetos",
+    "page": "projects"
+   },
+   {
+    "label": "Parceiros",
+    "page": "partners"
+   },
+   {
+    "label": "Parcerias e investimento",
+    "page": "partnering"
+   },
+   {
+    "label": "Notícias",
+    "page": "news"
+   },
+   {
+    "label": "Transparência na investigação",
+    "page": "transparency"
+   },
+   {
+    "label": "Apoiantes de crowdfunding",
+    "page": "supporters"
+   },
+   {
+    "label": "Links úteis",
+    "page": "links"
+   }
+  ],
+  "legal_pt": [
+   {
+    "label": "Privacidade e cookies",
+    "page": "privacy"
+   },
+   {
+    "label": "Pesquisa",
+    "page": "search"
+   }
+  ],
+  "primary_en": [
+   {
+    "label": "About",
+    "page": "about",
+    "children": [
+     {
+      "label": "About Sea4Us",
+      "page": "about"
+     },
+     {
+      "label": "Team",
+      "page": "team"
+     },
+     {
+      "label": "Partners",
+      "page": "partners"
+     },
+     {
+      "label": "Crowdfunding supporters",
+      "page": "supporters"
+     }
+    ]
+   },
+   {
+    "label": "Science",
+    "page": "science",
+    "children": [
+     {
+      "label": "Science and technology",
+      "page": "science"
+     },
+     {
+      "label": "Programmes",
+      "page": "programs"
+     },
+     {
+      "label": "S072",
+      "url": "{{item:program:s072}}"
+     },
+     {
+      "label": "Research transparency",
+      "page": "transparency"
+     }
+    ]
+   },
+   {
+    "label": "Projects",
+    "page": "projects"
+   },
+   {
+    "label": "News",
+    "page": "news"
+   },
+   {
+    "label": "Contact",
+    "page": "contact"
+   }
+  ],
+  "footer_en": [
+   {
+    "label": "About",
+    "page": "about"
+   },
+   {
+    "label": "Team",
+    "page": "team"
+   },
+   {
+    "label": "Science and technology",
+    "page": "science"
+   },
+   {
+    "label": "Programmes",
+    "page": "programs"
+   },
+   {
+    "label": "Projects",
+    "page": "projects"
+   },
+   {
+    "label": "Partners",
+    "page": "partners"
+   },
+   {
+    "label": "Partnering and investment",
+    "page": "partnering"
+   },
+   {
+    "label": "News",
+    "page": "news"
+   },
+   {
+    "label": "Research transparency",
+    "page": "transparency"
+   },
+   {
+    "label": "Crowdfunding supporters",
+    "page": "supporters"
+   },
+   {
+    "label": "Useful links",
+    "page": "links"
+   }
+  ],
+  "legal_en": [
+   {
+    "label": "Privacy and cookies",
+    "page": "privacy"
+   },
+   {
+    "label": "Search",
+    "page": "search"
+   }
+  ]
+ }
+}

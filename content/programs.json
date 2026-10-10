@@ -1,0 +1,246 @@
+[
+ {
+  "id": "program:s072",
+  "order": 0,
+  "shared": {
+   "code": "S072",
+   "stage": "cta",
+   "stage_source_date": "2026-05-01",
+   "stage_source_url": "https://sea4us.pt/en/clinical-trial-application-approval/",
+   "milestone_date": "2026-05-01",
+   "milestone_source": "https://sea4us.pt/en/clinical-trial-application-approval/",
+   "featured": true,
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/clinical-trial-application-approval/",
+   "source_date": "2026-05-01",
+   "thumbnail": "2026/05/Sea4UsLab_Apr2024_4440-scaled.jpg",
+   "related_news": [
+    "news:7782",
+    "news:7547",
+    "news:7560",
+    "news:7447",
+    "news:7110"
+   ]
+  },
+  "pt": {
+   "title": "S072",
+   "slug": "s072",
+   "excerpt": "Candidato a analgésico não opioide de pequena molécula, inspirado numa molécula marinha. Pedido de autorização de ensaio clínico aprovado, anunciado a 1 de maio de 2026.",
+   "content": "<!-- wp:heading --><h2 class=\"wp-block-heading\">O que é o S072</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Segundo a Sea4Us, o S072 é uma pequena molécula, uma nova entidade química inspirada numa molécula marinha e otimizada para uso humano. Atua sobre neurónios periféricos hiperativos através da modulação seletiva de canais iónicos. Destina-se a administração oral.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Estado regulamentar</h2><!-- /wp:heading --><!-- wp:paragraph --><p>A 1 de maio de 2026, a Sea4Us anunciou a aprovação regulamentar e ética do seu pedido de autorização de ensaio clínico (CTA) e a ativação do centro clínico a 30 de abril de 2026. No mesmo comunicado, a empresa indicou que as atividades <em>first-in-human</em> iriam começar em breve.</p><!-- /wp:paragraph --><!-- wp:group {\"className\":\"s4u-callout\",\"layout\":{\"type\":\"default\"}} --><div class=\"wp-block-group s4u-callout\"><!-- wp:paragraph --><p>A aprovação de um CTA autoriza a realização de um ensaio clínico. Não é o início nem a conclusão da fase 1 e não é uma autorização de comercialização. O S072 é um composto em investigação e não está aprovado para uso clínico.</p><!-- /wp:paragraph --></div><!-- /wp:group --><!-- wp:heading --><h2 class=\"wp-block-heading\">Estratégia clínica anunciada</h2><!-- /wp:heading --><!-- wp:paragraph --><p>A empresa indica que a estratégia clínica começa por uma indicação pós-cirúrgica, a alargar mais tarde a indicações de dor crónica.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Dados pré-clínicos comunicados pela empresa</h2><!-- /wp:heading --><!-- wp:paragraph --><p>A Sea4Us refere dados de prova de conceito em seis modelos animais: dor pós-operatória, dor osteoartrítica, nevralgia do trigémio, neuropatia periférica induzida por quimioterapia, dor visceral/doença inflamatória intestinal e dor monoartrítica. Resultados em modelos animais não demonstram eficácia nem segurança em humanos.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Propriedade intelectual</h2><!-- /wp:heading --><!-- wp:paragraph --><p>A empresa indica ter submetido três pedidos de patente: dois estão concedidos nos Estados Unidos e o terceiro entrou na fase PCT em 2025, tendo sido publicado em janeiro de 2026. Um pedido PCT publicado não é uma patente concedida.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Fontes</h2><!-- /wp:heading --><!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><a href=\"{{item:news:7782}}\">Comunicado de 1 de maio de 2026: pedido de autorização de ensaio clínico aprovado</a></li><!-- /wp:list-item --><!-- wp:list-item --><li><a href=\"{{item:project:sea4market}}\">Projeto Sea4Market (EIC Accelerator, n.º 101145231)</a></li><!-- /wp:list-item --></ul><!-- /wp:list -->",
+   "fields": {
+    "nature": "Candidato a medicamento em investigação",
+    "area": "Dor",
+    "indication": "Dor pós-cirúrgica (primeira indicação anunciada); dor crónica",
+    "latest_milestone": "Pedido de autorização de ensaio clínico (CTA) aprovado; centro clínico ativado a 30/04/2026",
+    "qualification": "Composto em investigação, não aprovado para uso clínico. A aprovação do CTA não é início nem conclusão da fase 1, nem autorização de comercialização.",
+    "legacy_url": "https://sea4us.pt/pt/clinical-trial-application-approval/"
+   }
+  },
+  "en": {
+   "title": "S072",
+   "slug": "s072",
+   "excerpt": "Small-molecule non-opioid analgesic candidate inspired by a marine molecule. Clinical trial application approved, announced on 1 May 2026.",
+   "content": "<!-- wp:heading --><h2 class=\"wp-block-heading\">What S072 is</h2><!-- /wp:heading --><!-- wp:paragraph --><p>According to Sea4Us, S072 is a small molecule, a new chemical entity inspired by a marine molecule and optimised for human use. It acts on hyperactive peripheral neurons through selective modulation of ion channels. It is intended for oral dosing.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Regulatory status</h2><!-- /wp:heading --><!-- wp:paragraph --><p>On 1 May 2026, Sea4Us announced the regulatory and ethical approval of its clinical trial application (CTA) and the activation of the clinical site on 30 April 2026. In the same announcement the company said first-in-human activities would start soon.</p><!-- /wp:paragraph --><!-- wp:group {\"className\":\"s4u-callout\",\"layout\":{\"type\":\"default\"}} --><div class=\"wp-block-group s4u-callout\"><!-- wp:paragraph --><p>A CTA approval authorises a clinical trial to be run. It is neither the start nor the completion of Phase 1 and it is not a marketing authorisation. S072 is an investigational compound and is not approved for clinical use.</p><!-- /wp:paragraph --></div><!-- /wp:group --><!-- wp:heading --><h2 class=\"wp-block-heading\">Announced clinical strategy</h2><!-- /wp:heading --><!-- wp:paragraph --><p>The company states that its clinical strategy starts with a post-surgical indication, to be extended later to chronic pain indications.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Preclinical data reported by the company</h2><!-- /wp:heading --><!-- wp:paragraph --><p>Sea4Us reports proof-of-concept data in six animal models: post-operative pain, osteoarthritic pain, trigeminal neuralgia, chemotherapy-induced peripheral neuropathy, visceral pain/IBD and monoarthritic pain. Results in animal models do not demonstrate efficacy or safety in humans.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Intellectual property</h2><!-- /wp:heading --><!-- wp:paragraph --><p>The company states it has filed three patent applications: two are granted in the United States and the third entered the PCT phase in 2025 and was published in January 2026. A published PCT application is not a granted patent.</p><!-- /wp:paragraph --><!-- wp:heading --><h2 class=\"wp-block-heading\">Sources</h2><!-- /wp:heading --><!-- wp:list --><ul class=\"wp-block-list\"><!-- wp:list-item --><li><a href=\"{{item:news:7782}}\">Announcement of 1 May 2026: clinical trial application approved</a></li><!-- /wp:list-item --><!-- wp:list-item --><li><a href=\"{{item:project:sea4market}}\">Sea4Market project (EIC Accelerator, no. 101145231)</a></li><!-- /wp:list-item --></ul><!-- /wp:list -->",
+   "fields": {
+    "nature": "Investigational drug candidate",
+    "area": "Pain",
+    "indication": "Post-surgical pain (first announced indication); chronic pain",
+    "latest_milestone": "Clinical trial application (CTA) approved; clinical site activated on 30/04/2026",
+    "qualification": "Investigational compound, not approved for clinical use. CTA approval is neither the start nor the completion of Phase 1, nor a marketing authorisation.",
+    "legacy_url": "https://sea4us.pt/en/clinical-trial-application-approval/"
+   }
+  }
+ },
+ {
+  "id": "program:neuropathic-pain",
+  "order": 1,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Dor neuropática",
+   "slug": "neuropathic-pain",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Dor",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "Neuropathic pain",
+   "slug": "neuropathic-pain",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Pain",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ },
+ {
+  "id": "program:musculoskeletal-pain",
+  "order": 2,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Dor musculoesquelética",
+   "slug": "musculoskeletal-pain",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Dor",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "Musculoskeletal pain",
+   "slug": "musculoskeletal-pain",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Pain",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ },
+ {
+  "id": "program:chemotherapy-induced-pain",
+  "order": 3,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Dor induzida por quimioterapia",
+   "slug": "chemotherapy-induced-pain",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Dor",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "Chemotherapy-induced pain",
+   "slug": "chemotherapy-induced-pain",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Pain",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ },
+ {
+  "id": "program:urology",
+  "order": 4,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Urologia",
+   "slug": "urology",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Urologia",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "Urology",
+   "slug": "urology",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Urology",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ },
+ {
+  "id": "program:cns-epilepsy",
+  "order": 5,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Sistema nervoso central / epilepsia",
+   "slug": "cns-epilepsy",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Neurologia",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "CNS / epilepsy",
+   "slug": "cns-epilepsy",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Neurology",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ },
+ {
+  "id": "program:infectious-diseases",
+  "order": 6,
+  "shared": {
+   "stage": "unconfirmed",
+   "review_status": "pending",
+   "source_url": "https://sea4us.pt/en/technology/#pipeline",
+   "source_date": "2026-10-10"
+  },
+  "pt": {
+   "title": "Doenças infecciosas",
+   "slug": "infectious-diseases",
+   "excerpt": "Área terapêutica apresentada no pipeline do site anterior. Estádio por confirmar com a Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>Esta área terapêutica constava do gráfico de pipeline do site anterior da Sea4Us, sem data nem fonte associadas. O estádio de desenvolvimento e os compostos envolvidos aguardam confirmação da empresa antes de serem publicados.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Área de investigação (pipeline do site anterior)",
+    "area": "Doenças infecciosas",
+    "legacy_url": "https://sea4us.pt/pt/technology/#pipeline"
+   }
+  },
+  "en": {
+   "title": "Infectious diseases",
+   "slug": "infectious-diseases",
+   "excerpt": "Therapeutic area shown in the previous website’s pipeline. Stage to be confirmed by Sea4Us.",
+   "content": "<!-- wp:paragraph --><p>This therapeutic area appeared in the pipeline chart of the previous Sea4Us website, with no date or source. Its development stage and the compounds involved are awaiting confirmation from the company before publication.</p><!-- /wp:paragraph -->",
+   "fields": {
+    "nature": "Research area (previous website pipeline)",
+    "area": "Infectious diseases",
+    "legacy_url": "https://sea4us.pt/en/technology/#pipeline"
+   }
+  }
+ }
+]
